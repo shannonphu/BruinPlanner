@@ -18,6 +18,8 @@ class Departments:
 			'Art History' : 'ART HIS',
 			'Arts and Architecture' : 'ART&ARC',
 			'Arts Education' : 'ARTS ED',
+			'Biostatistics' : 'BIOSTAT',
+			'Biomathematics' : 'BIOMATH',
 			'Computer Science' : 'COM SCI',
 			'Electrical Engineering' : 'EL ENGR',
 			'Mathematics' : 'MATH',
@@ -25,7 +27,9 @@ class Departments:
 			'Civil and Environmental Engineering' : 'C&EE',
 			'Civil Engineering' : 'C&EE',
 			'Program in Computing' : 'PIC',
-			'Statistics' : 'STATS'
+			'Statistics' : 'STATS',
+			'Honors Collegium' : 'HNRS',
+			'Life Sciences' : 'LIFESCI'
 		}
 
 	def get_abbreviation(self, department_name):
