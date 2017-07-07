@@ -17,10 +17,10 @@ value:
 		'title' : Operating Systems,
 		'description' : Lecture, four hours; laboratory, two hours; outside study......,
 		'unit' : 5,
-		'unit_type' : 'ABSOLUTE',
+		'unitType' : 'ABSOLUTE',
 		'departmentFullName' : 'Computer Science',
 		'departmentAbbreviation' : 'COM SCI,
-		'requisite_description' : 'courses 32, 33, 35L',
+		'prerequisiteDescription' : 'courses 32, 33, 35L',
 		'prerequisites' : [],
 		'corequisites' : []
 	}
@@ -65,22 +65,26 @@ class CourseScraper:
 			unit = int(unit)
 
 		# start finding requisites within course description
-		requisites = None
+		prerequisites = None
+		corequisites = None
 		if course_description is not None:
 			for sentence in course_description.split('. '):
-				if re.search(r"(.*[rR]equisite|[rR]equisites)?", sentence).group():
-					requisite_str = sentence[sentence.index(':')+2:]
-					requisites = self.parse_requisites(requisite_str)
-					break
+				if re.search(r"\s?([cC]orequisite|[cC]orequisites):", sentence):
+					corequisite_str = sentence[sentence.index(':')+2:]
+					corequisites = self.parse_requisites(corequisite_str)
+				elif re.search(r"\s?([rR]equisite|[rR]equisites):", sentence):
+					prerequisite_str = sentence[sentence.index(':')+2:]
+					prerequisites = self.parse_requisites(prerequisite_str)
 
 		return "%s %s" % (self.department_abbrev, course_number), {
 			'title' : course_title,
 			'description' : course_description,
 			'unit' : unit,
-			'unit_type' : unit_type,
+			'unitType' : unit_type,
 			'departmentFullName' : self.department_fullname,
 			'departmentAbbreviation' : self.department_abbrev,
-			'requisite_description' : requisites,
+			'prerequisiteDescription' : prerequisites,
+			'corequisiteDescription' : corequisites,
 			'prerequisites' : [],
 			'corequisites' : []
 		}
