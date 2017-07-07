@@ -1,0 +1,20 @@
+p Because the course requisites listed on registrar are not in an easily parse-able format due to being in sentence form, the `CourseScraper` parses out all relevant information and skips structuring requisites in its final form. Structuring the prerequisites and corequisites is up to the developer.
+
+### SCHEMA OF AN INDIVIDUAL COURSE:
+```
+key: <course abbreviation> <course number>
+	i.e. CS 111
+value:
+	i.e.
+	{
+		'title' : Operating Systems,
+		'description' : Lecture, four hours; laboratory, two hours; outside study......,
+		'unit' : 5,
+		'unit_type' : 'ABSOLUTE',
+		'departmentFullName' : 'Computer Science',
+		'departmentAbbreviation' : 'COM SCI,
+		'requisite_description' : 'courses 32, 33, 35L',
+		'prerequisites' : [],
+		'corequisites' : []
+	}
+```
