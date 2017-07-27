@@ -20,16 +20,22 @@ class Departments:
 			'Arts Education' : 'ARTS ED',
 			'Biostatistics' : 'BIOSTAT',
 			'Biomathematics' : 'BIOMATH',
+			'Chemistry and Biochemistry' : 'CHEM',
+			'Chemistry' : 'CHEM',
+			'Chemical Engineering' : 'CH ENGR',
 			'Computer Science' : 'COM SCI',
 			'Electrical Engineering' : 'EL ENGR',
 			'Mathematics' : 'MATH',
+			'Materials Science and Engineering' : 'MAT SCI',
+			'Materials Science' : 'MAT SCI',
 			'Mechanical and Aerospace Engineering' : 'MECH&AE',
 			'Civil and Environmental Engineering' : 'C&EE',
 			'Civil Engineering' : 'C&EE',
 			'Program in Computing' : 'PIC',
 			'Statistics' : 'STATS',
 			'Honors Collegium' : 'HNRS',
-			'Life Sciences' : 'LIFESCI'
+			'Life Sciences' : 'LIFESCI',
+			'Physics' : 'PHYSICS'
 		}
 
 	def get_abbreviation(self, department_name):
