@@ -52,7 +52,7 @@ class CourseScraper:
 		# get important course metadata
 		course_details = course_html.h3.string.split('. ')
 		course_number = course_details[0]
-		course_title = course_details[1]
+		course_title = course_details[1].rstrip()
 		unit, course_description = course_html.find_all('p')
 
 		course_description = course_description.string
@@ -65,16 +65,20 @@ class CourseScraper:
 			unit = int(unit)
 
 		# start finding requisites within course description
-		prerequisites = None
-		corequisites = None
+		prerequisiteDescription = None
+		corequisiteDescription = None
+		prerequisites = []
+		corequisites = []
 		if course_description is not None:
 			for sentence in course_description.split('. '):
 				if re.search(r"\s?([cC]orequisite|[cC]orequisites):", sentence):
 					corequisite_str = sentence[sentence.index(':')+2:]
-					corequisites = self.parse_requisites(corequisite_str)
+					corequisiteDescription = self.parse_requisites(corequisite_str)
+					corequisites = self.structure_single_requisite(corequisiteDescription)
 				elif re.search(r"\s?([rR]equisite|[rR]equisites):", sentence):
 					prerequisite_str = sentence[sentence.index(':')+2:]
-					prerequisites = self.parse_requisites(prerequisite_str)
+					prerequisiteDescription = self.parse_requisites(prerequisite_str)
+					prerequisites = self.structure_single_requisite(prerequisiteDescription)
 
 		return "%s %s" % (self.department_abbrev, course_number), {
 			'title' : course_title,
@@ -83,10 +87,10 @@ class CourseScraper:
 			'unitType' : unit_type,
 			'departmentFullName' : self.department_fullname,
 			'departmentAbbreviation' : self.department_abbrev,
-			'prerequisiteDescription' : prerequisites,
-			'corequisiteDescription' : corequisites,
-			'prerequisites' : [],
-			'corequisites' : []
+			'prerequisiteDescription' : prerequisiteDescription,
+			'corequisiteDescription' : corequisiteDescription,
+			'prerequisites' : prerequisites,
+			'corequisites' : corequisites
 		}
 
 	def parse_requisites(self, requisite_str):
@@ -98,3 +102,9 @@ class CourseScraper:
 				converted_requisite_str = converted_requisite_str.replace(department_name, self.departments.get_abbreviation(department_name))
 		
 		return converted_requisite_str
+
+	def structure_single_requisite(self, requisite_str):
+		if re.search(r"^course [A-Z]{0,2}[0-9]{0,3}[A-Z]{0,2}$", requisite_str):
+			return [[self.department_abbrev + " " + requisite_str.split()[-1]]]
+		else:
+			return []
