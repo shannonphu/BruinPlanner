@@ -5,7 +5,7 @@ import argparse
 
 def main():
 	parser = argparse.ArgumentParser(description='Parse a UCLA registrar site.')
-	parser.add_argument('-u','--url', help='URL for UCLA registrar site within quotes (i.e. \'http://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?SA=EL+ENGR&funsel=3\')', required=True)
+	parser.add_argument('-u','--url', help='URL for UCLA registrar site within quotes (i.e. \'http://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?SA=COM+SCI&funsel=3\')', required=True)
 	args = parser.parse_args()
 	url = args.url
 
