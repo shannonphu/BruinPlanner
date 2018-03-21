@@ -36,7 +36,7 @@ function getAllDegreeRequirements(cb) {
 
 export function getCoursesForMajor(major) {
       return (dispatch, getState) => {
-            dispatch(getAllDegreeRequirements())
+            return dispatch(getAllDegreeRequirements())
                   .then(() => {
                         let state = getState();
                         let majorRequirements = state.requirements[major];
