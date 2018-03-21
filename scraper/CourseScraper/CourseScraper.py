@@ -36,10 +36,15 @@ class CourseScraper:
 	def scrape_department_courses(self, html):
 		soup = BeautifulSoup(html, "html.parser")
 		department = soup.findAll("div", { "class" : "page-header" })[1].span.string.rstrip()
+		department = department.replace(";", "")		
 		m = re.search(r"^(.*?) \((.*?)\)", department)
-		self.department_fullname = m.group(1)
-		m = re.search(r"\(([A-Za-z\s]+)\)", department)
-		self.department_abbrev = m.group(1)
+		if not m:
+			self.department_fullname = department
+			self.department_abbrev = department
+		else:
+			self.department_fullname = m.group(1)
+			m = re.search(r"\(([A-Za-z&\s]+)\)", department)
+			self.department_abbrev = m.group(1)
 
 		courses = soup.findAll("div", { "class" : "media-body" })
 		res = {}
