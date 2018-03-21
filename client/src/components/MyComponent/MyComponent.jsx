@@ -4,7 +4,6 @@ class MyComponent extends Component {
     constructor(props) {
         super(props);
         this.state = {};
-        props.getAllDegreeRequirements();
         if (!("computer science" in props.courses)) {
             props.getCoursesFromDepartment("computer science");
         }
