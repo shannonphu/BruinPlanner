@@ -13,7 +13,8 @@ import Main from './Main/Main';
 function mapStateToProps(state) {
     console.log("Redux Store: " + JSON.stringify(state));
     return {
-        courses: state.courses
+        courses: state.courses,
+        requirements: state.requirements
     };
 }
 

@@ -10,3 +10,8 @@ export function getCoursesFromDepartment(department) {
     let uri = config.courses[department.toLowerCase()];
     return get(uri);
 }
+
+export function getAllDegreeRequirements() {
+    let uri = config.degreeRequirements;
+    return get(uri);
+}
