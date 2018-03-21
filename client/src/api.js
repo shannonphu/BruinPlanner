@@ -6,8 +6,8 @@ import config from './config';
  * @param {string} full department name (ie "computer science")
  * @returns {JSON} JSON for all courses in a particular department
  */
-export function getCoursesFromDepartment(department) {
-    let uri = config.courses[department.toLowerCase()];
+export function getCoursesFromDepartment(departmentAbbrev) {
+    let uri = config.courses[departmentAbbrev];
     return get(uri);
 }
 

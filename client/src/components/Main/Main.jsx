@@ -3,11 +3,6 @@ import { Nav, MyComponent } from '../'
 import { Route, Switch } from 'react-router-dom';
 
 class Main extends Component {
-    constructor(props) {
-        super(props);
-        props.getAllDegreeRequirements();        
-    }
-
     render() {
         return (
             <div>
