@@ -40,7 +40,7 @@ class CourseScraper:
 		m = re.search(r"^(.*?) \((.*?)\)", department)
 		if not m:
 			self.department_fullname = department
-			self.department_abbrev = department
+			self.department_abbrev = department.upper()
 		else:
 			self.department_fullname = m.group(1)
 			m = re.search(r"\(([A-Za-z&\s]+)\)", department)
