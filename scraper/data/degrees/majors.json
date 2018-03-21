@@ -26,7 +26,7 @@
 			"tags": ["lowerDiv"]
 		},
 		{
-			"courses": ["COM SCI M51A", "EL ENGR M16"],
+			"courses": ["COM SCI M51A", "EC ENGR M16"],
 			"count": 1,
 			"tags": ["lowerDiv"]
 		},
@@ -121,7 +121,7 @@
 			"tags": ["upperDiv"]
 		},
 		{
-			"courses": ["C&EE 110", "EL ENGR 131A", "MATH 170A", "STATS 100A"],
+			"courses": ["C&EE 110", "EC ENGR 131A", "MATH 170A", "STATS 100A"],
 			"count": 1,
 			"tags": ["upperDiv"]
 		},
