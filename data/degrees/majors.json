@@ -1,6 +1,134 @@
 {
-	"computer_science" : {
-		"lower" : [["COM SCI 1"], ["COM SCI 31"], ["COM SCI 32"], ["COM SCI 33"], ["COM SCI 35L"], ["COM SCI M51A", "EL ENGR M16"], ["MATH 31A"], ["MATH 31B"], ["MATH 32A"], ["MATH 32B"], ["MATH 33A"], ["MATH 33B"], ["MATH 61"], ["PHYSICS 1A"], ["PHYSICS 1B"], ["PHYSICS 1C"], ["PHYSICS 4AL", "PHYSICS 4BL"]],
-		"upper" : [["COM SCI 111"], ["COM SCI 118"], ["COM SCI 131"], ["COM SCI M151B"], ["COM SCI M152A"], ["COM SCI 180"], ["COM SCI 181"], ["C&EE 110", "EL ENGR 131A", "MATH 170A", "STATS 100A"], ["COM SCI 130", "COM SCI 152B"]]
-	}
+	"Computer Science": [
+		{
+			"courses": ["COM SCI 1"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI 31"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI 32"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI 33"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI 35L"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI M51A", "EL ENGR M16"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 31A"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 31B"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 32A"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 32B"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 33A"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 33B"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["MATH 61"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["PHYSICS 1A"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["PHYSICS 1B"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["PHYSICS 1C"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["PHYSICS 4AL", "PHYSICS 4BL"],
+			"count": 1,
+			"tags": ["lowerDiv"]
+		},
+		{
+			"courses": ["COM SCI 111"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI 118"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI 131"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI M151B"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI M152A"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI 180"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI 181"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["C&EE 110", "EL ENGR 131A", "MATH 170A", "STATS 100A"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		},
+		{
+			"courses": ["COM SCI 130", "COM SCI 152B"],
+			"count": 1,
+			"tags": ["upperDiv"]
+		}
+	]
 }
