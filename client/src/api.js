@@ -1,9 +1,12 @@
 import { get } from './utils/httpHelper';
+import config from './config';
 
 /**
  * @description Makes server request for username
- * @returns {JSON} username in JSON format
+ * @param {string} full department name (ie "computer science")
+ * @returns {JSON} JSON for all courses in a particular department
  */
-export function getUsername() {
-   return get("/user/name").then(res => res.json());
+export function getCoursesFromDepartment(department) {
+    let uri = config.courses[department.toLowerCase()];
+    return get(uri);
 }

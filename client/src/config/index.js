@@ -3,11 +3,10 @@ module.exports = (() => {
 	case 'development':
 	default:
 		return {
-			// Server settings
-			server: {
-				host: 'localhost',
-				port: 8080
-			}
+			"courses": {
+				"computer science": "https://raw.githubusercontent.com/shannonphu/BruinPlanner/master/scraper/data/courses/computer_science.json"
+			},
+			"degreeRequirements": "https://raw.githubusercontent.com/shannonphu/BruinPlanner/master/scraper/data/degrees/majors.json"
 		};
 	}
 })();
