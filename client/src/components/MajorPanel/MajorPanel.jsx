@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
-import { DragDropContext } from 'react-beautiful-dnd';
+import { DragDropContext, Droppable } from 'react-beautiful-dnd';
 import CourseList from '../CourseList/CourseList';
 
 // fake data generator
-const getItems = count =>
-    Array.from({ length: count }, (v, k) => k).map(k => ({
-        id: `item-${k}`,
-        content: `item ${k}`,
-    }));
+const getItems = (columns, countPerColumn) => {
+    let result = {};
+    for (let i = 0; i < columns; i++) {
+        result[`${i}`] = Array.from({ length: countPerColumn }, (v, k) => k).map(k => ({
+            id: `col-${i}-item-${k}`,
+            content: `col-${i}-item ${k}`,
+        }));
+    }
+    return result;
+};
 
 // a little function to help us with reordering the result
 const reorder = (list, startIndex, endIndex) => {
@@ -18,13 +23,56 @@ const reorder = (list, startIndex, endIndex) => {
     return result;
 };
 
+const reorderQuoteMap = ({ quoteMap, source, destination }) => {
+    const current = [...quoteMap[source.droppableId]];
+    const next = [...quoteMap[destination.droppableId]];
+    const target = current[source.index];
+
+    // moving to same list
+    if (source.droppableId === destination.droppableId) {
+        const reordered = reorder(
+            current,
+            source.index,
+            destination.index,
+        );
+        const result = {
+            ...quoteMap,
+            [source.droppableId]: reordered,
+        };
+        return {
+            quoteMap: result,
+            // not auto focusing in own list
+            autoFocusQuoteId: null,
+        };
+    }
+
+    // moving to different list
+
+    // remove from original
+    current.splice(source.index, 1);
+    // insert into next
+    next.splice(destination.index, 0, target);
+
+    const result = {
+        ...quoteMap,
+        [source.droppableId]: current,
+        [destination.droppableId]: next,
+    };
+
+    return {
+        quoteMap: result,
+        autoFocusQuoteId: target.id,
+    };
+};
+
+
 class MajorPanel extends Component {
     constructor(props) {
         super(props);
         this.state = {
             major: "computer science",
             requirements: [],
-            items: getItems(5)
+            columns: getItems(3, 5)
         };
         this.onDragEnd = this.onDragEnd.bind(this);
 
@@ -51,37 +99,41 @@ class MajorPanel extends Component {
         //     });
     }
 
-    onDragEnd(result) {
-        // dropped outside the list
+    onDragEnd = (result) => {
+        // dropped nowhere
         if (!result.destination) {
             return;
         }
 
-        const items = reorder(
-            this.state.items,
-            result.source.index,
-            result.destination.index
-        );
+        const source = result.source;
+        const destination = result.destination;
+
+        // did not move anywhere - can bail early
+        if (source.droppableId === destination.droppableId &&
+            source.index === destination.index) {
+            return;
+        }
+
+        const data = reorderQuoteMap({
+            quoteMap: this.state.columns,
+            source,
+            destination,
+        });
 
         this.setState({
-            items,
+            columns: data.quoteMap
         });
     }
 
     render() {
         return (
-            <div>
-                <DragDropContext onDragEnd={this.onDragEnd}>
-                    <CourseList items={this.state.items} />
-                </DragDropContext>
-
-                {/* <h3>{this.state.major}</h3>
+            <DragDropContext onDragEnd={this.onDragEnd}>
                 <div>
-                {this.state.requirements.map((requirement) => {
-                    return requirement.courses.map((course) => <p key={course.title}>{course.title}</p>);
-                })}
-                </div> */}
-            </div>
+                    {Object.keys(this.state.columns).map((key, i) => {
+                        return <CourseList key={i} title={key} items={this.state.columns[key]} />
+                    })}
+                </div>
+            </DragDropContext>
         )
     }
 }
