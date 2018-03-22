@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import { Droppable } from 'react-beautiful-dnd';
-import DraggableCourseTile from '../DraggableCourseTile/DraggableCourseTile';
+import { DraggableCourseTile } from '..';
 
 const getListStyle = isDraggingOver => ({
     background: isDraggingOver ? '#eee' : 'white',
     padding: 5,
     minHeight: 250,
     width: '100%',
-    transition: 'background-color 0.5s ease, opacity 0.5s ease'
+    transition: 'background-color 0.3s ease, opacity 0.3s ease'
 });
 
 class CourseList extends Component {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { DragDropContext } from 'react-beautiful-dnd';
-import CourseList from '../CourseList/CourseList';
+import { CourseList } from '..';
 import { Row, Col } from 'antd';
 
 // fake data generator
@@ -72,7 +72,7 @@ const years = 5;
 const quarters = ["Fall", "Winter", "Spring", "Summer"];
 const numCoursePerQuarter = 4;
 
-class MajorPanel extends Component {
+class InteractiveGrid extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -86,27 +86,27 @@ class MajorPanel extends Component {
 
         this.onDragEnd = this.onDragEnd.bind(this);
 
-        // props.getCoursesForMajor(this.state.major)
-        //     .then(() => {
-        //         return this.props.requirements[this.state.major].map(requirement => {
-        //             let courses = requirement.courses.map(courseTitle => {
-        //                 let courseTitleTokens = courseTitle.split(" ");
-        //                 let deptAbbrev = courseTitleTokens.slice(0, courseTitleTokens.length - 1).join(" ");
-        //                 let courseInfo = this.props.courses[deptAbbrev][courseTitle];
-        //                 // TODO: find a better solution for this 
-        //                 courseInfo["title"] = courseTitle;
-        //                 return courseInfo;
-        //             });
+        props.getCoursesForMajor(this.state.major)
+            .then(() => {
+                return this.props.requirements[this.state.major].map(requirement => {
+                    let courses = requirement.courses.map(courseTitle => {
+                        let courseTitleTokens = courseTitle.split(" ");
+                        let deptAbbrev = courseTitleTokens.slice(0, courseTitleTokens.length - 1).join(" ");
+                        let courseInfo = this.props.courses[deptAbbrev][courseTitle];
+                        // TODO: find a better solution for this 
+                        courseInfo["title"] = courseTitle;
+                        return courseInfo;
+                    });
 
-        //             return {
-        //                 ...requirement,
-        //                 courses
-        //             }
-        //         });
-        //     })
-        //     .then(requirements => {
-        //         this.setState({requirements});
-        //     });
+                    return {
+                        ...requirement,
+                        courses
+                    }
+                });
+            })
+            .then(requirements => {
+                this.setState({requirements});
+            });
     }
 
     onDragEnd = (result) => {
@@ -152,4 +152,4 @@ class MajorPanel extends Component {
     }
 }
 
-export default MajorPanel;
+export default InteractiveGrid;
