@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Nav, MajorPanel } from '../'
+import { Nav, InteractiveGrid } from '../'
 import { Route, Switch } from 'react-router-dom';
 
 class Main extends Component {
@@ -10,8 +10,8 @@ class Main extends Component {
 
                 {/*Alternate pages beneath navbar, based on current route*/}
                 <Switch>
-                    <Route exact path='/' render={() => <MajorPanel {...this.props} />} />
-                    <Route path='/test' render={() => <MajorPanel {...this.props} />} />
+                    <Route exact path='/' render={() => <InteractiveGrid {...this.props} />} />
+                    <Route path='/test' render={() => <InteractiveGrid {...this.props} />} />
                 </Switch>
             </div>
         )
