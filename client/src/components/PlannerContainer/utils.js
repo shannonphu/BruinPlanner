@@ -9,7 +9,6 @@ export const reorder = (list, startIndex, endIndex) => {
 export const reorderCourses = ({ courses, columns, source, destination }) => {
     let current = source.droppableId === "CourseRepository" ? courses : [...columns[source.droppableId]];
     let next = destination.droppableId === "CourseRepository" ? courses : [...columns[destination.droppableId]];
-    const target = current[source.index];
 
     let result = null;
 
@@ -35,20 +34,42 @@ export const reorderCourses = ({ courses, columns, source, destination }) => {
                 courses
             };
         }
-
-
     }
     // Tile was moved to different list
     else {
         // Remove from original and insert into next
+        const target = current[source.index];
+
         current.splice(source.index, 1);
         next.splice(destination.index, 0, target);
 
-        result = {
-            ...columns,
-            [source.droppableId]: current,
-            [destination.droppableId]: next,
-        };
+        if (source.droppableId === "CourseRepository") {
+            result = {
+                columns: {
+                    ...columns,
+                    [destination.droppableId]: next,
+                },
+                courses: current
+            }
+        }
+        else if (destination.droppableId === "CourseRepository") {
+            result = {
+                columns: {
+                    ...columns,
+                    [source.droppableId]: current,
+                },
+                courses: next
+            }
+        } else {
+            result = {
+                columns: {
+                    ...columns,
+                    [source.droppableId]: current,
+                    [destination.droppableId]: next,
+                },
+                courses
+            };
+        }
     }
 
     return result;
