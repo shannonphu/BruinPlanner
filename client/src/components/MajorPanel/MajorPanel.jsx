@@ -1,15 +1,18 @@
 import React, { Component } from 'react';
-import { DragDropContext, Droppable } from 'react-beautiful-dnd';
+import { DragDropContext } from 'react-beautiful-dnd';
 import CourseList from '../CourseList/CourseList';
+import { Row, Col } from 'antd';
 
 // fake data generator
-const getItems = (columns, countPerColumn) => {
+const getItems = (years, quarters, numCoursePerQuarter) => {
     let result = {};
-    for (let i = 0; i < columns; i++) {
-        result[`${i}`] = Array.from({ length: countPerColumn }, (v, k) => k).map(k => ({
-            id: `col-${i}-item-${k}`,
-            content: `col-${i}-item ${k}`,
-        }));
+    for (let year = 0; year < years; year++) {
+        for (let quarter of quarters) {
+            result[`${year}-${quarter}`] = Array.from({ length: numCoursePerQuarter }, (v, k) => k).map(k => ({
+                id: `year-${year}-quarter-${quarter}-${k}`,
+                content: `year-${year}-quarter-${quarter}-${k}`,
+            }));
+        }
     }
     return result;
 };
@@ -65,6 +68,9 @@ const reorderQuoteMap = ({ quoteMap, source, destination }) => {
     };
 };
 
+const years = 5;
+const quarters = ["Fall", "Winter", "Spring", "Summer"];
+const numCoursePerQuarter = 4;
 
 class MajorPanel extends Component {
     constructor(props) {
@@ -72,8 +78,12 @@ class MajorPanel extends Component {
         this.state = {
             major: "computer science",
             requirements: [],
-            columns: getItems(3, 5)
+            columns: getItems(years, quarters, numCoursePerQuarter),
+            years,
+            quarters,
+            numCoursePerQuarter
         };
+
         this.onDragEnd = this.onDragEnd.bind(this);
 
         // props.getCoursesForMajor(this.state.major)
@@ -129,9 +139,13 @@ class MajorPanel extends Component {
         return (
             <DragDropContext onDragEnd={this.onDragEnd}>
                 <div>
-                    {Object.keys(this.state.columns).map((key, i) => {
-                        return <CourseList key={i} title={key} items={this.state.columns[key]} />
-                    })}
+                    <Row>
+                        {Object.keys(this.state.columns).map((key, i) => {
+                            return <Col xs={6} key={`${key}`}>
+                                <CourseList key={i} title={key} items={this.state.columns[key]} />
+                            </Col>
+                        })}
+                    </Row>
                 </div>
             </DragDropContext>
         )

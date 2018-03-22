@@ -8,6 +8,7 @@ import { connect } from 'react-redux';
 import { withRouter } from 'react-router-dom';
 import * as actionCreators from '../actions/actionCreators';
 import Main from './Main/Main';
+import './App.css';
 
 // These are the properties we'll automatically pass to Main
 function mapStateToProps(state) {

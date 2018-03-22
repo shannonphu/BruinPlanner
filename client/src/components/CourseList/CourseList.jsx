@@ -3,10 +3,10 @@ import { Droppable } from 'react-beautiful-dnd';
 import DraggableCourseTile from '../DraggableCourseTile/DraggableCourseTile';
 
 const getListStyle = isDraggingOver => ({
-    background: isDraggingOver ? 'lightblue' : 'lightgrey',
+    background: isDraggingOver ? '#eee' : 'white',
     padding: 5,
     minHeight: 250,
-    width: 250,
+    width: '100%',
     transition: 'background-color 0.5s ease, opacity 0.5s ease'
 });
 
@@ -14,7 +14,7 @@ class CourseList extends Component {
     render() {
         return (
             <div>
-                <h1>{this.props.title}</h1>
+                <p>{this.props.title}</p>
                 <Droppable droppableId={this.props.title}>
                     {(provided, snapshot) => (
                         <div ref={provided.innerRef} style={getListStyle(snapshot.isDraggingOver)}>
