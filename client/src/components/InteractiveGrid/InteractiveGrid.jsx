@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { DragDropContext } from 'react-beautiful-dnd';
 import { CourseList } from '..';
 import { Row, Col } from 'antd';
-import { reorderCourses, getItems } from './utils';
+import { reorderCourses, getItems, shouldUpdateStateAfterDrag } from './utils';
 import { YEARS, QUARTERS, NUM_COURSES_PER_QUARTER } from './const';
 
 class InteractiveGrid extends Component {
@@ -41,29 +41,17 @@ class InteractiveGrid extends Component {
     }
 
     onDragEnd = (result) => {
-        // Tile was not dropped anywhere
-        if (!result.destination) {
-            return;
+        if (shouldUpdateStateAfterDrag(result)) {
+            const data = reorderCourses({
+                columns: this.state.columns,
+                source: result.source,
+                destination: result.destination
+            });
+
+            this.setState({
+                columns: data.columns
+            });
         }
-
-        const source = result.source;
-        const destination = result.destination;
-
-        // Time did not move anywhere - can bail early
-        if (source.droppableId === destination.droppableId &&
-            source.index === destination.index) {
-            return;
-        }
-
-        const data = reorderCourses({
-            columns: this.state.columns,
-            source,
-            destination
-        });
-
-        this.setState({
-            columns: data.columns
-        });
     }
 
     render() {

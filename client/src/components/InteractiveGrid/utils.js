@@ -56,3 +56,20 @@ export const getItems = (years, quarters, numCoursePerQuarter) => {
     }
     return result;
 };
+
+export const shouldUpdateStateAfterDrag = (drag) => {
+    const source = drag.source;
+    const destination = drag.destination;
+
+    // Tile was not dropped anywhere
+    if (!destination) {
+        return false;
+    }
+
+    // Time did not move anywhere - can bail early
+    if (source.droppableId === destination.droppableId && source.index === destination.index) {
+        return false;
+    }
+
+    return true;
+}
