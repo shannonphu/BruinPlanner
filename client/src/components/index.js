@@ -1,3 +1,6 @@
-export {default as App} from './App';
+export { default as App } from './App';
 export { default as Nav } from './Nav/Nav';
-export { default as MyComponent } from './MyComponent/MyComponent';
+export { default as InteractiveGrid } from './InteractiveGrid/InteractiveGrid';
+export { default as DraggableCourseTile } from './DraggableCourseTile/DraggableCourseTile';
+export { default as CourseList } from './CourseList/CourseList';
+export { default as CourseTile } from './CourseTile/CourseTile';
