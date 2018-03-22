@@ -45,13 +45,15 @@ export const reorderCourses = ({ columns, source, destination }) => {
 };
 
 export const getItems = (years, quarters, numCoursePerQuarter) => {
-    let result = {};
+    let result = [];
     for (let year = 0; year < years; year++) {
         for (let quarter of quarters) {
-            result[`${year}-${quarter}`] = Array.from({ length: numCoursePerQuarter }, (v, k) => k).map(k => ({
-                id: `year-${year}-quarter-${quarter}-${k}`,
-                content: `year-${year}-quarter-${quarter}-${k}`,
-            }));
+            for (let courseNum = 0; courseNum < numCoursePerQuarter; courseNum++) {
+                result.push({
+                    id: `year${year}-quarter${quarter}-course${courseNum}`,
+                    content: `year${year}-quarter${quarter}-course${courseNum}`,
+                });
+            }
         }
     }
     return result;

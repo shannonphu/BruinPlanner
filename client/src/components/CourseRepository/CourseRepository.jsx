@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Droppable } from 'react-beautiful-dnd';
+import { CourseList } from '..';
 
 class CourseRepository extends Component {
     render() {
@@ -8,7 +9,7 @@ class CourseRepository extends Component {
                 <Droppable droppableId="CourseRepository">
                     {(provided, snapshot) => (
                         <div ref={provided.innerRef}>
-                            <div>CourseRepository</div>
+                            <CourseList title="CourseRepository" items={this.props.courses} {...this.props} />
                             {provided.placeholder}
                         </div>
                     )}
