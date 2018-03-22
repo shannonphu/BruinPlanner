@@ -6,9 +6,9 @@ export const reorder = (list, startIndex, endIndex) => {
     return result;
 };
 
-export const reorderCourses = ({ columns, source, destination }) => {
-    const current = [...columns[source.droppableId]];
-    const next = [...columns[destination.droppableId]];
+export const reorderCourses = ({ courses, columns, source, destination }) => {
+    let current = source.droppableId === "CourseRepository" ? courses : [...columns[source.droppableId]];
+    let next = destination.droppableId === "CourseRepository" ? courses : [...columns[destination.droppableId]];
     const target = current[source.index];
 
     let result = null;
@@ -21,10 +21,22 @@ export const reorderCourses = ({ columns, source, destination }) => {
             destination.index,
         );
 
-        result = {
-            ...columns,
-            [source.droppableId]: reordered,
-        };
+        if (source.droppableId === "CourseRepository") {
+            result = {
+                columns,
+                courses: reordered
+            };
+        } else {
+            result = {
+                columns: {
+                    ...columns,
+                    [source.droppableId]: reordered,
+                },
+                courses
+            };
+        }
+
+
     }
     // Tile was moved to different list
     else {
@@ -39,9 +51,7 @@ export const reorderCourses = ({ columns, source, destination }) => {
         };
     }
 
-    return {
-        columns: result
-    };
+    return result;
 };
 
 export const getItems = (years, quarters, numCoursePerQuarter) => {
@@ -59,6 +69,17 @@ export const getItems = (years, quarters, numCoursePerQuarter) => {
     return result;
 };
 
+export const getGridColumns = (years, quarters) => {
+    let columns = {};
+    for (let year = 0; year < years; year++) {
+        for (let quarter of quarters) {
+            columns[`${year}-${quarter.toLowerCase()}`] = [];
+        }
+    }
+
+    return columns;
+}
+
 export const shouldUpdateStateAfterDrag = (drag) => {
     const source = drag.source;
     const destination = drag.destination;
@@ -68,7 +89,7 @@ export const shouldUpdateStateAfterDrag = (drag) => {
         return false;
     }
 
-    // Time did not move anywhere - can bail early
+    // Tile did not move anywhere - can bail early
     if (source.droppableId === destination.droppableId && source.index === destination.index) {
         return false;
     }

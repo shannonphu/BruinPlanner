@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { DragDropContext } from 'react-beautiful-dnd';
 import { Row, Col } from 'antd';
 import { CourseRepository, InteractiveGrid } from '..';
-import { reorderCourses, getItems, shouldUpdateStateAfterDrag } from './utils';
+import { reorderCourses, getItems, getGridColumns, shouldUpdateStateAfterDrag } from './utils';
 import { YEARS, QUARTERS, NUM_COURSES_PER_QUARTER } from './const';
 
 class PlannerContainer extends Component {
@@ -15,7 +15,7 @@ class PlannerContainer extends Component {
             years: YEARS,
             quarters: QUARTERS,
             numCoursePerQuarter: NUM_COURSES_PER_QUARTER,
-            columns: {}
+            columns: getGridColumns(YEARS, QUARTERS)
         };
 
         props.getCoursesForMajor(this.state.major)
@@ -43,14 +43,15 @@ class PlannerContainer extends Component {
 
     onDragEnd = (result) => {
         if (shouldUpdateStateAfterDrag(result)) {
-            const data = reorderCourses({
-                columns: this.state.courses,
+            const { columns, courses } = reorderCourses({
+                courses: this.state.courses,
+                columns: this.state.columns,
                 source: result.source,
                 destination: result.destination
             });
 
             this.setState({
-                courses: data.columns
+                courses, columns
             });
         }
     }
