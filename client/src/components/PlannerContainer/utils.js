@@ -72,13 +72,17 @@ export const moveWithinGrid = ({ courses, columns, source, destination }) => {
 
 export const getGridColumns = () => {
     let columns = {};
-    for (let year = 0; year < YEARS; year++) {
+    for (let year = 1; year <= YEARS; year++) {
         for (let quarter of QUARTERS) {
-            columns[`${year}-${quarter.toLowerCase()}`] = [];
+            columns[getListId(year, quarter)] = [];
         }
     }
 
     return columns;
+}
+
+export const getListId = (year, quarter) => {
+    return `${year}-${quarter.toLowerCase()}`;
 }
 
 export const shouldUpdateStateAfterDrag = (drag) => {
