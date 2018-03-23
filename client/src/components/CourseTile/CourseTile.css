@@ -12,6 +12,13 @@
     transition: background-color 0.3s ease, opacity 0.3s ease;
 }
 
+.CourseRepository .CourseTile:hover {
+    border-left: 3px solid rgba(0, 129, 168, 0.5);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    transition: border 0.3s ease;
+}
+
 .CourseTile .title {
     font-size: 11px;
     color: #aaa;
