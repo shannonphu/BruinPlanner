@@ -1,9 +1,15 @@
 .CourseList {
     width: 100%;
+    background-color: rgba(245, 255, 255, 0.7);
+    padding: 5px;
 }
 
 .CourseList-tilelist {
     min-height: 230px;
     max-height: 230px;
     overflow-y: scroll;
+}
+
+.InteractiveGrid .CourseList {
+    margin: 5px 0;
 }

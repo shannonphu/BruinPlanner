@@ -10,7 +10,7 @@ class Main extends Component {
             <Layout>
                 <Nav />
 
-                <Content style={{ marginTop: 64, backgroundColor: 'white' }}>
+                <Content style={{ marginTop: 64 }}>
                     <Switch>
                         <Route exact path='/' render={() => <PlannerContainer {...this.props} />} />
                         <Route path='/test' render={() => <PlannerContainer {...this.props} />} />
