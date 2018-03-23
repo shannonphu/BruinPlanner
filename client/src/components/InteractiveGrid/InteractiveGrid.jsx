@@ -7,7 +7,7 @@ class InteractiveGrid extends Component {
     render() {
         return (
             <div className="InteractiveGrid">
-                <Row gutter={8}>
+                <Row gutter={24}>
                     {Object.keys(this.props.columns).map((key, i) => {
                         let keyTokens = key.split("-");
                         let year = parseInt(keyTokens[0], 10);
