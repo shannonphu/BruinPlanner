@@ -23,3 +23,12 @@
     font-size: 11px;
     color: #aaa;
 }
+
+.InteractiveGrid .CourseTile {
+    padding: 10px 20px;
+    margin: 5px 0;
+}
+
+.InteractiveGrid .CourseTile .title {
+    display: none;
+}
