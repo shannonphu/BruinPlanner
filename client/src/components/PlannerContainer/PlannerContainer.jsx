@@ -45,7 +45,7 @@ class PlannerContainer extends Component {
             <DragDropContext onDragEnd={this.onDragEnd}>
                 <Row>
                     <Col xs={6}><CourseRepository {...this.props} courses={this.state.courses} /></Col>
-                    <Col xs={18}><InteractiveGrid columns={this.state.columns} {...this.props} /></Col>
+                    <Col xs={18}><InteractiveGrid {...this.props} columns={this.state.columns} /></Col>
                 </Row>
             </DragDropContext>
         )
