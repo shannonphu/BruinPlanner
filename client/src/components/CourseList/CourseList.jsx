@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Droppable } from 'react-beautiful-dnd';
-import { DraggableCourseTile, REPOSITORY_ID } from '..';
+import { DraggableCourseTile, CourseListHeader, REPOSITORY_ID } from '..';
 import { getListId } from '../PlannerContainer/utils';
 import './CourseList.css';
 
@@ -18,7 +18,7 @@ class CourseList extends Component {
         return (
             <div className="CourseList">
                 {this.props.year && this.props.quarter ? 
-                    <p>{`Year ${this.props.year} ${this.props.quarter}`}</p> : ''}
+                    <CourseListHeader year={this.props.year} quarter={this.props.quarter} /> : ''}
                 <Droppable droppableId={this.state.droppableId}>
                     {(provided, snapshot) => (
                         <div ref={provided.innerRef} className="CourseList-tilelist" style={getListStyle(snapshot.isDraggingOver)}>
