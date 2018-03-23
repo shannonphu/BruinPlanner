@@ -6,3 +6,4 @@ export { default as PlannerContainer } from './PlannerContainer/PlannerContainer
 export { default as DraggableCourseTile } from './DraggableCourseTile/DraggableCourseTile';
 export { default as CourseList } from './CourseList/CourseList';
 export { default as CourseTile } from './CourseTile/CourseTile';
+export { YEARS, QUARTERS, NUM_COURSES_PER_QUARTER, REPOSITORY_ID } from './PlannerContainer/const';

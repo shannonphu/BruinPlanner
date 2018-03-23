@@ -1,4 +1,6 @@
-export const reorder = (list, startIndex, endIndex) => {
+import { REPOSITORY_ID, YEARS, QUARTERS, NUM_COURSES_PER_QUARTER } from '..';
+
+const moveWithinList = (list, startIndex, endIndex) => {
     const result = Array.from(list);
     const [removed] = result.splice(startIndex, 1);
     result.splice(endIndex, 0, removed);
@@ -6,33 +8,26 @@ export const reorder = (list, startIndex, endIndex) => {
     return result;
 };
 
-export const reorderCourses = ({ courses, columns, source, destination }) => {
-    let current = source.droppableId === "CourseRepository" ? courses : [...columns[source.droppableId]];
-    let next = destination.droppableId === "CourseRepository" ? courses : [...columns[destination.droppableId]];
+export const moveWithinGrid = ({ courses, columns, source, destination }) => {
+    const sourceFromRepository = source.droppableId === REPOSITORY_ID;
+    const destinationToRepository = destination.droppableId === REPOSITORY_ID;
+
+    let current = sourceFromRepository ? courses : [...columns[source.droppableId]];
+    let next = destinationToRepository ? courses : [...columns[destination.droppableId]];
 
     let result = null;
 
     // Tile was moved within the same list
     if (source.droppableId === destination.droppableId) {
-        const reordered = reorder(
+        const reordered = moveWithinList(
             current,
             source.index,
             destination.index,
         );
 
-        if (source.droppableId === "CourseRepository") {
-            result = {
-                columns,
-                courses: reordered
-            };
-        } else {
-            result = {
-                columns: {
-                    ...columns,
-                    [source.droppableId]: reordered,
-                },
-                courses
-            };
+        result = {
+            courses: sourceFromRepository ? reordered : courses,
+            columns: sourceFromRepository ? columns : { ...columns, [source.droppableId]: reordered }
         }
     }
     // Tile was moved to different list
@@ -43,7 +38,7 @@ export const reorderCourses = ({ courses, columns, source, destination }) => {
         current.splice(source.index, 1);
         next.splice(destination.index, 0, target);
 
-        if (source.droppableId === "CourseRepository") {
+        if (sourceFromRepository) {
             result = {
                 columns: {
                     ...columns,
@@ -52,7 +47,7 @@ export const reorderCourses = ({ courses, columns, source, destination }) => {
                 courses: current
             }
         }
-        else if (destination.droppableId === "CourseRepository") {
+        else if (destinationToRepository) {
             result = {
                 columns: {
                     ...columns,
@@ -75,11 +70,11 @@ export const reorderCourses = ({ courses, columns, source, destination }) => {
     return result;
 };
 
-export const getItems = (years, quarters, numCoursePerQuarter) => {
+export const getItems = () => {
     let result = [];
-    for (let year = 0; year < years; year++) {
-        for (let quarter of quarters) {
-            for (let courseNum = 0; courseNum < numCoursePerQuarter; courseNum++) {
+    for (let year = 0; year < YEARS; year++) {
+        for (let quarter of QUARTERS) {
+            for (let courseNum = 0; courseNum < NUM_COURSES_PER_QUARTER; courseNum++) {
                 result.push({
                     id: `year${year}-quarter${quarter}-course${courseNum}`,
                     content: `year${year}-quarter${quarter}-course${courseNum}`,
@@ -90,10 +85,10 @@ export const getItems = (years, quarters, numCoursePerQuarter) => {
     return result;
 };
 
-export const getGridColumns = (years, quarters) => {
+export const getGridColumns = () => {
     let columns = {};
-    for (let year = 0; year < years; year++) {
-        for (let quarter of quarters) {
+    for (let year = 0; year < YEARS; year++) {
+        for (let quarter of QUARTERS) {
             columns[`${year}-${quarter.toLowerCase()}`] = [];
         }
     }
