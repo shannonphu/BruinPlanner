@@ -12,7 +12,7 @@ import './App.css';
 
 // These are the properties we'll automatically pass to Main
 function mapStateToProps(state) {
-    console.log("Redux Store: " + JSON.stringify(state));
+    // console.log("Redux Store: " + JSON.stringify(state));
     return {
         courses: state.courses,
         requirements: state.requirements

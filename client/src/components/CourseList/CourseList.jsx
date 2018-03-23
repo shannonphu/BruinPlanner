@@ -14,8 +14,9 @@ class CourseList extends Component {
     render() {
         return (
             <div>
-                <p>{this.props.title}</p>
-                <Droppable droppableId={this.props.title}>
+                {this.props.year && this.props.quarter ? 
+                    <p>{`Year ${this.props.year} ${this.props.quarter}`}</p> : ''}
+                <Droppable droppableId={`year${this.props.year}-quarter${this.props.quarter}`}>
                     {(provided, snapshot) => (
                         <div ref={provided.innerRef} style={getListStyle(snapshot.isDraggingOver)}>
                             {this.props.items.map((item, index) => (
