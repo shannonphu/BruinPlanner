@@ -1,0 +1,13 @@
+.CourseRepository {
+    padding: 5px 10px;
+    border-right: 1px solid #eee;
+}
+
+.CourseRepository .CourseList {
+    background: none;
+}
+
+.CourseRepository .CourseList-tilelist {
+    min-height: 100vh;
+    overflow-y: scroll;
+}
