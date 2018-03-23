@@ -3,16 +3,6 @@ import { Draggable } from 'react-beautiful-dnd';
 import CourseTile from '../CourseTile/CourseTile';
 
 const getItemStyle = (isDragging, draggableStyle) => ({
-    // some basic styles to make the items look a bit nicer
-    userSelect: 'none',
-    padding: 10,
-    margin: `0 0 5px 0`,
-
-    // change background colour if dragging
-    background: isDragging ? 'lightgrey' : 'lightblue',
-    transition: 'background-color 0.5s ease, opacity 0.5s ease',
-
-    // styles we need to apply on draggables
     ...draggableStyle,
 });
 
@@ -31,7 +21,7 @@ class DraggableCourseTile extends Component {
                                 provided.draggableProps.style
                             )}
                         >
-                            <CourseTile title={this.props.item.id} />
+                            <CourseTile course={this.props.item} />
                         </div>
                         {provided.placeholder}
                     </div>
