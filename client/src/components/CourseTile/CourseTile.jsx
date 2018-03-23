@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Card, Grid } from 'antd';
 import './CourseTile.css';
 
 class CourseTile extends Component {

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Droppable } from 'react-beautiful-dnd';
-import { Card } from 'antd';
 import { CourseList } from '..';
 import { REPOSITORY_ID } from '..';
 import './CourseRepository.css';
