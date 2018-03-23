@@ -31,7 +31,7 @@ class DraggableCourseTile extends Component {
                                 provided.draggableProps.style
                             )}
                         >
-                            <CourseTile title={this.props.item.content} />
+                            <CourseTile title={this.props.item.id} />
                         </div>
                         {provided.placeholder}
                     </div>

@@ -1,4 +1,4 @@
-import { REPOSITORY_ID, YEARS, QUARTERS, NUM_COURSES_PER_QUARTER } from '..';
+import { REPOSITORY_ID, YEARS, QUARTERS } from '..';
 
 const moveWithinList = (list, startIndex, endIndex) => {
     const result = Array.from(list);
@@ -67,21 +67,6 @@ export const moveWithinGrid = ({ courses, columns, source, destination }) => {
         }
     }
 
-    return result;
-};
-
-export const getItems = () => {
-    let result = [];
-    for (let year = 0; year < YEARS; year++) {
-        for (let quarter of QUARTERS) {
-            for (let courseNum = 0; courseNum < NUM_COURSES_PER_QUARTER; courseNum++) {
-                result.push({
-                    id: `year${year}-quarter${quarter}-course${courseNum}`,
-                    content: `year${year}-quarter${quarter}-course${courseNum}`,
-                });
-            }
-        }
-    }
     return result;
 };
 

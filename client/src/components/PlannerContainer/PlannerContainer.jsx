@@ -2,38 +2,26 @@ import React, { Component } from 'react';
 import { DragDropContext } from 'react-beautiful-dnd';
 import { Row, Col } from 'antd';
 import { CourseRepository, InteractiveGrid } from '..';
-import { moveWithinGrid, getItems, getGridColumns, shouldUpdateStateAfterDrag } from './utils';
+import { moveWithinGrid, getGridColumns, shouldUpdateStateAfterDrag } from './utils';
 
 class PlannerContainer extends Component {
     constructor(props) {
         super(props);
         this.state = {
             major: "computer science",
-            requirements: [],
-            courses: getItems(),
+            courses: [],
             columns: getGridColumns()
         };
 
         props.getCoursesForMajor(this.state.major)
-            .then(() => {
-                return this.props.requirements[this.state.major].map(requirement => {
-                    let courses = requirement.courses.map(courseTitle => {
-                        let courseTitleTokens = courseTitle.split(" ");
-                        let deptAbbrev = courseTitleTokens.slice(0, courseTitleTokens.length - 1).join(" ");
-                        let courseInfo = this.props.courses[deptAbbrev][courseTitle];
-                        // TODO: find a better solution for this 
-                        courseInfo["title"] = courseTitle;
-                        return courseInfo;
-                    });
-
-                    return {
-                        ...requirement,
-                        courses
-                    }
-                });
-            })
             .then(requirements => {
-                this.setState({ requirements });
+                let courses = requirements.map((requirement, i) => {
+                    return requirement.courses
+                }).reduce((pre, curr) => {
+                    return pre.concat(curr);
+                });
+
+                this.setState({ courses });
             });
     }
 
