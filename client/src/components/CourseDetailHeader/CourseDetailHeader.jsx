@@ -6,8 +6,8 @@ class CourseDetailHeader extends Component {
         return (
             <div className="CourseDetailHeader">
                 <Row>
-                    <Col xs={18}>{this.props.course.id}</Col>
-                    <Col xs={6}>Units: {this.props.course.unit}</Col>
+                    <Col xs={20}>{this.props.course.id}</Col>
+                    <Col xs={4}>Units: {this.props.course.unit}</Col>
                 </Row>
                 <div>{this.props.course.title}</div>
             </div>

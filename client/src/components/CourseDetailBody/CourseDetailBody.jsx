@@ -4,12 +4,17 @@ class CourseDetailBody extends Component {
     render() {
         return (
             <div className="CourseDetailBody">
-                <p>Description:</p>
+                <b>Description:</b>
                 <p>{this.props.course.description}</p>
                 {this.props.course.prerequisiteDescription ?
                     <div>
-                        <p>Prerequisites:</p>
+                        <b>Prerequisites:</b>
                         <p>{this.props.course.prerequisiteDescription}</p>
+                    </div> : ''}
+                {this.props.course.corequisiteDescription ?
+                    <div>
+                        <b>Corequisites:</b>
+                        <p>{this.props.course.corequisiteDescription}</p>
                     </div> : ''}
             </div>
         )
