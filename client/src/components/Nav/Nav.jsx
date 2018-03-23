@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Layout, Menu } from 'antd';
-import './Nav.css';
 const { Header } = Layout;
 
 class Nav extends Component {
