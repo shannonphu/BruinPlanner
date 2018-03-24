@@ -1,134 +1,1693 @@
 {
-	"computer science": [
-		{
-			"courses": ["COM SCI 1"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI 31"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI 32"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI 33"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI 35L"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI M51A", "EC ENGR M16"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 31A"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 31B"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 32A"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 32B"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 33A"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 33B"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["MATH 61"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["PHYSICS 1A"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["PHYSICS 1B"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["PHYSICS 1C"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["PHYSICS 4AL", "PHYSICS 4BL"],
-			"count": 1,
-			"tags": ["lowerDiv"]
-		},
-		{
-			"courses": ["COM SCI 111"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI 118"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI 131"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI M151B"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI M152A"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI 180"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI 181"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["C&EE 110", "EC ENGR 131A", "MATH 170A", "STATS 100A"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		},
-		{
-			"courses": ["COM SCI 130", "COM SCI 152B"],
-			"count": 1,
-			"tags": ["upperDiv"]
-		}
-	]
+    "aerospace engineering": [
+        {
+            "courses": [
+                "CHEM 20A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20L"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE M20",
+                "COM SCI 31"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 82"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4AL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4BL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 101"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 102"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 103"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 105A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 107"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 150A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 105B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE C150P"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE C150R",
+                "MECH&AE 161A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 154S"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 157A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 157S"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 166A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 171A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 100"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "departmental breadth"
+            ]
+        },
+        {
+            "courses": [
+                "MAT SCI 104"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "departmental breadth"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 154A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 154B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 94",
+                "MECH&AE 105D",
+                "MECH&AE 131A",
+                "MECH&AE C132A",
+                "MECH&AE 133A",
+                "MECH&AE 135",
+                "MECH&AE 136",
+                "MECH&AE C137",
+                "MECH&AE CM140",
+                "MECH&AE CM141",
+                "MECH&AE 150C",
+                "MECH&AE C150G",
+                "MECH&AE C150R",
+                "MECH&AE 153A",
+                "MECH&AE 155",
+                "MECH&AE C156B",
+                "MECH&AE 161A",
+                "MECH&AE 161B",
+                "MECH&AE 161C",
+                "MECH&AE 161D",
+                "MECH&AE 162A",
+                "MECH&AE 166C",
+                "MECH&AE M168",
+                "MECH&AE 169A",
+                "MECH&AE 171B",
+                "MECH&AE 172",
+                "MECH&AE 174",
+                "MECH&AE C175A",
+                "MECH&AE 181A",
+                "MECH&AE 182B",
+                "MECH&AE 182C",
+                "MECH&AE 183A",
+                "MECH&AE M183B",
+                "MECH&AE C183C",
+                "MECH&AE 184",
+                "MECH&AE 185",
+                "MECH&AE C186",
+                "MECH&AE C187L"
+            ],
+            "count": 2,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                ""
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                ""
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+    ],
+    "african american studies": [],
+    "african and middle eastern studies": [],
+    "american indian studies": [],
+    "american literature and culture": [],
+    "ancient near east and egyptology": [],
+    "anthropology": [],
+    "applied linguistics": [],
+    "applied mathematics": [],
+    "arabic": [],
+    "architectural studies": [],
+    "art": [],
+    "art history": [],
+    "asian american studies": [],
+    "asian humanities": [],
+    "asian languages and linguistics": [],
+    "asian religions": [],
+    "asian studies": [],
+    "astrophysics": [],
+    "atmospheric, oceanic, and environmental sciences": [],
+    "bioengineering": [
+        {
+            "courses": [
+                "BIOENGR 10"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20L"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv",
+                "lab"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 30A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 30AL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv",
+                "lab"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 30B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "C&EE M20",
+                "COM SCI 31",
+                "MECH&AE M20"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4AL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4BL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "LIFESCI 2",
+                "LIFESCI 7A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "LIFESCI 3",
+                "LIFESCI 7C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 100"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 110"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 120"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 165EW",
+                "ENGR 183EW",
+                "ENGR 183EW"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "writing"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 167L"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 176"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 180"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 100"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 177A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR 177B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR C101",
+                "BIOENGR CM102",
+                "BIOENGR CM103",
+                "BIOENGR C104",
+                "BIOENGR C105",
+                "BIOENGR C106",
+                "BIOENGR C131",
+                "BIOENGR CM140",
+                "BIOENGR CM145",
+                "BIOENGR C147",
+                "BIOENGR M153",
+                "BIOENGR C155",
+                "BIOENGR C170",
+                "BIOENGR C171",
+                "BIOENGR CM178",
+                "BIOENGR C179",
+                "BIOENGR C180L",
+                "BIOENGR C183",
+                "BIOENGR C185",
+                "BIOENGR CM186",
+                "BIOENGR CM187",
+                "BIOENGR 199"
+            ],
+            "count": 5,
+            "tags": [
+                "upperDiv",
+                "elective"
+            ]
+        },
+        {
+            "courses": [
+                "BIOENGR C101",
+                "BIOENGR C106",
+                "BIOENGR C131",
+                "BIOENGR C155",
+                "BIOENGR M260",
+            ],
+            "count": 2,
+            "tags": [
+                "upperDiv",
+                "elective",
+                "mayNeedPetition"
+            ]
+        }
+    ],
+    "biochemistry": [],
+    "biology": [],
+    "biophysics": [],
+    "business administration": [],
+    "business economics": [],
+    "central and east european languages and cultures": [],
+    "chemical engineering": [],
+    "chemistry": [],
+    "chemistry, general": [],
+    "chemistry/materials science": [],
+    "chicana and chicano studies": [],
+    "chinese": [],
+    "civil engineering": [],
+    "classical civilization": [],
+    "cognitive science": [],
+    "communication studies": [],
+    "comparative literature": [],
+    "computational and systems biology": [],
+    "computer science": [
+        {
+            "courses": [
+                "COM SCI 1"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 31"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 32"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 33"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 35L"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI M51A",
+                "EC ENGR M16"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 61"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4AL",
+                "PHYSICS 4BL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 111"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 118"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 131"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI M151B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI M152A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 180"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 181"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "C&EE 110",
+                "EC ENGR 131A",
+                "MATH 170A",
+                "STATS 100A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 130",
+                "COM SCI 152B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        }
+    ],
+    "computer science and engineering": [],
+    "dance": [],
+    "design|media arts": [],
+    "earth and environmental science": [],
+    "ecology, behavior, and evolution": [],
+    "economics": [],
+    "electrical engineering": [
+        {
+            "courses": [
+                "CHEM 20A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 31"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 32"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4AL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4BL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 2"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 3"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 10"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 11L"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR M16",
+                "COM SCI M51A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 101A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 102"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 110"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 111L"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 113"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 131A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 33",
+                "EC ENGR 101B",
+                "EC ENGR 115A",
+                "EC ENGR 121B",
+                "EC ENGR 132A",
+                "EC ENGR 133A",
+                "EC ENGR 141",
+                "EC ENGR 170A"
+            ],
+            "count": 6,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [],
+            "count": 4,
+            "tags": [
+                "upperDiv",
+                "elective"
+            ]
+        },
+        {
+            "courses": ["EC ENGR 163DA"],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": ["EC ENGR 163DB"],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+    ],
+    "engineering geology": [],
+    "english": [],
+    "environmental science": [],
+    "ethnomusicology": [],
+    "european studies": [],
+    "film and television": [],
+    "financial actuarial mathematics": [],
+    "french": [],
+    "french and linguistics": [],
+    "gender studies": [],
+    "geography": [],
+    "geography/environmental studies": [],
+    "geology": [],
+    "geophysics": [],
+    "german": [],
+    "global studies": [],
+    "greek": [],
+    "greek and latin": [],
+    "history": [],
+    "human biology and society": [],
+    "international development studies": [],
+    "iranian studies": [],
+    "italian": [],
+    "italian and special fields": [],
+    "japanese": [],
+    "jewish studies": [],
+    "korean": [],
+    "latin": [],
+    "latin american studies": [],
+    "linguistics": [],
+    "linguistics and anthropology": [],
+    "linguistics and asian languages and cultures": [],
+    "linguistics and computer science": [],
+    "linguistics and english": [],
+    "linguistics and french": [],
+    "linguistics and italian": [],
+    "linguistics and philosophy": [],
+    "linguistics and psychology": [],
+    "linguistics and scandinavian languages": [],
+    "linguistics and spanish": [],
+    "marine biology": [],
+    "materials engineering": [],
+    "mathematics": [],
+    "mathematics for teaching": [],
+    "mathematics/applied science": [],
+    "mathematics of computation": [],
+    "mathematics/atmospheric and oceanic sciences": [],
+    "mathematics/economics": [],
+    "mechanical engineering": [
+        {
+            "courses": [
+                "CHEM 20A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM 20L"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv",
+                "lab"
+            ]
+        },
+        {
+            "courses": [
+                "COM SCI 31",
+                "MECH&AE M20"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 31B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 32B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MATH 33A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1A"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1B"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 1C"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4AL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "PHYSICS 4BL"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 82"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 94"
+            ],
+            "count": 1,
+            "tags": [
+                "lowerDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 110L"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 101"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 102"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 103"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 105A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 105D"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 107"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 131A",
+                "MECH&AE 133A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 156A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 157"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 162A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 171A"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 183A",
+                "MECH&AE M183B"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv"
+            ]
+        },
+        {
+            "courses": [
+                "EC ENGR 100"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "departmental breadth"
+            ]
+        },
+        {
+            "courses": [
+                "MATSCI 104"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "departmental breadth"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 162D"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 162E"
+            ],
+            "count": 1,
+            "tags": [
+                "upperDiv",
+                "capstone"
+            ]
+        },
+        {
+            "courses": [
+                "MECH&AE 131A",
+                "MECH&AE C132A",
+                "MECH&AE 133A",
+                "MECH&AE 135",
+                "MECH&AE 136",
+                "MECH&AE C137",
+                "MECH&AE CM140",
+                "MECH&AE CM141",
+                "MECH&AE 150A",
+                "MECH&AE 150B",
+                "MECH&AE 150C",
+                "MECH&AE C150G",
+                "MECH&AE C150P",
+                "MECH&AE C150R",
+                "MECH&AE 153A",
+                "MECH&AE 154S",
+                "MECH&AE 155",
+                "MECH&AE C156B",
+                "MECH&AE 157A",
+                "MECH&AE 161A",
+                "MECH&AE 161B",
+                "MECH&AE 161C",
+                "MECH&AE 161D",
+                "MECH&AE 166C",
+                "MECH&AE M168",
+                "MECH&AE 169A",
+                "MECH&AE 171A",
+                "MECH&AE 172",
+                "MECH&AE 174",
+                "MECH&AE C175A",
+                "MECH&AE 181A",
+                "MECH&AE 182B",
+                "MECH&AE 182C",
+                "MECH&AE 183A",
+                "MECH&AE M183B",
+                "MECH&AE C183C",
+                "MECH&AE 184",
+                "MECH&AE 185",
+                "MECH&AE C186",
+                "MECH&AE C187L"
+            ],
+            "count": 2,
+            "tags": [
+                "upperDiv",
+                "elective"
+            ]
+        }
+    ],
+    "microbiology, immunology, and molecular genetics": [],
+    "middle eastern studies": [],
+    "molecular, cell, and developmental biology": [],
+    "music": [],
+    "music history": [],
+    "neuroscience": [],
+    "nordic studies": [],
+    "nursing": [],
+    "philosophy": [],
+    "physics": [],
+    "physiological science": [],
+    "political science": [],
+    "portuguese": [],
+    "psychobiology": [],
+    "psychology": [],
+    "religion, study of": [],
+    "russian language and literature": [],
+    "russian studies": [],
+    "scandinavian languages and cultures": [],
+    "sociology": [],
+    "spanish": [],
+    "spanish and community and culture": [],
+    "spanish and linguistics": [],
+    "spanish and portuguese": [],
+    "statistics": [],
+    "theater": [],
+    "world arts and cultures": []
 }
