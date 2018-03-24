@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Autosuggest from 'react-autosuggest';
 import { Row, Col, Icon } from 'antd';
+import { MajorCarousel } from '..';
 import MAJORS from './majors';
 import './MajorTypeahead.css';
 
@@ -71,8 +72,9 @@ class MajorTypeahead extends Component {
 
         return (               
             <Row type="flex" justify="center" align="middle" className="typeahead-row">
-                <Col xs={6} className="question">
-                    <p>What is your major?</p>
+                <Col xs={6}>
+                    <p className="question">What is your major?</p>
+                    <MajorCarousel />
                 </Col>
                 <Col xs={18}>
                     <Col xs={1}><Icon type="search" className="icon" /></Col>
