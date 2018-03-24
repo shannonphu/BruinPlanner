@@ -366,7 +366,7 @@
             "tags": [
                 "upperDiv"
             ]
-        },
+        }
     ],
     "african american studies": [],
     "african and middle eastern studies": [],
@@ -715,7 +715,7 @@
                 "BIOENGR C106",
                 "BIOENGR C131",
                 "BIOENGR C155",
-                "BIOENGR M260",
+                "BIOENGR M260"
             ],
             "count": 2,
             "tags": [
@@ -1257,7 +1257,7 @@
                 "upperDiv",
                 "capstone"
             ]
-        },
+        }
     ],
     "engineering geology": [],
     "english": [],
