@@ -7,7 +7,7 @@ import config from './config';
  * @returns {JSON} JSON for all courses in a particular department
  */
 export function getCoursesFromDepartment(departmentAbbrev) {
-    let uri = config.courses[departmentAbbrev];
+    let uri = `${config.DEPT_COURSE_BASE_URL}${departmentAbbrev}.json`;
     return get(uri);
 }
 
