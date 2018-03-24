@@ -299,7 +299,6 @@
                 "MECH&AE 94",
                 "MECH&AE 105D",
                 "MECH&AE 131A",
-                "MECH&AE C132A",
                 "MECH&AE 133A",
                 "MECH&AE 135",
                 "MECH&AE 136",
@@ -1607,7 +1606,6 @@
         {
             "courses": [
                 "MECH&AE 131A",
-                "MECH&AE C132A",
                 "MECH&AE 133A",
                 "MECH&AE 135",
                 "MECH&AE 136",
