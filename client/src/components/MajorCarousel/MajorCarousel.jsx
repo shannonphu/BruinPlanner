@@ -5,7 +5,16 @@ import './MajorCarousel.css';
 import MAJORS from '../MajorTypeahead/majors';
 
 class MajorCarousel extends Component {
+    shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            let j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+    }
+
     render() {
+        this.shuffleArray(MAJORS);
+
         const settings = {
             autoplay: true,
             arrows: false,
