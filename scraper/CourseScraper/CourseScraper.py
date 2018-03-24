@@ -43,7 +43,7 @@ class CourseScraper:
 			self.department_abbrev = department.upper()
 		else:
 			self.department_fullname = m.group(1)
-			m = re.search(r"\(([A-Za-z&\s]+)\)", department)
+			m = re.search(r"\(([A-Za-z&\-\s]+)\)", department)
 			self.department_abbrev = m.group(1)
 
 		courses = soup.findAll("div", { "class" : "media-body" })
@@ -51,7 +51,7 @@ class CourseScraper:
 		for course in courses:
 			course, course_details = self.parse_course(course)
 			res[course] = course_details
-		return self.department_fullname, res
+		return self.department_abbrev, res
 
 	def parse_course(self, course_html):
 		# get important course metadata

@@ -23,15 +23,15 @@ def main():
 	for link in urls:
 		html = fetcher.get(link)
 		try:
-			department_name, department_courses = scraper.scrape_department_courses(html)
+			department_abbrev, department_courses = scraper.scrape_department_courses(html)
 		except:
-			print "*** Error trying to scrape " + department_name + " ***"
+			print "*** Error trying to scrape " + department_abbrev + " ***"
 			continue
 
 		try:
-			writer.writeJSONToFile(department_courses, 'data/courses/' + department_name.lower().replace(' ', '_').replace('/', '-') + '.json')
+			writer.writeJSONToFile(department_courses, 'data/courses/' + department_abbrev + '.json')
 		except:
-			print "*** Error trying to write " + department_name + " ***"
+			print "*** Error trying to write " + department_abbrev + " ***"
 			continue
 
 
