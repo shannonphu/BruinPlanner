@@ -2196,10 +2196,10 @@
         "corequisites": [], 
         "departmentAbbreviation": "PHYSICS", 
         "departmentFullName": "Physics", 
-        "description": null, 
+        "description": "(Same as Chemistry M120.) Laboratory, four hours. P/NP or letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Biophysics Laboratory", 
+        "title": "Soft Matter Laboratory", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
