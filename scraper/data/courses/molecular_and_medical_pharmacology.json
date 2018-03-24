@@ -1,0 +1,474 @@
+{
+    "M PHARM 110B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, four hours (seven weeks); discussion, four hours (three weeks). Requisites: course M110A, Life Sciences 2, 3. Introduction to pharmacology for undergraduate students, emphasizing principles underlying mechanism of action of drugs, their development, control, rational use, and misuse. Letter grading.", 
+        "prerequisiteDescription": "course M110A, LIFESCI 2, 3", 
+        "prerequisites": [], 
+        "title": "Drugs: Mechanisms, Uses, and Misuse", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 194": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, two hours; discussion, two hours. Limited to Cross-Disciplinary Scholars in Science and Technology (CSST) students. Communication and collaboration skills, specifically in interdisciplinary settings and introduction to research project design and proposal process. Students submit written CSST project proposal and give oral presentations of scientific proposals. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Group Seminars and Discussions: Cross-Disciplinary Scholars in Science and Technology Project", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Special studies in pharmacology, including either reading assignments or laboratory work or both, designed for proper training of students. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Molecular and Medical Pharmacology", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM 200": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Laboratory, eight to 20 hours. Individual projects in laboratory research for beginning graduate students. At end of each term students submit to their supervisor reports covering research performed. Pharmacology graduate students must take this course three times during their first two years in residence. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Laboratory Research", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 203": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, zero to two hours; discussion, zero to two hours. Requisites: courses 211A, 211B. Series of lectures and case presentations designed to illustrate principles of pharmacology in a clinical context, and solution of practical therapeutics by reference to pharmacokinetics, mechanisms of action, and disposition of drugs. S/U or letter grading.", 
+        "prerequisiteDescription": "courses 211A, 211B", 
+        "prerequisites": [], 
+        "title": "Medical Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 211A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, three to eight hours; discussion, zero to nine hours. Preparation: mammalian physiology, biochemistry. Systematic consideration of principles governing interaction between drugs and biological systems and of principal groups of drugs used in therapeutics. Particular attention on modes of action, pharmacokinetics, and disposition to provide a scientific basis for their rational use in medicine. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Principles of Pharmacology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 211B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, three to eight hours; discussion, zero to nine hours. Preparation: mammalian physiology, biochemistry. Systematic consideration of principles governing interaction between drugs and biological systems and of principal groups of drugs used in therapeutics. Particular attention on modes of action, pharmacokinetics, and disposition to provide a scientific basis for their rational use in medicine. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Principles of Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 212A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Preparation: mammalian physiology, biochemistry. Supplementation of topics covered in course 203. Primarily for graduate students. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Graduate Commentary: Medical Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 212B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Preparation: mammalian physiology, biochemistry. Supplementation of topics covered in course 203. Primarily for graduate students. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Graduate Commentary: Medical Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 234A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Laboratory, three hours. Survey of experimental methods and instrumentation used in analysis, identification, and study of mechanisms of action of pharmacologically active compounds. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Experimental Methods in Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 234B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Laboratory, three hours. Survey of experimental methods and instrumentation used in analysis, identification, and study of mechanisms of action of pharmacologically active compounds. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Experimental Methods in Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 237": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, six hours; laboratory, five hours total. Detailed examination of principles of pharmacology and mechanisms of drug action at organismal, tissue, cellular, and molecular levels, with emphasis on receptors, receptor/effector coupling, neurotransmitters, cardiovascular pharmacology, autonomic and central nervous system pharmacology. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Frontiers in Cellular and Molecular Pharmacology", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 251": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, two hours. Required of all first- and second-year students. Presentation and discussion of graduate student research progress. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 261": {
+        "corequisiteDescription": "course 251", 
+        "corequisites": [
+            [
+                "M PHARM 251"
+            ]
+        ], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, one hour. Corequisite: course 251. Limited to graduate students. In-depth evaluation of Institute for Molecular Medicine (IMED) Seminar speakers, with focus on scientific approach and rationale, experimental methods, novel and pioneering findings (past and present), relevant background information on speakers and their institute, and presentation style and communication strengths. Discussion on characteristics that define and shape leaders in given fields. Students host lunches with seminar speakers, lead discussions to deconstruct all aspects of seminar presentations, and submit write-ups for online Wiki-postings on seminar-specific scientific topics. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Institute for Molecular Medicine Seminar Series: Analysis and Discussion", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 286": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, one hour. Limited to graduate students. Further exploration of topics discussed in course 287, allowing students to interact with speakers and bring their individual concerns to table. Past and present students encouraged to enroll. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Business of Science: Exploring Entrepreneurship Seminar", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 287": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, two hours. Designed for graduate students. (undergraduate students may enroll with consent of instructor). Introduction to principles of business and entrepreneurship in technology sectors. Basic business skills taught to effectively perform in commercial environment and within academic environment. Application of course material by performing feasibility studies that have potential to receive funding and become actual companies. Exploration of entrepreneurship, particularly formation and operation of new business ventures. Presentations by and questioning of successful technology entrepreneurs, identifying and evaluating new venture opportunities, development of financing, and entry and exit strategies. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Business of Science", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 288": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, three hours; discussion, one hour. Introduction to basic concepts of gene therapy, wherein treatment of human disease is based on transfer of genetic material into an individual. Discussion of molecular basis of disease, gene delivery vectors, and animal models. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Gene Therapy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 291": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, four hours. Examination in depth of topics of current importance in pharmacology. Emphasis on recent contributions of special interest to advanced Ph.D. candidates and faculty. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Topics in Pharmacology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 292": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, four hours; discussion, four hours. Limited to departmental majors. Introduction to format and requirements of research proposals, so students can critically read primary papers and give formal scientific presentations, ask new questions, formulate new hypotheses, and construct research projects, understand balance of importance, novelty, and feasibility, and develop ability to think independently, creatively, and comprehensively. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Projects, Proposals, and Presentations", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 293": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Lecture, two or four hours. Basic chemistry, biochemistry, and physiology of nitric oxide and related species, with emphasis on understanding novel mechanisms of nitrogen oxide function as both a physiological and pathophysiological agent/messenger. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nitric Oxide Chemistry, Biochemistry, and Physiology", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM 298": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Limited to pharmacology, ACCESS program, and interdepartmental Molecular Biology Ph.D. program students. Students conduct or participate in discussions on assigned topics. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Current Topics in Molecular and Medical Pharmacology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Tutorial, to be arranged. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Research in Pharmacology", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of Ph.D", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "M PHARM M110A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular Toxicology M110A.) Lecture, four hours (seven weeks); discussion, four hours (three weeks). Requisites: Life Sciences 2, 3. Course M110A is requisite to 110B. Introduction to pharmacology and toxicology for undergraduate students, emphasizing drug development and mechanisms of action of drugs and toxic agents. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 2, 3", 
+        "prerequisites": [], 
+        "title": "Drugs: Mechanisms, Uses, and Misuse", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M205A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Chemistry CM205A.) Lecture, three hours; discussion, one hour. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Chemistry of Biology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M205B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Chemistry M205B.) Seminar, one hour. Requisite: course M205A. Selected talks and papers presented by training faculty on solving problems and utilizing tools in chemistry and molecular biology on chemistry/biology interface (CBI). S/U grading.", 
+        "prerequisiteDescription": "course M205A", 
+        "prerequisites": [
+            [
+                "M PHARM M205A"
+            ]
+        ], 
+        "title": "Issues on Chemistry/Biology Interface", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M241": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular Toxicology M241.) Lecture, six hours. Preparation: organic and biological chemistry. Designed for molecular and medical pharmacology students. Introduction to general principles of pharmacology. Role of chemical properties of drugs in their distribution, metabolism, excretion, and modes of action. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Chemical Pharmacology and Toxicology", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M248": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Bioengineering M248 and Physics and Biology in Medicine M248.) Lecture, three hours; laboratory, one hour; outside study, seven hours. Exploration of role of biological imaging in modern biology and medicine, including imaging physics, instrumentation, image processing, and applications of imaging for range of modalities. Practical experience provided through series of imaging laboratories. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Biological Imaging", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M252A": {
+        "corequisiteDescription": "course M252B", 
+        "corequisites": [
+            [
+                "M PHARM M252B"
+            ]
+        ], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular, Cellular, and Integrative Physiology M252A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course M252B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to cancer biology, infectious disease, and modern biological approaches. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M252B": {
+        "corequisiteDescription": "course M252A", 
+        "corequisites": [
+            [
+                "M PHARM M252A"
+            ]
+        ], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular, Cellular, and Integrative Physiology M252B.) Seminar, two hours. Corequisite: course M252A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course M252A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M257": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Pathology M257.) Requisite: course 241. Biochemical and systemic toxicology, basic mechanisms of toxicology, and interaction of toxic agents with specific organ systems. S/U or letter grading.", 
+        "prerequisiteDescription": "course 241", 
+        "prerequisites": [
+            [
+                "M PHARM 241"
+            ]
+        ], 
+        "title": "Introduction to Toxicology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M258": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Pathology M258.) Designed to give students experience in learning normal histology of tissues which are major targets of toxin and the range of pathologic changes that occur in these tissues (liver, bladder, lung, kidney, nervous system, and vascular system). S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pathologic Changes in Toxicology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M262A": {
+        "corequisiteDescription": "course M262B", 
+        "corequisites": [
+            [
+                "M PHARM M262B"
+            ]
+        ], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular, Cellular, and Integrative Physiology M262A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course M262B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to neurological, cardiovascular, and metabolic diseases. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "M PHARM M262B": {
+        "corequisiteDescription": "course M262A", 
+        "corequisites": [
+            [
+                "M PHARM M262A"
+            ]
+        ], 
+        "departmentAbbreviation": "M PHARM", 
+        "departmentFullName": "Molecular and Medical Pharmacology", 
+        "description": "(Same as Molecular, Cellular, and Integrative Physiology M262B.) Seminar, two hours. Corequisite: course M262A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course M262A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }
+}

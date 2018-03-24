@@ -1,0 +1,894 @@
+{
+    "MIMG 10": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisite: Life Sciences 30A or 30B or Mathematics 3A or 31A. Limited to Nursing majors. Introduction to biology of microbial pathogens, their role in development of human immune response, and presentation of symptoms and disease caused by microbial infections. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 30A or 30B or MATH 3A or 31A", 
+        "prerequisites": [], 
+        "title": "Medical Microbiology for Nursing Students", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 100L": {
+        "corequisiteDescription": "course 101", 
+        "corequisites": [
+            [
+                "MIMG 101"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, two hours; laboratory, three hours. Requisites: Life Sciences 3 and 4, or 7A, 7B, and 23L with grades of C- or better. Recommended corequisite: course 101. Limited to nonmajors. Experimental techniques of microbiology, with emphasis on cultivation and characterization of bacteria. Laboratory exercises include light microscopy, quantitative techniques, and identification methods. Students learn to work effectively in groups to perform experiments, record observations, and analyze results. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3 and 4, or 7A, 7B, and 23L with grades of C- or better", 
+        "prerequisites": [], 
+        "title": "Microbiology Laboratory for Professional Schools", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 101": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3 and 4, or 7A, 7B, and 23L. Historical foundations of microbiology; introduction to bacterial structure, physiology, biochemistry, genetics, and ecology. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3 and 4, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Introductory Microbiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 102": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3, or 7A, 7B, and 23L with grades of C- or better. Biological properties of bacterial and animal viruses, replication, methods of detection, interactions with host cells and multicellular hosts. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3, or 7A, 7B, and 23L with grades of C- or better", 
+        "prerequisites": [], 
+        "title": "Introductory Virology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 103AL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, two and one half hours; laboratory, eight hours. Requisites: course 101, Life Sciences 3, 4, 23L. Course 103AL is enforced requisite to 103BL. Limited to Microbiology, Immunology, and Molecular Genetics and Molecular, Cell, and Developmental Biology majors. Research-oriented laboratory experience designed to promote discovery of novel bacterial viruses (phages). Working in teams, students conduct research projects that incorporate techniques in microbiology, virology, and molecular biology and involve use of bioinformatics tools and computational analysis software. Emphasis on reading and understanding scientific literature as well as improving critical thinking skills such as ability to evaluate hypotheses or experimentally address scientific questions. Critical aspects of research process, including record keeping, ethics, laboratory safety and citizenry, mechanics of scientific writing, and project responsibilities and ownership. Letter grading.", 
+        "prerequisiteDescription": "course 101, LIFESCI 3, 4, 23L", 
+        "prerequisites": [], 
+        "title": "Research Immersion Laboratory in Virology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 103BL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Laboratory, six hours. Enforced requisites: course 103AL, Statistics 13. Limited to Microbiology, Immunology, and Molecular Genetics premajors and majors. Designed to provide students authentic, discovery-based research experience in life sciences. Investigation to be primarily computational in nature whereby students use bioinformatics or mathematical modeling software to interpret, expand, or refine datasets. Use of graphics software to prepare figures and illustrations for presentations, posters, reports, and websites (database entries). Research accomplishments discussed in weekly seminar-style meetings in which student groups create PowerPoint slides and formally present results to class. Production of team poster and final report describing entire research project required. Letter grading.", 
+        "prerequisiteDescription": "course 103AL, STATS 13", 
+        "prerequisites": [], 
+        "title": "Advanced Research Analysis in Virology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 105": {
+        "corequisiteDescription": "PHYSICS 1C or 6C", 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, four hours; laboratory, three hours (five weeks only). Requisite or corequisite: Physics 1C or 6C. Introduction to modern microscopy technologies used in biochemistry, medicine, microbiology, and nano research. Basic image formation principles of microscopy, methods for sample preparation, imaging, data acquisitions, and three-dimensional reconstruction and visualization. Fluoresce, confocal, and super-resolution light microscopy; transmission electron microscopy, electron tomography, and three-dimensional cryo-electron microscopy; and atomic force and other scanning probe microscopy modalities. Practical experience in research provided through five carefully designed electron microscopy laboratory modules. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Biological Microscopy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 106": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisite: course 101. Biochemical and genetic properties of bacteria that afford potential for pathogenicity. Epidemiology and transmission of disease; chemotherapy and drug resistance. Regulation of virulence factors. Letter grading.", 
+        "prerequisiteDescription": "course 101", 
+        "prerequisites": [
+            [
+                "MIMG 101"
+            ]
+        ], 
+        "title": "Molecular and Genetic Basis of Bacterial Infections", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 107": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisites: course 185A, Chemistry 153A. Viral pathogens that infect mammals. Viral entry into and replication in host cells. Host response and host/virus interaction. Pathogenic manifestations exhibited during viral infections. Letter grading.", 
+        "prerequisiteDescription": "course 185A, CHEM 153A", 
+        "prerequisites": [], 
+        "title": "Viral Pathogenesis", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 109AL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; laboratory, eight hours. Requisites: course 101, Life Sciences 3, 4, and 23L, or 7A, 7B, and 23L. Course 109AL is enforced requisite to 109BL. Limited to Microbiology, Immunology, and Molecular Genetics premajors and majors and Molecular, Cell, and Developmental Biology majors. Research-oriented laboratory experience designed to promote discovery of novel microorganisms. Working in teams, students conduct research projects that incorporate techniques in microbiology and molecular biology and involve use of bioinformatics tools and phylogenetics software for data analysis. Emphasis on reading and understanding scientific literature as well as improving critical thinking skills such as ability to create and evaluate hypotheses or experimentally address scientific questions. Critical aspects of research process, including record keeping, ethics, laboratory safety and citizenry, mechanics of scientific writing, and project responsibilities and ownership. Letter grading.", 
+        "prerequisiteDescription": "course 101, LIFESCI 3, 4, and 23L, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Research Immersion Laboratory in Microbiology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 109BL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Laboratory, six hours. Enforced requisites: course 109AL, Statistics 13. Limited to Microbiology, Immunology, and Molecular Genetics premajors and majors. Designed to provide students authentic, discovery-based research experience in life sciences. Investigation to be primarily computational in nature whereby students use bioinformatics or mathematical modeling software to interpret, expand, or refine datasets. Use of graphics software to prepare figures and illustrations for presentations, posters, reports, and websites (database entries). Research accomplishments discussed in weekly seminar-style meetings in which student groups create PowerPoint slides and formally present results to class. Production of team poster and final report describing entire research project required. Letter grading.", 
+        "prerequisiteDescription": "course 109AL, STATS 13", 
+        "prerequisites": [], 
+        "title": "Advanced Research Analysis in Microbiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 123": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, two and one half hours; computer laboratory, six hours. Requisite: course 103AL or Molecular, Cell, and Developmental Biology 187AL with grade of B- or better. Participation in discovery-based research experience, working as research team to analyze microbial genomes using bioinformatics techniques involving variety of online databases. Investigation of cellular pathways and structures as means to discover novel genes and unusual variations in classical systems. Results of high-quality annotation efforts may lead to publication in peer-reviewed science journal. Part of DOE Joint Genome Institute Undergraduate Research in Microbial Genome Annotation education program. Offered in summer only. Letter grading.", 
+        "prerequisiteDescription": "course 103AL or Molecular, Cell, and Developmental Biology 187AL with grade of B- or better", 
+        "prerequisites": [], 
+        "title": "Advanced Annotation and Comparative Genomics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 132": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4 or 107. Cell biology of eukaryotic nucleus, including principles of chromosome structure, transcription, RNA processing, nuclear-cytoplasmic transport, and cell cycle control. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 4 or 107", 
+        "prerequisites": [], 
+        "title": "Cell Biology of Nucleus", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 15": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, 26 hours; laboratory, nine hours. Recommended requisites: high school biology, chemistry, and physics. Designed as one-week summer course for high school students. Exploratory introduction to three key microscopy techniques for nanoscience research: fluorescence microscopy, scanning probe microscopy, and electron microscopy. Nanoscience is umbrella term that encompasses one diverse interdisciplinary branch of modern science research, including molecular sciences, biotechnology, material science, chemistry, biochemistry, and various fields of engineering. Offered in summer only. P/NP grading.", 
+        "prerequisiteDescription": "high school biology, chemistry, and physics", 
+        "prerequisites": [], 
+        "title": "Nanoscale Microscopy Laboratory", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 158": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisites: course 101, Chemistry 153A. Evolution, biodiversity, and sequencing of genomes; bacterial and viral genomes; bioenergetics; gene knockouts; genomics of antibiotic resistance; proteomics. Guest lecturers from department and related departments who discuss key papers with focus on their areas of expertise. Letter grading.", 
+        "prerequisiteDescription": "course 101, CHEM 153A", 
+        "prerequisites": [], 
+        "title": "Microbial Genomics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 168": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, one hour. Requisites: Life Sciences 3 and 4, or 7A, 7B, and 23L. Survey of parasitic protozoa not only as parasites that interact with host, but also as model systems for analysis of basic biological phenomena such as gene regulation, molecular development, cell-cell interactions, molecular evolution, and novel biochemical pathways. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3 and 4, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Molecular Parasitology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 174": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, two hours. Requisites: course 168, Life Sciences 3 and 4, or 7A, 7B, and 23L. Examination of recent advances in molecular biology of parasites and host/parasite relationship. Specific topics include parasite development, antigenic variation in trypanosomes, RNA editing, prospects for parasitic vaccines. Letter grading.", 
+        "prerequisiteDescription": "course 168, LIFESCI 3 and 4, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Advanced Topics in Molecular Parasitology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 180A": {
+        "corequisiteDescription": "course 196A", 
+        "corequisites": [
+            [
+                "MIMG 196A"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Enforced corequisite: course 196A. Students read and discuss scientific articles and give presentations, introducing research topics using relevant primary literature. Critical aspects of research process, including record keeping, ethics, laboratory safety and citizenry, mechanics of scientific writing, diverse approaches to research, and project responsibilities and ownership. Acquisition of in-depth and broad knowledge about student research projects, improvement of oral and written communication skills, and full appreciation of process of doing good science and becoming skilled researchers. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Scientific Analysis and Communication I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 180B": {
+        "corequisiteDescription": "course 196B", 
+        "corequisites": [
+            [
+                "MIMG 196B"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Enforced requisites: course 180A, Statistics 13. Enforced corequisite: course 196B. Students give presentations similar to laboratory meeting or research symposium talk in which speakers discuss project goals, methodological approaches, results, and conclusions. How to write research papers as well as prepare and present scientific posters. Production of deliverables that demonstrate research achievements and creation of sense of pride for work accomplished as skilled researchers. Letter grading.", 
+        "prerequisiteDescription": "course 180A, STATS 13", 
+        "prerequisites": [], 
+        "title": "Scientific Analysis and Communication II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 185A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, 90 minutes. Requisites: Chemistry 153A, Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Not open for credit to students with credit for course 261. Introduction to experimental immunobiology and immunochemistry; cellular and molecular aspects of humoral and cellular immune reactions. Letter grading.", 
+        "prerequisiteDescription": "CHEM 153A, LIFESCI 3, 4, and 23L, or 7A, 7B, 7C, and 23L", 
+        "prerequisites": [], 
+        "title": "Immunology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 185B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, 90 minutes. Requisite: course 185A. Covers similarities and differences between host immune reactions to bacterial and viral infections, and balance required between immune and inflammatory responses. Discussion of various strategies to enhance our immune system against invasion by pathogens or cancer cells without triggering inflammatory and autoimmune diseases, including new cancer immunotherapies. Letter grading.", 
+        "prerequisiteDescription": "course 185A", 
+        "prerequisites": [
+            [
+                "MIMG 185A"
+            ]
+        ], 
+        "title": "Advanced Immunology and Applications", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 188A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, four hours. Requisites: Life Sciences 3 and 4, or 7A, 7B, and 23L. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3 and 4, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Special Courses in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 188B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Requisite: Life Sciences 3, or 7A, 7B, and 23L. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3, or 7A, 7B, and 23L", 
+        "prerequisites": [], 
+        "title": "Special Courses in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 188SA": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 188SB": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SA", 
+        "prerequisites": [
+            [
+                "MIMG 188SA"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 188SC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SB", 
+        "prerequisites": [
+            [
+                "MIMG 188SB"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 191H": {
+        "corequisiteDescription": "course 198A or 198B or 198C", 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Requisite or corequisite: course 198A or 198B or 198C. Limited to senior microbiology, immunology, and molecular genetics honors program students. Discussion of current research literature, with focus on thesis topics/areas that students are working on as part of departmental honors requirements. One-hour presentation of student thesis research and current literature associated with it required. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Research Seminars: Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 192": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, six hours. Limited to junior/senior departmental majors. Training and supervised practicum for advanced undergraduate students. Students assist in preparation of materials and development of innovative programs under guidance of faculty members in small course settings. Consult Student Affairs Office for further information. May not be applied toward course requirements for departmental majors. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Undergraduate Practicum in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 193A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Limited to undergraduate students. Discussion of readings selected from current literature in microbiology, immunology, and molecular genetics field. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Journal Club Seminars: Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 193B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Limited to undergraduate students. Discussion of readings selected from current literature in microbiology, immunology, and molecular genetics. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Journal Club Seminars: Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 194A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Designed for undergraduate students who are part of research group in department faculty laboratory. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 194B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Limited to students in UC LEADS and NIH/MARC programs. Analysis, review, and critique of current papers in biomedical sciences disciplines, using skills necessary for effective oral communication and effective use of software such as PowerPoint for oral presentations. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Group Seminars: UC LEADS and NIH/MARC", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 196A": {
+        "corequisiteDescription": "course 180A", 
+        "corequisites": [
+            [
+                "MIMG 180A"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Requisites: Life Sciences 3, 4, and 23L, or 7A, 7B, and 23L, 3.0 premajor and/or major grade-point average, and at least one term of prior experience in same laboratory in which 196A research is to be conducted. Enforced corequisite: course 180A. Course 196A is enforced requisite to 196B. Designed for undergraduate students who are interested in pursuing inquiry-based and hypothesis-driven research experience in laboratory of departmental faculty mentor. Guided research course to be taken in conjunction with course 180A, followed by continuation research course 196B. Technical aspects vary depending on specific laboratory; however, all students learn how to apply scientific method: propose hypothesis, identify experiments to address hypothesis, perform experiments, and analyze results. How to record information from experimental activities into laboratory notebooks and to write research proposals. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3, 4, and 23L, or 7A, 7B, and 23L, 3.0 premajor and/or major grade-point average, and at least one term of prior experience in same laboratory in which 196A research is to be conducted", 
+        "prerequisites": [], 
+        "title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 196B": {
+        "corequisiteDescription": "course 180B", 
+        "corequisites": [
+            [
+                "MIMG 180B"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Enforced requisite: course 196A. Enforced corequisite: course 180B. Expansion of scope, increasing depth, and implementation of independence in research to be performed in same laboratory as course 196A to facilitate learning and implementation of goals stated previously. Technical aspects vary depending on specific laboratory; however, all students use scientific method learned in course 196A and continue same experimental scope proposed, but with additional degree of independence in technical and intellectual aspects of research. Letter grading.", 
+        "prerequisiteDescription": "course 196A", 
+        "prerequisites": [
+            [
+                "MIMG 196A"
+            ]
+        ], 
+        "title": "Research Apprenticeship II in Microbiology, Immunology, and  Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 198A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Course 198A is requisite to 198B, which is requisite to 198C. Limited to junior/senior microbiology, immunology, and molecular genetics honors program students. Directed individual research for departmental honors; students must have faculty sponsor. Progress report must be submitted to faculty sponsor at end of each of first two terms, with honors thesis submitted at end of final term. Maximum of 8 units may be applied toward major, with balance applied toward B.S. degree requirements. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Research in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 198B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Requisite: course 198A. Limited to junior/senior microbiology, immunology, and molecular genetics honors program students. Directed individual research for departmental honors; students must have faculty sponsor. Progress report must be submitted to faculty sponsor at end of each of first two terms, with honors thesis submitted at end of final term. Maximum of 8 units may be applied toward major, with balance applied toward B.S. degree requirements. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": "course 198A", 
+        "prerequisites": [
+            [
+                "MIMG 198A"
+            ]
+        ], 
+        "title": "Honors Research in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 198C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Requisite: course 198B. Limited to junior/senior microbiology, immunology, and molecular genetics honors program students. Directed individual research for departmental honors; students must have faculty sponsor. Progress report must be submitted to faculty sponsor at end of each of first two terms, with honors thesis submitted at end of final term. Maximum of 8 units may be applied toward major, with balance applied toward B.S. degree requirements. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": "course 198B", 
+        "prerequisites": [
+            [
+                "MIMG 198B"
+            ]
+        ], 
+        "title": "Honors Research in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, 12 hours. Preparation: minimum 2.5 grade-point average in premajor and major. Supervised individual research project under guidance of departmental faculty mentor. Copy of report describing research must be filed with Student Affairs Office by end of term. May be repeated for credit. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 261": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, four hours. Strongly recommended requisites: Molecular Biology 254A through 254D. Limited to graduate students. Comprehensive course for graduate students and selected undergraduate students covering fundamentals and recent advances in molecular and cellular immunology. Oral presentation required. S/U or letter grading.", 
+        "prerequisiteDescription": "Molecular Biology 254A through 254D", 
+        "prerequisites": [], 
+        "title": "Molecular and Cellular Immunology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 262A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Designed for graduate students (or undergraduate students with consent of instructor). Review of recent literature in immunology, biology, and biochemistry of cancer, with emphasis on fundamental studies involving cell-mediated immunity, humoral response, tumor specific antigens, and new techniques. Discussion of reports on scientific meetings. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Current Topics in Immunobiology of Cancer", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 262B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Designed for graduate students (or undergraduate students with consent of instructor). Review of recent literature in immunology, biology, and biochemistry of cancer, with emphasis on fundamental studies involving cell-mediated immunity, humoral response, tumor specific antigens, and new techniques. Discussion of reports on scientific meetings. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Current Topics in Immunobiology of Cancer", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 262C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Designed for graduate students (or undergraduate students with consent of instructor). Review of recent literature in immunology, biology, and biochemistry of cancer, with emphasis on fundamental studies involving cell-mediated immunity, humoral response, tumor specific antigens, and new techniques. Discussion of reports on scientific meetings. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Current Topics in Immunobiology of Cancer", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 296": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours; research group meeting, one hour. Limited to departmental graduate students. Advanced study and analysis of current topics in microbiology, immunology, and molecular genetics. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 298": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Presentation of student oral critiques and participation in discussions on assigned topics. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Current Topics in Microbiology, Immunology, and Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 495A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Formerly numbered 495.) Seminar, two hours. Designed for graduate students. Study of problems and methodologies in teaching microbiology, including workshops, seminars, apprentice teaching, and peer observation. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Teaching Microbiology in Higher Education I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 495B": {
+        "corequisiteDescription": "course 495A", 
+        "corequisites": [
+            [
+                "MIMG 495A"
+            ]
+        ], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Requisite or corequisite: course 495A. Designed for first-time teaching assistants and to be taken in term in which they teach. In odd weeks, discussion of developments in student classes, with instruction on digital pedagogy and evaluation of student teaching. In even weeks, participation in online discussion forum case studies. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Teaching Microbiology in Higher Education II", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, seven hours. Nature of intelligence, overview of brain structure, study of memory systems, including memory retrieval, context of memories with emotion, sleep, and memory. Survey of metacognition and performance of learning. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Science of Memory and Learning", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 501": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Cooperative Program", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Research", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 598": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for M.S", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for Ph.D", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG 6": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, four hours. Not open for credit to students with credit for course 101. Designed for nonscience students; introduction to biology of microorganisms (bacteria, viruses, protozoa, algae, fungi), their significance as model systems for understanding fundamental cellular processes, and their role in human affairs. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Microbiology for Nonmajors", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 88S": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, one hour. Science fiction and fantasy often explore remarkable beasts such as fire-breathing dragons or shape-shifting werewolves, but how many of these fantastic abilities already exist in animals with which we share our world? From immortality to spraying acid, there are few otherworldly powers that nature has yet to develop in our fellow fauna. Investigation of sample of eight different groups of fascinating characteristics and some of peculiar animals that possess them, including humans. Exploration of the basic principles of evolution and several important aspects of conservation to better understand how such adaptations arise and many ways in which human activities put these \"magical\" organisms at risk. Through these analyses, students come to understand wider importance of protecting incredible diversity of life on our planet. P/NP grading. Facilitated by Cole Oost, with Oliver I. Fregoso as faculty mentor.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fantastic Beasts and Where to Find Them: Analysis of Amazing Animal Adaptations", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "MIMG C122": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Formerly numbered CM122.) Seminar, two hours. Requisite: Life Sciences 4, or 7A, 7B, and 7C. Designed for students doing research with mice. During past 25 years, molecular revolution has greatly increased power and scope of mouse genetics, and today mouse is primary experimental model in virtually all fields of biology and biomedicine. Seminar forum for in-depth discussion of tools and technologies of mouse genetics and their application to functional genomics, complex traits, stem cell biology, developmental biology, epigenetics, and genetic dissection of diseases. Concurrently scheduled with course C222. P/NP or letter grading.", 
+        "prerequisiteDescription": "LIFESCI 4, or 7A, 7B, and 7C", 
+        "prerequisites": [], 
+        "title": "Mouse Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG C134": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Designed for graduate students and undergraduates who have credit for life sciences or biomedical individual studies 199 course. Responsibilities and ethical conduct of investigators in research, data management, mentorship, grant applications, and publications. Responsibilities to peers, sponsoring institutions, and society. Conflicts of interest, disclosure, animal subject welfare, human subject protection, and areas in which investigational goals and certain societal values may conflict. Concurrently scheduled with course C234. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Ethics and Accountability in Biomedical Research", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG C185A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Formerly numbered 185A.) Lecture, three hours; discussion, 90 minutes. Requisites: Chemistry 153A, Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Not open for credit to students with credit for course 261. Comprehensive study of experimental immunobiology and immunochemistry; cellular and molecular aspects of humoral and cellular immune reactions. Concurrently scheduled with course C285. Letter grading.", 
+        "prerequisiteDescription": "CHEM 153A, LIFESCI 3, 4, and 23L, or 7A, 7B, 7C, and 23L", 
+        "prerequisites": [], 
+        "title": "Immunology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG C222": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Formerly numbered CM222.) Seminar, two hours. Requisite: Life Sciences 4, or 7A, 7B, and 7C. Designed for students doing research with mice. During past 25 years, molecular revolution has greatly increased power and scope of mouse genetics, and today mouse is primary experimental model in virtually all fields of biology and biomedicine. Seminar forum for in-depth discussion of tools and technologies of mouse genetics and their application to functional genomics, complex traits, stem cell biology, developmental biology, epigenetics, and genetic dissection of diseases. Concurrently scheduled with course C122. S/U or letter grading.", 
+        "prerequisiteDescription": "LIFESCI 4, or 7A, 7B, and 7C", 
+        "prerequisites": [], 
+        "title": "Mouse Molecular Genetics", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG C234": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Seminar, two hours. Designed for graduate students and undergraduates who have credit for life sciences or biomedical individual studies 199 course. Responsibilities and ethical conduct of investigators in research, data management, mentorship, grant applications, and publications. Responsibilities to peers, sponsoring institutions, and society. Conflicts of interest, disclosure, animal subject welfare, human subject protection, and areas in which investigational goals and certain societal values may conflict. Concurrently scheduled with course C134. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Ethics and Accountability in Biomedical Research", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG C285": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "Lecture, three hours; discussion, 90 minutes. Requisites: Chemistry 153A, Life Sciences 3, 4, and 23L, or 7A, 7B, 7C, and 23L. Not open for credit to students with credit for course 261. Comprehensive study of experimental immunobiology and immunochemistry; cellular and molecular aspects of humoral and cellular immune reactions. Concurrently scheduled with course C185A. Letter grading.", 
+        "prerequisiteDescription": "CHEM 153A, LIFESCI 3, 4, and 23L, or 7A, 7B, 7C, and 23L", 
+        "prerequisites": [], 
+        "title": "Immunology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG CM156": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Same as Molecular, Cell, and Developmental Biology CM156.) Lecture, three hours; discussion, two hours. Requisites: Life Sciences 3, 4, 23L. Application of genetic principles in human populations, with emphasis on genomics, family studies, positional cloning, Mendelian and common diseases, cancer genetics, animal models, cytogenetics, pharmacogenetics, population genetics, and genetic counseling. Lectures and readings in literature, with focus on current questions in fields of medical and human genetics and methodologies appropriate to answer such questions. Concurrently scheduled with course CM256. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3, 4, 23L", 
+        "prerequisites": [], 
+        "title": "Human Genetics and Genomics", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG CM256": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Same as Molecular, Cell, and Developmental Biology CM256.) Lecture, three hours; discussion, two hours. Requisites: Life Sciences 3, 4, 23L. Application of genetic principles in human populations, with emphasis on genomics, family studies, positional cloning, Mendelian and common diseases, cancer genetics, animal models, cytogenetics, pharmacogenetics, population genetics, and genetic counseling. Lectures and readings in literature, with focus on current questions in fields of medical and human genetics and methodologies appropriate to answer such questions. Concurrently scheduled with course CM156. Independent research project required of graduate students. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 3, 4, 23L", 
+        "prerequisites": [], 
+        "title": "Human Genetics and Genomics", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MIMG M229": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MIMG", 
+        "departmentFullName": "Microbiology, Immunology, and Molecular Genetics", 
+        "description": "(Same as Pathology M229.) Lecture, two hours; discussion, two hours. Enforced requisites: Molecular Biology 254A through 254D. Molecular mechanisms of microbial interactions with eukaryotic host cells that result in disease or pathogen survival. Topics include pathogenesis of common viruses, bacteria, fungi, and parasites, basis of toxin-mediated cellular damage, and immune suppression of microbial tissue damage. Letter grading.", 
+        "prerequisiteDescription": "Molecular Biology 254A through 254D", 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Host/Pathogen Interaction", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "AFRC ST 201A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Seminar, four hours. Major intellectual trends and currents in development of African studies. Emphasis on appreciation of multidisciplinary background of African studies and relevant interpretive strategies. Central questions, critical issues, and current problems affecting Africa. Content varies each year. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Africa and Disciplines", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "AFRC ST 201B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Seminar, three hours. Exploration of key contributions and debates of academic disciplines in African studies, with emphasis on professional dimension. Review of discipline's literature, resources, career opportunities, and professionals themselves. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Africa and Professions", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "AFRC ST 296": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Research group meeting, one hour. Collaborative exploration and discussion of current research and literature on modern Africa. Specific projects determined by research being conducted by working group participants. Activities include designing and refining research proposals, gathering and analyzing data, and interpreting and reporting results, as well as presenting research to receive critical feedback from other class participants. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Africanist Working Group", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "AFRC ST 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "AFRC ST 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Tutorial, to be arranged. Limited to graduate African studies students. May be repeated, but only 4 units may be applied toward minimum graduate course requirement. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "AFRC ST 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Tutorial, to be arranged. Limited to graduate African studies students. Normally taken only during term in which student is being examined. May not be applied toward minimum graduate course requirement. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for M.A", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "AFRC ST 598": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "AFRC ST", 
+        "departmentFullName": "African Studies", 
+        "description": "Tutorial, to be arranged. Limited to graduate African studies students. Normally taken only during term in which student intends to complete M.A. thesis. May not be applied toward minimum graduate course requirement. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of M.A", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

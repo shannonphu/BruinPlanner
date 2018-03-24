@@ -1,0 +1,314 @@
+{
+    "MC&IP 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 214": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Lecture, three hours. Designed for Molecular, Cellular, and Integrative Physiology program students. Training in designing, writing, and evaluating research project and fellowship grants. How grant applications are structured and what features contribute to grant application success. How individual research project grants (RO1) and exploratory/development research grants (R21) to National Institutes of Health (NIH) are structured and differ. How applications for predoctoral fellowships from NIH (F31) and American Heart Association (AHA) are organized. Development and writing of students' own RO1, R21, F31, or AHA grant application. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Grant Writing in Biomedical Sciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 248": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, two hours. Application of molecular approaches in investigation of physiological processes of biological systems. Critical thinking and experimental design strategies learned through primary literature review and in-class presentation/discussion. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Basis of Physiological Function", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 249": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, two hours. Recent advances have been made in genetic identification of molecular basis of muscle disease, and some mechanisms involved have been elucidated. Focus on muscle diseases in which substantial mechanistic information has been obtained, including particular cellular locations and diseases associated with those locations. Topics include Duchenne muscular dystrophy, congenital muscular dystrophy, limb girdle dystrophy, Ullrich myopathy, and other forms of genetically inherited muscle disease. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Pathogenic Mechanisms in Muscle Disease", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 250": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, two hours. Designed for molecular, cellular, and integrative physiology students. Reading, analysis, critique, and discussion of current research literature in field of molecular, cellular, and integrative physiology. Student presentation of assigned paper. Variable topics. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Current Topics in Molecular, Cellular, and Integrative Physiology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 251": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, two hours. Requisite: course M252A. Lectures and supervised student presentations to offer graduate students opportunity to acquire deep understanding of advanced integrative genomic approaches and how these approaches can be applied to help understand molecular basis of diverse complex diseases. Topics include transcriptomics, genetics, functional genomics, network biology, and high-level integration. Letter grading.", 
+        "prerequisiteDescription": "course M252A", 
+        "prerequisites": [
+            [
+                "MC&IP M252A"
+            ]
+        ], 
+        "title": "Integrative Genomics for Studying Complex Diseases", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 252A": {
+        "corequisiteDescription": "course 252B", 
+        "corequisites": [
+            [
+                "MC&IP 252B"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Formerly numbered M252A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course 252B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to cancer biology, infectious disease, and modern biological approaches. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 252B": {
+        "corequisiteDescription": "course 252A", 
+        "corequisites": [
+            [
+                "MC&IP 252A"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Formerly numbered M252B.) Seminar, two hours. Corequisite: course 252A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course 252A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 262A": {
+        "corequisiteDescription": "course 262B", 
+        "corequisites": [
+            [
+                "MC&IP 262B"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Formerly numbered M262A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course 262B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to neurological, cardiovascular, and metabolic diseases. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 262B": {
+        "corequisiteDescription": "course 262A", 
+        "corequisites": [
+            [
+                "MC&IP 262A"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Formerly numbered M262B.) Seminar, two hours. Corequisite: course 262A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course 262A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 290A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Tutorials: Cellular and Molecular Physiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 290B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Tutorials: Biophysics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 290C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, two hours. Discussion, analysis, and critique of original research literature. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Tutorials: Integrative and Comparative Physiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 296": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, to be arranged. Review of literature, discussion of original research, and analysis of current topics in molecular, cellular, and integrative physiology. May not be applied toward Ph.D. course requirements. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May not be applied toward Ph.D. course requirements. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "MC&IP 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, to be arranged. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "2 to 10", 
+        "unitType": "RANGE"
+    }, 
+    "MC&IP 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, to be arranged. May not be applied toward Ph.D. course requirements. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Ph.D", 
+        "unit": "2 to 10", 
+        "unitType": "RANGE"
+    }, 
+    "MC&IP 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial, to be arranged. May not be applied toward Ph.D. course requirements. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for Ph.D", 
+        "unit": "2 to 10", 
+        "unitType": "RANGE"
+    }, 
+    "MC&IP 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "MC&IP M252A": {
+        "corequisiteDescription": "course M252B", 
+        "corequisites": [
+            [
+                "MC&IP M252B"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Same as Pharmacology M252A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course M252B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to cancer biology, infectious disease, and modern biological approaches. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP M252B": {
+        "corequisiteDescription": "course M252A", 
+        "corequisites": [
+            [
+                "MC&IP M252A"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Same as Pharmacology M252B.) Seminar, two hours. Corequisite: course M252A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course M252A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP M262A": {
+        "corequisiteDescription": "course M262B", 
+        "corequisites": [
+            [
+                "MC&IP M262B"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Same as Pharmacology M262A.) Lecture, four hours. Preparation: prior satisfactory molecular biology coursework. Corequisite: course M262B. Fundamental concepts and methodologies in modern biology, with emphasis on implications and relevance to human disease and integration of biology with mechanisms underlying disease development and applications in therapy as they apply to neurological, cardiovascular, and metabolic diseases. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Molecular Mechanisms of Human Diseases II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MC&IP M262B": {
+        "corequisiteDescription": "course M262A", 
+        "corequisites": [
+            [
+                "MC&IP M262A"
+            ]
+        ], 
+        "departmentAbbreviation": "MC&IP", 
+        "departmentFullName": "Molecular, Cellular, and Integrative Physiology", 
+        "description": "(Same as Pharmacology M262B.) Seminar, two hours. Corequisite: course M262A. Reading, review, and discussion of primary research literature addressing fundamental concepts and methodologies in modern biology, with particular emphasis on implications and relevance to human diseases of topics presented in course M262A. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Molecular Mechanisms of Human Diseases II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }
+}

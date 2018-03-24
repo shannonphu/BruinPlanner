@@ -1,0 +1,378 @@
+{
+    "IL AMER 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Zapotec", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 119A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Requisite: course 18C. Course 119A is requisite to 119B, which is requisite to 119C. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 18C", 
+        "prerequisites": [
+            [
+                "IL AMER 18C"
+            ]
+        ], 
+        "title": "Advanced Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 119B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Requisite: course 119A. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 119A", 
+        "prerequisites": [
+            [
+                "IL AMER 119A"
+            ]
+        ], 
+        "title": "Advanced Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 119C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Requisite: course 119B. Readings in Quechua. Dialectal and stylistic variation. Discussions mainly in Quechua. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 119B", 
+        "prerequisites": [
+            [
+                "IL AMER 119B"
+            ]
+        ], 
+        "title": "Advanced Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 17": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, 15 hours; laboratory, five hours. Intensive course equivalent to courses 18A, 18B, 18C. Language of Incas and its present-day dialects, as spoken in Andean South America. Offered in summer only. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive Elementary Quechua", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 18A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Course 18A is enforced requisite to 18B, which is enforced requisite to 18C. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 18B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Enforced requisite: course 18A. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 18A", 
+        "prerequisites": [
+            [
+                "IL AMER 18A"
+            ]
+        ], 
+        "title": "Elementary Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 18C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Enforced requisite: course 18B. Language of Incas and present-day Quechua language, as spoken in Andean South America. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 18B", 
+        "prerequisites": [
+            [
+                "IL AMER 18B"
+            ]
+        ], 
+        "title": "Elementary Quechua", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 191": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Seminar, three hours. Research seminars on selected topics on various indigenous languages. Reading, discussion, and development of culminating project. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics Research Seminars: Indigenous Languages", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "IL AMER 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Enforced requisite: course 1. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1", 
+        "prerequisites": [
+            [
+                "IL AMER 1"
+            ]
+        ], 
+        "title": "Elementary Zapotec", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Lecture, five hours. Enforced requisite: course 2. Introduction to Zapotec language of Tlacolula Valley of Oaxaca. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2", 
+        "prerequisites": [
+            [
+                "IL AMER 2"
+            ]
+        ], 
+        "title": "Elementary Zapotec", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Tutorial, to be arranged. Requisites: courses 119A, 119B, 119C. Directed individual study or research in Quechua. Four units may be applied toward M.A. course requirements. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": "courses 119A, 119B, 119C", 
+        "prerequisites": [], 
+        "title": "Directed Studies in Quechua", 
+        "unit": "1 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "IL AMER 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "IL AMER M115A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M162A and International and Area Studies M115A.) Lecture, four hours. Requisites: courses M15A, M15B, M15C. Course M115A is requisite to M115B, which is requisite to M115C. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "courses M15A, M15B, M15C", 
+        "prerequisites": [], 
+        "title": "Advanced Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M115B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M162B and International and Area Studies M115B.) Lecture, four hours. Requisite: course M115A. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M115A", 
+        "prerequisites": [
+            [
+                "IL AMER M115A"
+            ]
+        ], 
+        "title": "Advanced Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M115C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M162C and International and Area Studies M115C.) Lecture, four hours. Requisite: course M115B. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M115B", 
+        "prerequisites": [
+            [
+                "IL AMER M115B"
+            ]
+        ], 
+        "title": "Advanced Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M15A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M15A and International and Area Studies M15A.) Lecture, four hours. Enforced requisites: courses M5A, M5B, M5C. Course M15A is enforced requisite to M15B, which is enforced requisite to M15C. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "courses M5A, M5B, M5C", 
+        "prerequisites": [], 
+        "title": "Intermediate Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M15B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M15B and International and Area Studies M15B.) Lecture, four hours. Enforced requisite: course M15A. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M15A", 
+        "prerequisites": [
+            [
+                "IL AMER M15A"
+            ]
+        ], 
+        "title": "Intermediate Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M15C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M15C and International and Area Studies M15C.) Lecture, four hours. Enforced requisite: course M15B. Taught primarily in Nahuatl. Examination of Nahuatl (Aztec) language of central Mexico at intermediate level. Coverage of Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M15B", 
+        "prerequisites": [
+            [
+                "IL AMER M15B"
+            ]
+        ], 
+        "title": "Intermediate Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M5A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M5A and International and Area Studies M5A.) Lecture, five hours. Course M5A is enforced requisite to M5B, which is enforced requisite to M5C. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M5B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M5B and International and Area Studies M5B.) Lecture, five hours. Enforced requisite: course M5A. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M5A", 
+        "prerequisites": [
+            [
+                "IL AMER M5A"
+            ]
+        ], 
+        "title": "Elementary Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IL AMER M5C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IL AMER", 
+        "departmentFullName": "Indigenous Languages of the Americas", 
+        "description": "(Same as Chicana and Chicano Studies M5C and International and Area Studies M5C.) Lecture, five hours. Enforced requisite: course M5B. Introduction to Aztec language of central Mexico. Coverage of basic Nahuatl grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M5B", 
+        "prerequisites": [
+            [
+                "IL AMER M5B"
+            ]
+        ], 
+        "title": "Elementary Nahuatl", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

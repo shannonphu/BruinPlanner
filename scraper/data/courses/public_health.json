@@ -1,0 +1,230 @@
+{
+    "PUB HLT 10": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, three hours. Designed for lower division students. Introduction to range of topics, issues, and frameworks to help students understand current public health issues and public health systems, policies, and practices. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Public Health", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 150": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Lecture, four hours. Designed for juniors/seniors. Exploration of nation's health challenges, epidemiologic basis of public's health, organization and financing of health services in the U.S. and elsewhere, and current strategies for advancing people's health. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Contemporary Health Issues", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 188SA": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 188SB": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SA", 
+        "prerequisites": [
+            [
+                "PUB HLT 188SA"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 188SC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SB", 
+        "prerequisites": [
+            [
+                "PUB HLT 188SB"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 299": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, two hours. Interactive seminar, with focus on research process, tips for success in academia, and important tools for leadership designed for all doctoral students in School of Public Health. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Strategies for Success for Doctoral Students", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 475": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, two hours. Designed for School of Public Health doctoral students. Interactive seminar with focus on developing teaching materials for courses and acquisition of skills and tools that help students to become successful and innovative instructors. Active learning methodologies and competencies-based approach to instruction. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pedagogy: Essential Skills and Innovative Strategies", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 490": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Lecture, two hours. Lectures with in-class exercises, or in-class presentations followed by coaching feedback. Topics focus on developing range of communication skills necessary for students to become confident and effective public speakers. Master's and doctoral students in programs housed in School of Public Health who are interested in learning how to prepare and deliver impactful, compelling presentations with confidence and professionalism are encouraged to enroll. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Public Speaking Mastery for Public Health Professional", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 495": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, two hours. Designed for graduate students. Prepares individuals who will serve as teaching assistants for courses in Fielding School of Public Health. Study of methodologies in teaching public health, including implementing active learning strategies, effectively communicating goals for student learning, developing course materials that are consistent with expectations for student learning, creating inclusive teaching environment, and dealing with difficult situations. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Teaching Public Health", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 53": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Lecture, three hours. Population projections, population characteristics, birth rates and outcomes, causes of death and death rates, patterns of reportable diseases, services utilization, patterns of immigration, health insurance, provider training, risk behaviors, and chronic diseases in Latino and other underrepresented minority communities in Los Angeles County. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Health of Underserved and Linguistic Minority Communities", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 88S": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Seminar, one hour. Investigation, with aid of primary literature sources, of why adoption of whole-foods, plant-based diet could prevent and even reverse chronic conditions of increasing prevalence in U.S. such as inflammatory bowel disease, fatty liver disease, and asthma. Study of medicinal properties of plant-based nutrition with respect to gut microbiota genomics, neuroscience, and autoimmune disease research. For lowering disease risk factors such as high blood pressure, high blood sugar, and high blood cholesterol levels, scientific evidence suggests that plant-based eating pattern may be just as effective as common pharmaceuticals. Have external forces (e.g., judicial, legislative, and economic sectors) played an influential role in nation's current position on plant-based nutrition? Exploration of these issues to gain better understanding and awareness of role of plant-based nutrition in U.S. health landscape. P/NP grading. Facilitated by Raheem Louis, with William J. McCarthy as faculty mentor.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Plant-Based Diet: Best Diet for Disease Prevention and Longevity", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "PUB HLT M106": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "(Same as Chicana and Chicano Studies CM106.) Lecture, four hours; discussion, one hour. Designed for juniors/seniors. Examination of Chicano/Latino health status through life expectancy, causes of death, reportable diseases, services utilization, provider supply, and risk behaviors within demographic/immigration changes. Binational review of health effects in U.S. and Mexico. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health in Chicano/Latino Population", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT M151": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "(Same as Sociology M142.) Lecture, three hours; discussion, one hour. Analysis of social, cultural, economic, and political processes affecting organization and accessibility of healthcare in transitional and disadvantaged communities. Fieldwork required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Healthcare in Transitional Communities", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT M160A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "(Same as Medicine M160A.) Lecture, four hours; possible field observations. First in series of courses to explore prevention of disease in at-risk populations, clinical services and referrals for disadvantaged, and effects of low socioeconomic status on academic achievement, career, and family. Lectures by faculty and practitioners, with field visits. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health Outreach and Education for At-Risk Populations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT M160B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "(Same as Medicine M160B.) Lecture, two hours; discussion, two hours. Requisite: course M160A. Second in series of courses to explore prevention of disease in at-risk populations, clinical services and referrals for disadvantaged, and effects of low socioeconomic status on academic achievement, career, and family. Lectures by faculty and practitioners, discussion groups, and field activities including health education. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M160A", 
+        "prerequisites": [
+            [
+                "PUB HLT M160A"
+            ]
+        ], 
+        "title": "Health Outreach and Education for At-Risk Populations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PUB HLT M273": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PUB HLT", 
+        "departmentFullName": "Public Health", 
+        "description": "(Same as Epidemiology M273.) Lecture, two hours. Requisite: Community Health Sciences 200. Introduction to fundamental principles of public health ethics, current ethical procedures, guidelines, and requirements, and ethical issues facing public health professionals working in developing countries. History of public health issues, unique ethical issues of research in developing countries, analysis of ethical implications of informed consent, responsibility to study community, mechanisms of study approval, role of funders, and role and responsibilities of review boards. S/U or letter grading.", 
+        "prerequisiteDescription": "Community Health Sciences 200", 
+        "prerequisites": [], 
+        "title": "Responsible Conduct of Research in Global Health", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }
+}

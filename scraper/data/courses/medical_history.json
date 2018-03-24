@@ -1,0 +1,74 @@
+{
+    "MED HIS 107A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "Lecture, three hours. Major contributions of medicine and medical personalities from earliest times. Contributions of medicine and medical personalities from earliest times through 1650. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Historical Development of Medical Sciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MED HIS 107B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "Lecture, three hours. Major contributions of medicine and medical personalities from earliest times. Subject in the period from 1650 through the 19th century. Illustrated lectures, class discussion, and required readings from selected texts. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Historical Development of Medical Sciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MED HIS 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MED HIS 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "Tutorial, to be arranged. Investigation of subjects in medical history selected by students with advice and direction of instructor. Individual reports and conferences. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Studies in Medical History", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "MED HIS 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "MED HIS M169": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MED HIS", 
+        "departmentFullName": "Medical History", 
+        "description": "(Same as Neurobiology M169.) Lecture, one hour; discussion, two hours. Development of neurosciences, especially neuroanatomy and neurophysiology, from Enlightenment era through latter 20th century. Emphasis on fundamental nerve functions, cell communication, and technological, conceptual, and cultural influences that have shaped understanding of brain and nervous system. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Neurosciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

@@ -1,0 +1,2158 @@
+{
+    "NURSING 10": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Within context of history of nursing, introduction to practice of nurses, including role of advocacy. Discussion of effective use of self as professional nurse in relation to ethics, cultural competence, and human diversity. Introduction to ethical principles (justice, autonomy, veracity, beneficence, confidentiality) and professional values (altruism, autonomy, human dignity, integrity, and social justice) in relation to nursing practice throughout history in health/illness and end-of-life contexts. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Nursing and Social Justice I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 105": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; discussion, one hour. Designed for nursing students. Lecture and discussion, with emphasis on a correlative approach to anatomy and physiology of human body. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Human Physiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 115": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisites: courses 54A, 54B. Clinical pharmacology for undergraduate nursing students, beginning with emphasis on basic pharmacologic principles. Focus on major drug classes and their mechanism of action, pharmacokinetics, adverse effects, and clinical issues. Letter grading.", 
+        "prerequisiteDescription": "courses 54A, 54B", 
+        "prerequisites": [], 
+        "title": "Pharmacology and Therapeutics", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 13": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, two hours. Structural presentation of human body, including musculoskeletal, nervous, circulatory, respiratory, digestive, renal, and reproductive systems. Laboratory uses virtual cadaver dissection and examination. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Human Anatomy", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 150A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Introduction to practice of professional nursing as theory-based goal-directed method for assisting patients to meet basic human needs at various levels of health continua. Concepts of communication, interdisciplinary communication and collaboration, interpersonal relationships, cultural competence, and nursing process as clinical decision-making strategies essential to practice of professional nursing. Characteristics and roles of professional nursing. Development of caregiver, teacher, and collaborator roles in learning experiences in nursing skills laboratory and clinical settings. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theoretical Foundations of Nursing B.S", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 150B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Requisite: course 150A. Continuation of course 150A. Expansion of student knowledge on practice of professional nursing as theory-based goal-directed method for assisting patients to meet basic human needs at various levels of health continua. Concepts of communication, interdisciplinary communication and collaboration, interpersonal relationships, cultural competence, and nursing process as clinical decision-making strategies essential to practice of professional nursing. Characteristics and roles of professional nursing. Development of caregiver, teacher, and collaborator roles in learning experiences in nursing skills laboratory and clinical settings. Letter grading.", 
+        "prerequisiteDescription": "course 150A", 
+        "prerequisites": [
+            [
+                "NURSING 150A"
+            ]
+        ], 
+        "title": "Theoretical Foundations of Nursing B.S", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 152W": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours; discussion, two hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Limited to nursing students. Introduction to primary prevention strategies as they pertain to health and wellness across lifespan, using population-based approach to nursing care of diverse populations. Priorities in nutrition and reproductive health, including issues related to contraception and parenting; well-child care, school-age health, and chronic illness prevention strategies for young- and middle-aged adults; elderly who live independently in communities or within institutions. Analysis of influence of overarching political, societal, and governmental systems within U.S. Satisfies Writing II requirement. Letter grading.", 
+        "prerequisiteDescription": "English Composition 3 or 3H or English as a Second Language 36", 
+        "prerequisites": [], 
+        "title": "Human Development/Health Promotion in Culturally Diverse Populations", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 160": {
+        "corequisiteDescription": "course 161", 
+        "corequisites": [
+            [
+                "NURSING 161"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 152W. Corequisite: course 161. Screening and early detection of illness to prevent chronic or acutely deteriorating illness. Expanding on concepts of health and human development and using nursing process, application of nursing role in providing care to individuals and their families to screen, diagnose, and treat illness at earliest possible time to prevent disability or premature mortality. Examination of health problems of individuals within context of family, social and community systems, and interdisciplinary healthcare systems. Emphasis on differences in developmental stages in response to screening for early and late signs and symptoms of illness in ambulatory and acute care settings, community agencies, rehabilitation units, outpatient specialty clinics and surgical units, and home and community settings. Letter grading.", 
+        "prerequisiteDescription": "course 152W", 
+        "prerequisites": [
+            [
+                "NURSING 152W"
+            ]
+        ], 
+        "title": "Secondary Prevention", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 161": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisites: courses 115, 152W. Knowledge development and skill assessment to promote mental health of individuals and communities. Exploration of research underlying assessment, diagnosis, and treatment of individuals with psychiatric disorders and pharmacotherapeutic and psychological treatment of individuals. Application of theory in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Letter grading.", 
+        "prerequisiteDescription": "courses 115, 152W", 
+        "prerequisites": [], 
+        "title": "Psychiatric Mental Health Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 162A": {
+        "corequisiteDescription": "course 150A", 
+        "corequisites": [
+            [
+                "NURSING 150A"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, three hours. Corequisite: course 150A. Examination of nursing assessment and management of common health problems that adults experience. Theory content in basic assessment, health history, and diagnostic reasoning for selected health problems, with emphasis on social, cultural, and developmental influences. Integration of basic knowledge of pathophysiology, stress and adaptation, adult development theory, therapeutic interventions, and communication concepts as applied to care of medical and surgical clients and their families. Introduction to concept of nurses as bedside scientists, with emphasis on critical and contextual thinking skills and diagnostic reasoning. Nursing process, ethical principles, clinical research, evidence-based practice, and clinical thinking that maximize patient safety and quality care used during clinical experiences. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Foundational Concepts for Tertiary Prevention and Care of Medical-Surgical Patients and Families", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 162B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours; clinical, six hours. Enforced requisite: course 162A. Examination of pathophysiological and psychosocial aspects of assessment and management for selected acute and emergent problems of adult patients/clients with complex illness, including multifaceted assessment, health history, and diagnostic reasoning skills, with emphasis on social, cultural, and developmental influences. Integration of knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to care of medical and surgical adult patients. Supervised practicum experience within setting of multidimensional team on medical-surgical clinical units, with focus on clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Intermediate-level assessment, health maintenance, and management of symptoms across lifespan. Letter grading.", 
+        "prerequisiteDescription": "course 162A", 
+        "prerequisites": [
+            [
+                "NURSING 162A"
+            ]
+        ], 
+        "title": "Tertiary Prevention and Care of Medical-Surgical Patients and Families", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 162C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours; clinical, 12 hours. Enforced requisites: courses 162A, 162B. Examination of nursing assessment and management of acute and chronic health problems experienced by older adults. Theory content in assessment, health history, and diagnostic reasoning, with emphasis on older adults and on social, cultural, and developmental influences. Integration of knowledge of pathophysiology, stress and adaptation, adult development theory, therapeutic interventions, and communication concepts as applied to care of older medical and surgical clients with more complex and co-morbid conditions and their families. Concept of nurses as bedside scientists, with emphasis on critical and contextual thinking skills and diagnostic reasoning. Nursing process, ethical principles, clinical research, evidence-based practice, and clinical thinking that maximize patient safety and quality care for older adults used during clinical experiences. Letter grading.", 
+        "prerequisiteDescription": "courses 162A, 162B", 
+        "prerequisites": [], 
+        "title": "Tertiary Prevention and Care of Geriatric Medical-Surgical Patients and Families", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 162D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Formerly numbered 170.) Lecture, three hours; fieldwork, three hours. Enforced requisites: courses 162A, 162B, 162C. Pathophysiological and psychosocial concepts in acute life-limiting illness and nursing management of critically ill adults. Effect of critical illness on individual and family health and key diagnostic and therapeutic modalities that promote effective nursing management of individuals with complex critical illnesses addressed. Emphasis on rapid assessment, critical reasoning, prompt intervention, and outcome achievement with fluid replanning for rapidly changing disease conditions. Letter grading.", 
+        "prerequisiteDescription": "courses 162A, 162B, 162C", 
+        "prerequisites": [], 
+        "title": "Human Responses to Critical Illness: Introduction to Critical Care", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 164": {
+        "corequisiteDescription": "course 173", 
+        "corequisites": [
+            [
+                "NURSING 173"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisites: courses 150A, 150B, 152W, 160, 174. Corequisite: course 173. Nursing assessment and management for selected acute and emergent problems in maternity/newborn patients, with emphasis on social, cultural, and developmental influences. Integration of basic knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to childbearing families, with application of nursing process, evidenced-based practice, problem-solving strategies, and critical thinking. Supervised clinical practicum experience within setting of multidimensional team, with focus on application of theory in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating nursing care for maternity/newborn patients. Intermediate-level assessment, health maintenance, and management of symptoms in this population. Letter grading.", 
+        "prerequisiteDescription": "courses 150A, 150B, 152W, 160, 174", 
+        "prerequisites": [], 
+        "title": "Maternity Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 165": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisites: courses 162A, 162B, 162C, 164. Nursing assessment and management for selected acute and emergent problems in infants, children, and adolescents, with emphasis on social, cultural, and developmental influences. Integration of basic knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to care of infants, children, and adolescents, with application of nursing process, evidenced-based practice, and problem-solving strategies, and critical thinking. Discussion of application of nursing process, research, problem solving, and critical thinking. Supervised practicum experience within setting of multidimensional team, with focus on application of theory in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating nursing care for infants, children, and adolescents. Intermediate-level assessment, health maintenance, and management of symptoms in this population. Letter grading.", 
+        "prerequisiteDescription": "courses 162A, 162B, 162C, 164", 
+        "prerequisites": [], 
+        "title": "Pediatric Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 168": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, five hours. Leadership and management theories and models, resource allocation and management, delegation, conflict resolution, legal implications and practice, managed care, evaluation of practice, continuous quality improvement, accreditation process for healthcare systems, and contemporary issues in workplace. Emphasis on integration of all professional role behaviors, application of research, and leadership-management of care as transition is made from student role to that of practicing professional nurse. Preparation for National Council Licensure Examination (NCLEX). Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Leadership and Role Integration", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 169": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinical, 36 hours. Requisites: courses 161, 162C, 164, 165. Supervised practicum experience within setting of multidimensional team, with focus on application of theory in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Beginning-level assessment, health maintenance, and management of symptomatology across lifespan. P/NP grading.", 
+        "prerequisiteDescription": "courses 161, 162C, 164, 165", 
+        "prerequisites": [], 
+        "title": "Clinical Internship: Integration", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 171": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, nine hours. Requisites: courses 161, 162D, 164, 165 (or 461), 462, 464, 465D. Theoretical content focuses on population-based approach to public health nursing in relation to health promotion and disease prevention at level of communities, other large population aggregates, and systems. Clinical practicum concentration on population-based public health nursing in culturally diverse settings, including health departments, health policy institutions, and public service agencies. Health promotion and disease prevention at level of communities, aggregates, whole populations, and systems, both domestically and internationally. Letter grading.", 
+        "prerequisiteDescription": "courses 161, 162D, 164, 165 (or 461), 462, 464, 465D", 
+        "prerequisites": [], 
+        "title": "Public Health Nursing", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 173": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Introduction to planning research project based on simple question. Specific components of research activities analyzed: specific aims and study purposes, variable definition, sample selection, data collection tools, data analyses, and ethical conduct in research studies. Critique of research reports. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Research", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 174": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Designed to provide in-depth review and synthesis of physical assessment skills and knowledge covering lifespan. Individual study, use of audiovisual aids, physical assessment skills practice in laboratory, and required text are mandatory. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Physical Assessment", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 175": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Comprehensive review and synthesis of physical assessment skills and knowledge covering lifespan and in diverse populations. Emphasis on history-taking related to general health status and specific complaints, as well as detailed physical examination techniques. Individual study, use of audiovisual aids, physical assessment skills practice in laboratory, and required text are mandatory. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Physical Assessment for Advanced Practice", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 188": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; discussion, one hour. Limited to junior/senior Nursing majors. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Topics in Nursing", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 190": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, one hour. Designed to bring together students undertaking supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Colloquia in Nursing", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 193": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours; outside study, four hours. Limited to undergraduate students. Discussion of readings selected from current literature of field or of topics related to guest speaker series. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Journal Club or Speaker-Series Seminars: Nursing", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 196": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, four hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Apprenticeship in Nursing", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, one hour. Limited to junior/senior Nursing majors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Nursing", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Project in Nursing", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 20": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Advanced discussion on history of nursing, with focus on contemporary role of nursing in relation to ethics and social justice. Analysis of ethical principles (justice, autonomy, veracity, beneficence, confidentiality) and professional values (altruism, autonomy, human dignity, integrity, and social justice) in relation to nursing practice throughout history in health/illness and end-of-life contexts. Evaluation of social, cultural, legal, and political forces in relation to paternalism for professional nurses working with diverse patient populations in the 21st century. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Nursing and Social Justice II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 200": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Review and discussion of research, theories, clinical practice guidelines, healthcare systems, and policies that influence assessment of health and health behaviors, health promotion, and screening of disease across lifespan among diverse populations in multiple settings in communities for advanced practice nurse (clinical nurse specialist and nurse practitioner). Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health Promotion and Assessment across Lifespan", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 201": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Theoretical foundations of health-related quality of life as an outcome of disease, treatment, and style of care. Analysis of meaning, dimensions, predictors, measures, ethical dilemmas, cultural diversity issues, and biobehavioral foundations of health-related quality of life. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health-Related Quality of Life", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 202": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Exploration of concepts of importance to philosophy of science as context for understanding philosophy of nursing science. Genealogies of thought that underpin epistemological assumptions about knowledge and knowledge development in relation to discipline of nursing, methods of inquiry (quantitative and qualitative), and scientific reasoning. Contemporary schools of thought (modern and postmodern) analyzed in relation to nursing research, nursing practice, and role of nurse scientists as leaders in relation to policy development in greater healthcare milieu. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Philosophy of Nursing Science", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 203A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Preparation: one upper division statistics course. Introduction to applied statistics, including design, analysis of variance, correlation techniques, and regression. Sample size calculations, parametric versus nonparametric tests, and concepts of database design, management using statistical package programs. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Basic Statistics and Fundamentals for Analysis", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 203B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 203A. Use of multiple linear regression, including model validation, discriminant function analysis, principal components analysis, factorial and repeated measure analysis of variance models, logistic regression, analysis of survival data. Letter grading.", 
+        "prerequisiteDescription": "course 203A", 
+        "prerequisites": [
+            [
+                "NURSING 203A"
+            ]
+        ], 
+        "title": "Statistical Approaches for Complex Nursing Phenomena", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 204": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, 90 minutes; discussion, 90 minutes. Requisite: course 173 or equivalent upper division basic research methodology course. Complex research designs and analysis of multiple variables, and research utilization. Emphasis on techniques for control of variables, data analysis, and interpretation of results. Analysis in depth of interrelationship of theoretical frameworks, design, sample selection, data collection instruments, and data analysis techniques. Content discussed in terms of clinical nursing research problems and how these apply to clinical settings. Letter grading.", 
+        "prerequisiteDescription": "course 173 or equivalent upper division basic research methodology course", 
+        "prerequisites": [], 
+        "title": "Research Design and Critique", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 205A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 202. Introduction to qualitative research design in nursing science. Examination of major methodologies that guide qualitative research in relation to various strategies for data collection (interviews, participant observation, focus groups), data analysis, and data interpretation. Scientific rigor and ethical concerns for research with human participants critically examined. Letter grading.", 
+        "prerequisiteDescription": "course 202", 
+        "prerequisites": [
+            [
+                "NURSING 202"
+            ]
+        ], 
+        "title": "Introduction to Qualitative Methods in Research", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 205B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisites: course 205A, submission of OPRS application for small pilot study in fall of second year. In-depth analysis of symbolic interactionism and pragmatism as foundation for study of grounded theory methodology as guide to study design development, including sampling plan, interview strategies for data collection, and basic coding. Exploration of self-reflexivity and ethics in relation to entr\u00e9e to field, recruitment of pilot study participants, interviewing, and preliminary data analysis via analytic, theoretic, and reflective memos based on pilot study data collected as part of course. Letter grading.", 
+        "prerequisiteDescription": "course 205A, submission of OPRS application for small pilot study in fall of second year", 
+        "prerequisites": [], 
+        "title": "Advanced Qualitative Research Methodology I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 205C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 205B. Advanced techniques for simultaneous collection and analysis of qualitative data. Expansion on traditional grounded theory analysis procedures by learning and applying situational analysis and constructivist grounded theory techniques to analysis of data. Development of conceptual formulation (or grounded theory) of student-selected phenomenon based on pilot study data collected and analyzed as part of course. Letter grading.", 
+        "prerequisiteDescription": "course 205B", 
+        "prerequisites": [
+            [
+                "NURSING 205B"
+            ]
+        ], 
+        "title": "Advanced Qualitative Research Methodology II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 206": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Critical examination of theoretical and conceptual thinking in nursing and issues that continue to influence development of nursing knowledge and nursing science. Application of analytical and evaluative skills fundamental to development of theory in nursing and integral to use of theory in nursing research. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Theory Development", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 207": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; discussion, one hour. Introduction to wide array of quantitative research designs for testing clinical nursing phenomena. Emphasis on dynamic interaction between research process and theory, as well as on appropriate use of experimental, quasi-experimental, and correlational designs among diverse populations. Approaches for evaluation of validity of various research designs, with analysis of related threats to validity of each design. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Quantitative Research Designs of Clinical Phenomena", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 208": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture/discussion, three hours. Requisites: courses 206, 207. Advanced discussions of psychosocial, behavioral, and biophysical measurement and analysis in nursing research. Analysis of psychometrics, reliability, and internal validity of research instruments in relation to outcomes in nursing research. Letter grading.", 
+        "prerequisiteDescription": "courses 206, 207", 
+        "prerequisites": [], 
+        "title": "Research in Nursing: Measurement of Outcomes", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 209": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Human diversity in response to illness that nurses diagnose and treat, centering on culture and human belief systems associated with diverse orientations related to ethnicity and gender. Provides conceptual base that nurses can use in clinical practice, research, teaching, and administration. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Human Diversity in Health and Illness", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 210": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Designed for Ph.D. students. Exploration of phenomena of interest to nurse scholars from past to present and future in relation to proposed domains of nursing (person, environment, health, and nursing). Investigation of state of science in nursing, with special focus on health service, biological, vulnerable populations, and biobehavioral nursing research. Integration and synthesis of current and historical scholarly findings of particular phenomena in literature to identify meaningful gaps in knowledge and directions for future research. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Science", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 211": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; discussion, one hour. Theory and research on assessment and management of women's health issues during reproductive years. Clinical topics include gynecology, family planning, pregnancy, and postpartum care, with emphasis on health promotion of women during reproductive years in primary care settings. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Women's Health Primary Care", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 212": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Overview of conceptual frameworks related to contemporary family structure and functioning, with particular emphasis on health. Family is defined broadly to include nontraditional families; consideration of cross-cultural views of families as well. Identification of limitations of current theory and research related to family study and applicability of current knowledge to various problems encountered in care of families. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Family Healthcare Perspectives", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 213": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Adult/gerontology primary care nurse practitioner professional role, including care for workers and high-risk environmental groups. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Worker Health and Safety: Role and Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 214": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Formerly numbered 214A.) Seminar, four hours. Designed for adult/gerontology acute care, gerontologic, and family nurse practitioners and clinical nurse specialists. Comprehensive overview of oncologic care. Advanced practice nursing, with emphasis on theories and research related to prevention, detection, health history/risk assessment, cancer diagnosis and staging, treatment, rehabilitation, oncologic emergencies, genetics, and psychosocial issues to provide emotional and family-focused care related to solid tumors and hematologic malignancies. In-depth investigation of symptom management (nausea and vomiting, dyspnea, fatigue, cognitive dysfunction, anemia, immunosuppression, anxiety, depression). Evidence-based practice guidelines provide comprehensive review of health promotion, acute, chronic, and late effects, and psychological concepts in long-term survivorship. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Advanced Concepts in Oncology Nursing", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 216A": {
+        "corequisiteDescription": "course 224", 
+        "corequisites": [
+            [
+                "NURSING 224"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisites: courses 200, 231. Enforced corequisite: course 224. Course 216A is enforced requisite to 216B, which is enforced requisite to 216C. Assessment and management of health problems affecting adult/gerontology population from late adolescence to senescence in acute care settings. Synthesis of knowledge from advanced courses in pathophysiology, pharmacotherapeutics, health promotion, and evidence-based psychosocial care and cultural constraints. Letter grading.", 
+        "prerequisiteDescription": "courses 200, 231", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Concepts for Advanced Practice Nurses in Acute Care I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 216B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisites: courses 200, 216A, 224, 231. Assessment and management of health problems affecting adult/gerontology population from late adolescence to senescence in acute care settings. Synthesis of knowledge from advanced courses in pathophysiology, pharmacotherapeutics, health promotion, and evidence-based psychosocial care and cultural constraints. Letter grading.", 
+        "prerequisiteDescription": "courses 200, 216A, 224, 231", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Concepts for Advanced Practice Nurses in Acute Care II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 216C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisites: courses 200, 216A, 216B, 224, 231. Assessment and management of health problems affecting adult/gerontology population from late adolescence to senescence in acute care settings. Synthesis of knowledge from advanced courses in pathophysiology, pharmacotherapeutics, health promotion, and evidence-based psychosocial care and cultural constraints. Letter grading.", 
+        "prerequisiteDescription": "courses 200, 216A, 216B, 224, 231", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Concepts for Advanced Practice Nurses in Acute Care III", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 218A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Synthesis and evaluation of organizational theory in leadership and management of healthcare organizations, with emphasis on organizational structure, processes, and outcomes. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Administration Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 218B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 218A. Focus on synthesizing organizational and management theories in relation to strategic planning and management, changing care delivery systems, human and financial resource management, decision making, management information systems, professional practice, and meeting accreditation and legal standards. Letter grading.", 
+        "prerequisiteDescription": "course 218A", 
+        "prerequisites": [
+            [
+                "NURSING 218A"
+            ]
+        ], 
+        "title": "Nursing Administration Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 218C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 218B. Project management, organizational communication, governance, development and change, diverse relationships within organizations, risk management, liability, and ethics of administration decision making. Emphasis on issues affecting local, national, and international healthcare management. Letter grading.", 
+        "prerequisiteDescription": "course 218B", 
+        "prerequisites": [
+            [
+                "NURSING 218B"
+            ]
+        ], 
+        "title": "Nursing Administration Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 218D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 218C. Community healthcare needs, political action and healthcare policy, marketing, and media. Planning for future continuous personal and professional growth. Emphasis on issues affecting local, national, and international healthcare management and policy development. Letter grading.", 
+        "prerequisiteDescription": "course 218C", 
+        "prerequisites": [
+            [
+                "NURSING 218C"
+            ]
+        ], 
+        "title": "Nursing Administration Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 219A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Theories of management, organization, and administration presented in relation to techniques of accounting, budgeting, finance, and healthcare economics. Focus on definition of terms and concepts, followed by practical applications within variety of healthcare settings. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Essentials of Accounting and Budgeting in Healthcare Organizations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 219B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 219A. Concepts, issues, and analytic techniques of budget formulation, decision making, variance analysis, financing in healthcare, models for forecasting productivity determinations, and program planning and evaluation for nurse administrators. Emphasis on practical methods and techniques within wide variety of healthcare situations. Letter grading.", 
+        "prerequisiteDescription": "course 219A", 
+        "prerequisites": [
+            [
+                "NURSING 219A"
+            ]
+        ], 
+        "title": "Operations Planning and Control for Nursing Administrators", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 220": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Theories of learning, curriculum and program development, and principles and techniques of evaluation. Examination of educator role of advanced practice nurse in variety of settings and with diverse cultural and socioeconomic groups. Opportunities provided for skill development in use of computer-based information systems and development of instructional aids. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theories of Instruction and Learning in Nursing", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 223": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Critique and evaluation of current research and theory in child development and their application to care of children. Provides scientific basis for understanding human growth and development, anticipating problems, and managing barriers to growth and development throughout childhood. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Childhood Development: Research and Application to Nursing", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 224": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, five hours. Requisite: course 231. In preparation for prescriptive authority, focus on major drug classes and their mechanisms of action, pharmacokinetics, adverse effects, and clinical uses. Advanced knowledge of and skills in pharmacology for clients/patients with stable acute or chronic conditions. Letter grading.", 
+        "prerequisiteDescription": "course 231", 
+        "prerequisites": [
+            [
+                "NURSING 231"
+            ]
+        ], 
+        "title": "Advanced Pharmacology for Advanced Practice Nurses", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 225A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Formerly numbered 225.) Lecture, two hours. Course 225A is enforced requisite to 225B. Basic pharmacological principles in addition to clinical knowledge and skills necessary for care of clients/patients with stable acute or chronic conditions. Focus on major drug classes and their mechanisms of action, pharmacokinetics, adverse effects, and clinical uses. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Pharmacology I", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 225B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Enforced requisite: course 225A. Knowledge of and skills in pharmacology necessary for care of clients/patients with stable acute or chronic conditions. Letter grading.", 
+        "prerequisiteDescription": "course 225A", 
+        "prerequisites": [
+            [
+                "NURSING 225A"
+            ]
+        ], 
+        "title": "Advanced Pharmacology II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 226": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Preparation: completion of first-year coursework. Discussion and conceptualization of gerontological nursing concepts within context of specialty areas of research (acute care, oncology, occupational health, and gerontological nursing). Provides opportunity for students to integrate gerontological nursing concepts into their evolving dissertation research and to examine state of science in their areas of focus. Core faculty from all specialty areas participate in discussions. May be repeated for maximum of 10 units. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Aging Research", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 227": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Requisite: course 209. Identification of unique content related to minority aging using Giger and Davidhizar Transcultural Assessment Model. Examination of transcultural nursing viewed as culturally competent practice that is both client centered and research focused. Exploration of difference between Eurocentric lens and geroethnic lens when providing nursing care to ethnically and racially diverse elders. In-depth examination of issues related to conducting research with elders who are racially and ethnically diverse in variety of healthcare settings. Study designs for conducting research, issues surrounding informed consent of minority elders, and data collection techniques, including critique and use of data collection instruments used in community and long-term care settings, behavioral observations, interviews, and surveys. Letter grading.", 
+        "prerequisiteDescription": "course 209", 
+        "prerequisites": [
+            [
+                "NURSING 209"
+            ]
+        ], 
+        "title": "Ethnogeriatric Nursing", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 228": {
+        "corequisiteDescription": "course 208", 
+        "corequisites": [
+            [
+                "NURSING 208"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Requisites: courses 204, 205A, 207. Corequisite: course 208. In-depth examination of issues related to conducting research with elders in variety of healthcare settings. Study designs for conducting research in community and long-term care settings, issues surrounding informed consent, planning for mortality and morbidity, data collection techniques for frail elders, including use of assessment tools used in community and long-term care settings, behavioral observations, interviews, and surveys, and statistical analysis techniques related to missing data, longitudinal data analysis, clustering, and repeated measures. Letter grading.", 
+        "prerequisiteDescription": "courses 204, 205A, 207", 
+        "prerequisites": [], 
+        "title": "Research Methods for Aging Populations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 229A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. System-based healthcare where students focus on context of medical decision making, including team, hospital, culture, politics, economics, law, and personal bias. Topics include legal, political, and moral aspects of sexual assault and abortion; economics and cultural considerations involved in end of life decision making; and public and personal interpretation of what constitutes conflict of interest. Consideration of how medical decisions are influenced by context of care (system-based practice) and emotional responses and preferences (professionalism). S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "System-Based Healthcare I", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 229B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. System-based healthcare where students focus on context of medical decision making, including team, hospital, culture, politics, economics, law, and personal bias. Topics include legal, political, and moral aspects of sexual assault and abortion; economics and cultural considerations involved in end of life decision making; and public and personal interpretation of what constitutes conflict of interest. Consideration of how medical decisions are influenced by context of care (system-based practice) and emotional responses and preferences (professionalism). S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "System-Based Healthcare II", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 229C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. System-based healthcare where students focus on context of medical decision making, including team, hospital, culture, politics, economics, law, and personal bias. Topics include legal, political, and moral aspects of sexual assault and abortion; economics and cultural considerations involved in end of life decision making; and public and personal interpretation of what constitutes conflict of interest. Consideration of how medical decisions are influenced by context of care (system-based practice) and emotional responses and preferences (professionalism). S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "System-Based Healthcare III", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 230A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Requisite: course 3 or equivalent taken within past five years. Course 230A is requisite to 230B. In-depth examination of pathophysiological processes that underline human illness and disease, with detailed study of these in major body systems. Analysis of manifestations of and responses to processes of cellular and molecular pathology at extracellular, system, and human levels. Letter grading.", 
+        "prerequisiteDescription": "course 3 or equivalent taken within past five years", 
+        "prerequisites": [], 
+        "title": "Advanced Pathophysiology I", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 230B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Requisite: course 230A. In-depth examination of pathophysiological processes that underline human illness and disease, with detailed study of these in major body systems. Analysis of manifestations of and responses to processes of cellular and molecular pathology at extracellular, system, and human levels. Letter grading.", 
+        "prerequisiteDescription": "course 230A", 
+        "prerequisites": [
+            [
+                "NURSING 230A"
+            ]
+        ], 
+        "title": "Advanced Pathophysiology II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 231": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. In-depth examination of pathophysiological processes that underlie human illness and disease, with detailed study of these in major body systems. Analysis of manifestations of, and responses to, processes of cellular and molecular pathology at extracellular, system, and human levels with implications for advanced practice nursing. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Pathophysiology for Advanced Practice Nurses", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 232": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture/discussion, four hours. Pathophysiologic concepts and nursing management of older adults who are healthy or who have disability and/or chronic illness. Nursing aspects of selected dysfunctions and implications for advanced practice in gerontological nursing. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Human Responses to Aging and Chronic Illness", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 233": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture/discussion, four hours. Biopsychosocial concepts and nursing management of healthy, disabled, and/or chronically ill older adults, addressing pathophysiological aspects of common health problems. Implications for advanced practice in gerontological nursing. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Human Responses to Aging and Chronic Illness", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 236": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 200. Preparation of family nurse practitioners to assume responsibility for health promotion and illness prevention, and maintenance and management of common developmental, behavioral, acute, and chronic health problems of infants, children, and adolescents in primary healthcare settings. Presentation of condition or disease, etiology and incidence, clinical findings, differential diagnosis, pharmacologic and treatment management, complications, and preventive and patient education measures. Examination of primary child health delivery model reliant on evidence-based knowledge, practice protocols, consultation, referral, and community resources. Letter grading.", 
+        "prerequisiteDescription": "course 200", 
+        "prerequisites": [
+            [
+                "NURSING 200"
+            ]
+        ], 
+        "title": "Pediatric Primary Care for Family Nurse Practitioners", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 238A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 200. Anticipatory guidance for children and families to promote child wellness and assessment, diagnosis, and management of common pediatric illnesses. Demonstration of application and evaluation of evidence-based research and clinical guidelines in pediatric population. Letter grading.", 
+        "prerequisiteDescription": "course 200", 
+        "prerequisites": [
+            [
+                "NURSING 200"
+            ]
+        ], 
+        "title": "Assessment and Management in Pediatric Healthcare I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 238B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 238A. Assessment, diagnosis, and management of common pediatric illnesses. Demonstration of application and evaluation of evidence-based research and clinical guidelines in pediatric population. Letter grading.", 
+        "prerequisiteDescription": "course 238A", 
+        "prerequisites": [
+            [
+                "NURSING 238A"
+            ]
+        ], 
+        "title": "Assessment and Management in Pediatric Healthcare II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 238C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 238B. Assessment, diagnosis, and management of chronic and acute pediatric illnesses. Demonstration of application and evaluation of evidence-based research and clinical guidelines in pediatric population. Letter grading.", 
+        "prerequisiteDescription": "course 238B", 
+        "prerequisites": [
+            [
+                "NURSING 238B"
+            ]
+        ], 
+        "title": "Assessment and Management in Pediatric Healthcare III", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 239A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisites: courses 200, 224, 231. Course 239A is enforced requisite to 239B, which is enforced requisite to 239C. Assessment, diagnosis, and management of common episodic and chronic adult health problems and conditions, including urgent care, for family and adult/gerontology primary care nurse practitioners. Application and evaluation of evidence-based interventions and clinical guidelines in diverse adult populations (late adolescence through old age). Analysis of health promotion, maintenance, and restoration approaches in special populations, including developmental, cultural, gender, life-stage perspectives, and functional impairment. Letter grading.", 
+        "prerequisiteDescription": "courses 200, 224, 231", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Primary Healthcare for Advanced Practice Nurses I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 239B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisite: course 239A. Assessment, diagnosis, and management of common episodic and chronic adult health problems and conditions, including urgent care, for family and adult/gerontology primary care nurse practitioners. Application and evaluation of evidence-based interventions and clinical guidelines in diverse adult populations (late adolescence through old age). Analysis of health promotion, maintenance, and restoration approaches in special populations, including developmental, cultural, gender, life-stage perspectives, and functional impairment. Letter grading.", 
+        "prerequisiteDescription": "course 239A", 
+        "prerequisites": [
+            [
+                "NURSING 239A"
+            ]
+        ], 
+        "title": "Adult/Gerontology Primary Healthcare for Advanced Practice Nurses II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 239C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Enforced requisite: course 239B. Assessment, diagnosis, and management of common episodic and chronic adult health problems and conditions, including urgent care, for family and adult/gerontology primary care nurse practitioners. Application and evaluation of evidence-based interventions and clinical guidelines in diverse adult populations (late adolescence through old age). Analysis of health promotion, maintenance, and restoration approaches in special populations, including developmental, cultural, gender, life-stage perspectives, and functional impairment. Letter grading.", 
+        "prerequisiteDescription": "course 239B", 
+        "prerequisites": [
+            [
+                "NURSING 239B"
+            ]
+        ], 
+        "title": "Adult/Gerontology Primary Healthcare for Advanced Practice Nurses III", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 241": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Biologic and behavioral theories and research from variety of disciplines, including nursing, for application to neuropsychiatric assessment and diagnosis. Exploration of theory and research evidence underlying assessment and diagnosis of cognitive, addictive, and affective dysfunctions, with emphasis on developing behavioral nursing approach. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Biobehavioral Foundations of Neuropsychiatric Assessment", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 241F": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Biologic and behavioral theories and research from variety of disciplines, including nursing, for application of neuropsychiatric assessment and diagnosis. Exploration of research underlying assessment and diagnosis of cognitive, addictive, and affective dysfunctions, with emphasis on developing a behavioral nursing approach. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Biobehavioral Foundations of Neuropsychiatric Assessment", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 242": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Concepts and principles of working with individuals and groups using psychotherapeutic nursing practices. Discussion of evolution of these modalities in nursing practice, as well as theory and research evidence underlying treatment of individuals with cognitive and attention deficits and thought, addictive, and mood disorders, with emphasis on developing unified approach to management of biobehavioral symptoms in advanced nursing practice. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Biobehavioral Foundations of Neuropsychiatric Nursing Care", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 242F": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Biologic and behavioral research from variety of disciplines, including nursing, for application to treatment of neuropsychiatric dysfunction. Exploration of research underlying treatment interaction in cognitive, addictive, and affective dysfunctions, with emphasis on developing a biobehavioral nursing approach. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Biobehavioral Foundations of Neuropsychiatric Nursing Care", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 245": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture/discussion, four hours. Theoretical foundations of clinical nurse specialist practice, including systems theory, behavioral theories, consultation theory, change theory, and models of research utilization. Emphasis on application of relevant theories to clinical nurse specialty practice roles in healthcare systems through case-study analysis, with focus on application to clinical practice settings which include culturally diverse populations. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theoretical Foundations of Clinical Nurse Specialist Practice", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 249": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Examination of systematic barriers within healthcare settings that limit access to those in greatest need of culturally appropriate interventions. Unmet healthcare needs often result in health disparities and compromised quality of life among underserved, low income, uninsured, marginalized populations. Analysis of current evidence-based strategies and interventions designed to address these clinical problems and improve outcomes in culturally competent manner. Presentation of context of healthcare financing, limited access, and public policy. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Meeting Health-Related Needs in Underserved Populations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 250": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, five hours. Interplay of social, cultural, legal, and political forces in the U.S. form background for study of ethical issues related to role of nurses as advocates for social justice in contemporary society today. Analysis situated within context of history of nursing, with emphasis on human rights, civil rights, and patient rights. Discussion of evolution of professional nursing within healthcare arenas in relation to ethical principles, cultural competence, and human diversity. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Ethical Issues, Social Justice, and History of Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 252": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Introduction to primary prevention strategies as they pertain to health and wellness across lifespan, using population-based approach to nursing care of diverse populations. Priorities in nutrition; reproductive health, including issues related to contraception and parenting; well-child care, school-age health, and chronic illness prevention strategies for young- and middle-aged adults and elderly who live independently in communities or within institutions. Analysis of influence of overarching political, societal, and governmental systems within U.S. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health Promotion/Risk Reduction Systems: Population Level", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 254A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Practice of professional nursing as theory-based goal-directed method for assisting patients to meet basic human needs at various levels of health continuum, with emphasis on application of relevant theories to master's entry clinical nurse (MECN) practice roles in healthcare systems. Introduction to concepts of communication, interdisciplinary communication and collaboration, interpersonal relationships, cultural competence, and nursing process as clinical decision-making strategy essential to practice of professional nursing. Learning experiences in nursing skills laboratory and in clinical settings. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theoretical Foundations of M.S.N./MECN Role and Fundamentals of Professional Nursing Lecture/Clinical Skills Practicum I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 254B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Enforced requisite: course 254A. Expansion of student knowledge of practice of professional nursing as theory-based goal-directed method for assisting patients to meet basic human needs at various levels of health continuum, with emphasis on application of relevant theories to master's entry clinical nurse (MECN) practice roles in healthcare systems. Expansion of concepts of communication, interdisciplinary communication and collaboration, interpersonal relationships, cultural competence, and nursing process as clinical decision-making strategy essential to practice of professional nursing. Learning experiences in nursing skills laboratory and in clinical settings. Letter grading.", 
+        "prerequisiteDescription": "course 254A", 
+        "prerequisites": [
+            [
+                "NURSING 254A"
+            ]
+        ], 
+        "title": "Theoretical Foundations of M.S.N./MECN Role and Fundamentals of Professional Nursing Lecture/Clinical Skills Practicum II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 260": {
+        "corequisiteDescription": "course 225A", 
+        "corequisites": [
+            [
+                "NURSING 225A"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Requisite: course 252. Corequisite: course 225A. Screening and early detection of illness to prevent chronic or acutely deteriorating illness. Expanding on concepts of health and human development and using nursing process, application of nursing role in providing care to individuals and their families to screen, diagnose, and treat illness at earliest possible time to prevent disability or premature mortality. Examination of health problems of individuals within context of family, social and community systems, and interdisciplinary healthcare systems. Emphasis on differences in developmental stages in response to screening for early and late signs and symptoms of illness in ambulatory and acute care settings, community agencies, rehabilitation units, outpatient specialty clinics and surgical units, and home and community settings. Letter grading.", 
+        "prerequisiteDescription": "course 252", 
+        "prerequisites": [
+            [
+                "NURSING 252"
+            ]
+        ], 
+        "title": "Secondary Prevention", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 264": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Requisite: course 418A or 438A or 439A. Assessment of organizational, legal, ethical, and healthcare policy issues in relation to delivery of healthcare services by advanced practice nurses in evolving healthcare system. Letter grading.", 
+        "prerequisiteDescription": "course 418A or 438A or 439A", 
+        "prerequisites": [], 
+        "title": "Professional Role Issues in Advanced Practice Nursing", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 266": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Analysis of evolving healthcare delivery systems in terms of effects of policy, economic factors, structure and financing of organizations, characteristics of patients/populations, and services provided, all of which shape reform in relation to role and practice of clinical nurse leaders. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Healthcare Systems/Organizations", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 267": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Analysis of healthcare policies and how policies impact clinical practice and healthcare delivery. Discussion of concepts related to policymaking, specifically how to formulate healthcare policy, how to affect political process, and stakeholder involvement in policy decision making and implementation. Development of understanding of increasing levels of public, governmental, and third-party participation in and scrutiny of shape and direction of healthcare system. Current mandated assembly bills and their effect on nursing. Concepts associated with escalating healthcare costs and cost containment efforts instituted by private and government sectors, as well as by individual healthcare institutions. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Healthcare Policy", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 268": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Discussion of use of systems theory approach in providing patient-centered and value-added care. Functioning within systems, individual healthcare practitioners learn to use critical thinking and decision making to coordinate and deliver quality and cost-effective patient care. Development of understanding of different modes of organizing nursing care within unit environment, managing care within multidisciplinary team framework, and promoting effective teamwork that enhances patient outcomes, improves staff vitality, and reduces costs. Emphasis on concepts related to system theory, problem solving and decision making, nursing care delivery models, delegation, and team strategies. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Systems (Hospital Unit): Individual Level", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 269": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours. Principal elements related to quality improvement theories and ways in which quality management impacts delivery of patient-centered and value-driven care, including improved system performance and efficient use of fiscal resources, quality improvement, and patient-population quality practice at organizational level. Review of individual methods to improve patient-care outcomes such as organizational support, effective teamwork, and quality-improvement concepts in workplace. Emphasis on quality management, adverse outcomes, evidence-based clinical and cost-control decision making, patient safety and risk reduction, resource management, and external impacts on quality control. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Quality Improvement and Population-Based Quality of Practice", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 288": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; discussion, one hour. Variable topics; consult \"Schedule of Classes\" for topics to be offered in specific term. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics in Nursing", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 295A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, one hour. Introduction to nursing research methods, activities, and programs within specialty strands at UCLA School of Nursing: biobehavioral sciences, biologic sciences, health disparities/vulnerable populations, and health services. Exemplar work of UCLA nurse scholars highlighted. Overview of nursing research at UCLA and potential research opportunities for doctoral study. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Science Seminar", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 295B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Requisite: course 295A. Introduction to grant writing, with focus on preparing applications for National Student Research Award. Discussion of requirements of various extramural and specialty organization funding sources, and evaluation criteria identified. Role of external funding to facilitate doctoral and postdoctoral research, research activities, and professional development. S/U grading.", 
+        "prerequisiteDescription": "course 295A", 
+        "prerequisites": [
+            [
+                "NURSING 295A"
+            ]
+        ], 
+        "title": "Nursing Science Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 295C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Requisite: course 295A. Introduction to grant writing, with focus on preparing applications for National Student Research Award. Discussion of requirements of various extramural and specialty organization funding sources, and evaluation criteria identified. Role of external funding to facilitate doctoral and postdoctoral research, research activities, and professional development. S/U grading.", 
+        "prerequisiteDescription": "course 295A", 
+        "prerequisites": [
+            [
+                "NURSING 295A"
+            ]
+        ], 
+        "title": "Nursing Science Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 299A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Seminar to assist students who are beginning careers in scientific research to understand issues of responsible conduct of research and protection of research subjects. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Research Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 299B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar/discussion, one hour; research/laboratory, three hours. Requisites: courses 202, 206. Seminars and research/laboratory-based experiences to assist students to prepare for careers as scientists, with focus on research methodology and mentorship. S/U grading.", 
+        "prerequisiteDescription": "courses 202, 206", 
+        "prerequisites": [], 
+        "title": "Nursing Research/Laboratory Experiences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 299C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar/discussion, one hour; research/laboratory, three hours. Requisites: courses 202, 206. Seminars and research/laboratory-based experiences to assist students to prepare for careers as scientists, with focus on research methodology and mentorship. S/U grading.", 
+        "prerequisiteDescription": "courses 202, 206", 
+        "prerequisites": [], 
+        "title": "Nursing Research/Laboratory Experiences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 299D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours; discussion, one to two hours. Seminar to assist students to prepare for careers in academic settings, with focus on teaching. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Education Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, two hours. Basic understanding of human physiological processes, with emphasis on applications to patient evaluation and care. Concepts underlying normal function and how alterations in these normal functions can affect body systems. Knowledge and understanding of these normal human processes is basic to providing quality nursing care. Examination of system variations across lifespan. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Human Physiology for Healthcare Providers", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 414A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 16 hours. Enforced requisite: course 416C. Course 414A is enforced requisite to 414B. Assessment and therapeutic interventions in oncology settings with diverse acute adult/gerontology populations. Management of cancer risk, cancer- and treatment-related side effects, rehabilitation, health promotion, and palliative care. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 416C", 
+        "prerequisites": [
+            [
+                "NURSING 416C"
+            ]
+        ], 
+        "title": "Clinical Practicum: Adult/Gerontology Acute Care Oncology Nurse Practitioners", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 414B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 22 hours. Enforced requisite: course 414A. Assessment and therapeutic interventions in oncology settings with diverse acute adult/gerontology populations. Management of cancer risk, cancer- and treatment-related side effects, rehabilitation, health promotion, and palliative care. Students complete minimum of 200 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 414A", 
+        "prerequisites": [
+            [
+                "NURSING 414A"
+            ]
+        ], 
+        "title": "Clinical Practicum: Adult/Gerontology Acute Care Oncology Nurse Practitioners", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 416A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, six hours. Enforced requisite: course 440. Course 416A is enforced requisite to 416B. Assessment and therapeutic interventions for selected health problems in acute adult/gerontology populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 40 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 440", 
+        "prerequisites": [
+            [
+                "NURSING 440"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Care Nurse Practitioner Practicum I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 416B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 16 hours. Enforced requisite: course 416A. Assessment and therapeutic interventions for selected health problems in acute adult/gerontology populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 416A", 
+        "prerequisites": [
+            [
+                "NURSING 416A"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Care Nurse Practitioner Practicum II", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 416C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 16 hours. Enforced requisite: course 416B. Course 416C is enforced requisite to 416D. Assessment and therapeutic interventions for selected health problems in acute adult/gerontology populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 416B", 
+        "prerequisites": [
+            [
+                "NURSING 416B"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Care Nurse Practitioner Practicum III", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 416D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 16 hours. Enforced requisite: course 416C. Assessment and therapeutic interventions for selected health problems in acute adult/gerontology populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 416C", 
+        "prerequisites": [
+            [
+                "NURSING 416C"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Care Nurse Practitioner Practicum IV", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 416E": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 15 to 24 hours. Enforced requisite: course 416D. Assessment and therapeutic interventions for selected health problems in acute adult/gerontology populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 160 to 240 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 416D", 
+        "prerequisites": [
+            [
+                "NURSING 416D"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Care Nurse Practitioner Practicum V", 
+        "unit": "6 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 418A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, eight or 11 hours; clinical conference, one hour. Requisites: courses 219A, 219B. Synthesis, evaluation, and practical application of organizational theory in practice setting, with emphasis on content presented in course 218A, including organizational structure, processes, and outcomes. Letter grading.", 
+        "prerequisiteDescription": "courses 219A, 219B", 
+        "prerequisites": [], 
+        "title": "Nursing Administration Practicum", 
+        "unit": "3 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 418B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, eight or 11 hours; clinical conference, one hour. Requisites: courses 218A, 418A. Experience in organizational setting for synthesizing content from course 218B, including strategic planning and management, care delivery systems, resource management, decision making, management information systems, professional practice, and meeting accreditation and legal standards. Letter grading.", 
+        "prerequisiteDescription": "courses 218A, 418A", 
+        "prerequisites": [], 
+        "title": "Nursing Administration Practicum", 
+        "unit": "3 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 418C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, eight or 11 hours; clinical conference, one hour. Requisites: courses 218B, 418B. Experience in organizational setting for synthesizing and evaluating content from course 218C, including processes of project management, organizational communication, governance, development and change, diverse relationships within organization, risk management, liability, and ethics of administration decision making. Letter grading.", 
+        "prerequisiteDescription": "courses 218B, 418B", 
+        "prerequisites": [], 
+        "title": "Nursing Administration Practicum", 
+        "unit": "3 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 418D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 33 hours; clinical conference, one hour. Requisites: courses 218C, 418C. Experience in organization setting as students assume leadership role in planning, managing, and evaluating administrative projects. Synthesizing of content from course 218D, including assessing community healthcare needs, marketing, media, and political action and healthcare policy. Letter grading.", 
+        "prerequisiteDescription": "courses 218C, 418C", 
+        "prerequisites": [], 
+        "title": "Nursing Administration Residency", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 429A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 12 hours. Requisites: courses 200, 440. First of five clinical practica designed to prepare family nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare provider for families and individual patients across lifespan. Use of family-focused framework of care for those who experience common acute and chronic illness, developmental transitions, and health problems. Emphasis on health promotion, maintenance, and risk reduction interventions across wide range of diverse populations. Focus on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 80 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "courses 200, 440", 
+        "prerequisites": [], 
+        "title": "Family Nurse Practitioner Practicum I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 429B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 12 hours. Requisite: course 429A. Second of five clinical practica designed to prepare family nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare provider for families and individual patients across lifespan. Use of family-focused framework of care for those who experience common acute and chronic illness, disability, and developmental transitions. Emphasis on health promotion, maintenance, and risk reduction interventions across wide range of diverse populations. Preparation in variety of clinical settings to implement evidence-based practice guidelines and to critically analyze and adapt healthcare interventions based on individualized assessments of individual/family needs. Focus on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 80 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 429A", 
+        "prerequisites": [
+            [
+                "NURSING 429A"
+            ]
+        ], 
+        "title": "Family Nurse Practitioner Practicum II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 429C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Requisite: course 429B. Third of five clinical practica designed to prepare family nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare provider for families and individual patients across lifespan. Use of family-focused framework of care for those who experience common acute and chronic illness, disability, and developmental transitions. Preparation in variety of clinical settings to implement evidence-based practice guidelines and to critically analyze and adapt healthcare interventions based on individualized assessments of individual/family needs. Focus on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 429B", 
+        "prerequisites": [
+            [
+                "NURSING 429B"
+            ]
+        ], 
+        "title": "Family Nurse Practitioner Practicum III", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 429D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Requisite: course 429C. Fourth of five clinical practica designed to prepare family nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare provider for families and individual patients across lifespan. Use of family-focused framework of care for those who experience common acute and chronic illness, disability, and developmental transitions. Preparation in variety of clinical settings to implement evidence-based practice guidelines and to critically analyze and adapt healthcare interventions based on individualized assessments of individual/family needs. Focus on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 429C", 
+        "prerequisites": [
+            [
+                "NURSING 429C"
+            ]
+        ], 
+        "title": "Family Nurse Practitioner Practicum IV", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 429E": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 27 hours. Requisite: course 429D. Fifth of five clinical practica designed to prepare family nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare provider for families and individual patients across lifespan. Use of family-focused framework of care for those who experience common acute and chronic illness, disability, and developmental transitions. Preparation in variety of clinical settings to implement evidence-based practice guidelines and to critically analyze and adapt healthcare interventions based on individualized assessments of individual/family needs. Focus on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 240 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 429D", 
+        "prerequisites": [
+            [
+                "NURSING 429D"
+            ]
+        ], 
+        "title": "Family Nurse Practitioner Practicum V", 
+        "unit": 9, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 438A": {
+        "corequisiteDescription": "course 238A", 
+        "corequisites": [
+            [
+                "NURSING 238A"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 12 hours. Corequisite: course 238A. Comprehensive assessment and anticipatory guidance for children and families to promote child wellness. Clinical practicum, seminar, and other learning activities to demonstrate application and evaluation of evidence-based research and clinical guidelines in promotion of pediatric wellness. Students complete minimum of 100 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pediatric Nurse Practitioner Clinical Practicum I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 438B": {
+        "corequisiteDescription": "course 238B", 
+        "corequisites": [
+            [
+                "NURSING 238B"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Corequisite: course 238B. Advanced comprehensive assessment, diagnosis, and management of common pediatric illnesses and developmental and/or behavioral problems. Clinical practicum, seminar, and other learning activities to demonstrate application and evaluation of evidence-based research and clinical guidelines in common pediatric illnesses. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pediatric Nurse Practitioner Clinical Practicum II", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 438C": {
+        "corequisiteDescription": "course 238C", 
+        "corequisites": [
+            [
+                "NURSING 238C"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Corequisite: course 238C. Advanced comprehensive assessment, diagnosis, and management of chronic and acute pediatric illnesses in ambulatory setting. Clinical practicum, seminar, and other learning activities to demonstrate application and evaluation of evidence-based research and clinical guidelines in pediatric chronic and acute illnesses. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pediatric Nurse Practitioner Clinical Practicum III", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 438D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 24 hours. Requisites: courses 238C, 438C. Students assume primary responsibility for assessment, diagnosis, management, and evaluation of care provided to children and families in ambulatory setting. Clinical practicum, seminar, and other learning activities to demonstrate application and evaluation of evidence-based research and clinical guidelines in pediatric health problems. Students complete minimum of 220 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "courses 238C, 438C", 
+        "prerequisites": [], 
+        "title": "Pediatric Nurse Practitioner Clinical Practicum IV", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 439A": {
+        "corequisiteDescription": "course 239A", 
+        "corequisites": [
+            [
+                "NURSING 239A"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 12 hours. Requisites: courses 224, 231. Corequisite: course 239A. Advanced practice nursing in adult/gerontology. Beginning-level assessment and therapeutic interventions for health problems in selected populations. Developmental, health promotion, and maintenance needs of clients in relation to family, social, and cultural structures. Students complete minimum of 80 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "courses 224, 231", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Primary Care Nurse Practitioner Practicum I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 439B": {
+        "corequisiteDescription": "course 239B", 
+        "corequisites": [
+            [
+                "NURSING 239B"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Requisite: course 439A. Corequisite: course 239B. Continuation of course 439A for advanced practice nurses, with emphasis on nursing management of acute and chronic health problems in selected populations. Developmental needs of clients in relation to family, social, and cultural structures. Students complete minimum of 80 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 439A", 
+        "prerequisites": [
+            [
+                "NURSING 439A"
+            ]
+        ], 
+        "title": "Adult/Gerontology Primary Care Nurse Practitioner Practicum II", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 439C": {
+        "corequisiteDescription": "course 239C", 
+        "corequisites": [
+            [
+                "NURSING 239C"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Requisite: course 439B. Corequisite: course 239C. Third clinical practicum course for advanced practice nurses, with focus on nursing assessment and intervention in common illness-associated symptoms and complex patient/family presentations. Analysis, evaluation, and integration of current theory and research to provide basis for development of interventions and treatment for acute and chronic problems across lifespan. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "course 439B", 
+        "prerequisites": [
+            [
+                "NURSING 439B"
+            ]
+        ], 
+        "title": "Adult/Gerontology Primary Care Nurse Practitioner Practicum III", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 439D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 18 hours. Requisites: courses 239C, 439C. Residency in advanced practice role where students assume primary responsibility for planning, managing, and evaluating care of clients in specialty setting. Emphasis on application and integration of theory, research, and clinical knowledge in advanced practice role. Students complete minimum of 160 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "courses 239C, 439C", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Primary Care Nurse Practitioner Practicum IV", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 439E": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, 27 hours. Enforced requisites: courses 439A through 439D. Designed to prepare adult/gerontology primary care nurse practitioners with knowledge, skills, and competencies necessary to assume role of primary healthcare providers for young adults, adults, and older adults. Use of patient-centered framework of care for those who experience common acute and chronic illness, disability, and developmental transitions. Preparation in variety of clinical settings to implement evidence-based practice guidelines and to critically analyze and adapt healthcare interventions based on individualized assessments, with emphasis on context of community, cultural awareness, and practice in interdisciplinary teams. Students complete minimum of 240 direct clinical hours. Letter grading.", 
+        "prerequisiteDescription": "courses 439A through 439D", 
+        "prerequisites": [], 
+        "title": "Adult/Gerontology Primary Care Nurse Practitioner Practicum V", 
+        "unit": 9, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 440": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Laboratory/clinic practicum, six hours. Practice foundations for advanced physical assessment and clinical diagnostic reasoning. Students conduct individualized patient- and symptom-focused assessments of health problems representative of diverse client populations. Emphasis on comprehensive and integrated critical analysis of symptom and focused history data, physical examination, selected laboratory data, and clinical diagnoses. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Assessment and Clinical Diagnosis for Advanced Practice Nurses", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 441": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinical seminar, one hour; self-study, two hours. Requisites: courses 241F, 242F. Designed for advanced practice nurses in any nurse practitioner specialty. Neuropsychiatric assessment, treatment, and case presentations in selected populations with addictive, affective, and cognitive dysfunctions in relation to neurophysiology and pathology and to family, social, and cultural structures. S/U grading.", 
+        "prerequisiteDescription": "courses 241F, 242F", 
+        "prerequisites": [], 
+        "title": "Neuropsychiatric Subspecialty Clinical Seminar", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 444": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, six hours. Enforced requisite: course 440. Practice foundations for advanced physical assessment and clinical diagnostic reasoning, with focus on diagnostic or therapeutic procedures and related indications, complications, and follow-up care in laboratory setting. S/U grading.", 
+        "prerequisiteDescription": "course 440", 
+        "prerequisites": [
+            [
+                "NURSING 440"
+            ]
+        ], 
+        "title": "Adult/Gerontology Acute Advanced Assessment and Clinical Diagnosis II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 445": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, six to 30 hours. Requisites: courses 220, 245. Practicum/residency where students gain skills and competencies to function collaboratively and autonomously to achieve high quality patient outcomes. Clinical nurse specialty (CNS) practice achieves this by working within three spheres of influence: patient/family, nursing personnel, and organizational systems utilizing multidisciplinary approach through application and integration of theory, research, and clinical knowledge. 17 units complete minimum of 500 unique CNS hours required for professional certification. Letter grading.", 
+        "prerequisiteDescription": "courses 220, 245", 
+        "prerequisites": [], 
+        "title": "Advanced Practice Nursing: Clinical Nurse Specialist Practicum", 
+        "unit": "2 to 10", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 450": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinic practicum, eight hours. Clinical elective designed to enhance skills and competencies in student-selected advanced practice specialty or related practice dimension, with emphasis on application and integration of theory and evidence-based practice knowledge. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Practice Nursing: Clinical Elective Independent Study", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 461": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisites: courses 225A, 225B, 230A, 230B, 260. Knowledge and skill assessment to promote mental health of individuals and communities. Exploration of research underlying assessment, diagnosis, and treatment of individuals with psychiatric disorders and pharmacotherapeutic and psychological treatment of individuals. Application of theory in clinical practice involves interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Beginning-level assessment, health maintenance, and management of symptomatology across lifespan. Letter grading.", 
+        "prerequisiteDescription": "courses 225A, 225B, 230A, 230B, 260", 
+        "prerequisites": [], 
+        "title": "Psychiatric Mental Health Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 462": {
+        "corequisiteDescription": "course 464", 
+        "corequisites": [
+            [
+                "NURSING 464"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisite: course 465C. Corequisite: course 464. Pathophysiological and psychosocial aspects of assessment and management for selected acute and emergent problems of maternity-newborn patients, with emphasis on social, cultural, and developmental influences and integration of basic knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to care of childbearing families. Application of theory, nursing process, evidence-based practice, and problem solving in clinical setting, interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating care for maternity and newborn patients, both as individuals and cohorts. Assessment, health maintenance, and management of symptomatology among childbearing women and newborns. Letter grading.", 
+        "prerequisiteDescription": "course 465C", 
+        "prerequisites": [
+            [
+                "NURSING 465C"
+            ]
+        ], 
+        "title": "Maternity Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 464": {
+        "corequisiteDescription": "course 462", 
+        "corequisites": [
+            [
+                "NURSING 462"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, six hours. Requisite: course 465C. Corequisite: course 462. Nursing assessment and management for selected acute and emergent problems in infants, children, and adolescents, with emphasis on social, cultural, and developmental influences. Integration of basic knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to care of infants, children, and adolescents. Application of nursing process, evidenced-based practice, problem-solving strategies, and critical thinking. Supervised practicum experience within setting of multidimensional team in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating nursing care for infants, children, and adolescents. Assessment, health maintenance, and management of symptoms in infants, children, and adolescents. Letter grading.", 
+        "prerequisiteDescription": "course 465C", 
+        "prerequisites": [
+            [
+                "NURSING 465C"
+            ]
+        ], 
+        "title": "Pediatric Nursing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 465A": {
+        "corequisiteDescription": "course 254B", 
+        "corequisites": [
+            [
+                "NURSING 254B"
+            ]
+        ], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; clinical, three hours. Corequisite: course 254B. Examination of nursing assessment and management of common health problems of adults. Theory content in basic assessment, health history, and diagnostic reasoning for selected health problems, with emphasis on social, cultural, and developmental influences. Integration of basic knowledge of pathophysiology, stress and adaptation, adult development theory, therapeutic interventions, and communication concepts as applied to care of medical and surgical patients and their families across adult lifespan. Introduction to concept of nurses as bedside scientists, with emphasis on critical and contextual thinking skills and diagnostic reasoning. Nursing process, ethical principles, clinical research, evidence-based practice, and clinical thinking that maximize patient safety and quality care employed during clinical experiences. Diagnosis and management of healthcare problems managed by master's-level clinical nurses in acute care settings. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Foundational Concepts for Tertiary Prevention and Care of Medical-Surgical Patients and Families", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 465B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours; clinical, six hours. Requisite: course 465A. Pathophysiological and psychosocial aspects of assessment and management for selected acute and emergent problems of adult patients with complex illness, including multifaceted assessment, health history, and diagnostic reasoning skills and emphasis on social, cultural, and developmental influences. Integration of knowledge of pathophysiology, diagnostics, pharmacology, therapeutic interventions, and communication concepts as applied to care of medical and surgical patients. Supervised practicum experience within settings of multidimensional teams directing care of medical-surgical clinical units, with focus on clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Intermediate-level assessment, health maintenance, and management of symptoms across lifespan. Letter grading.", 
+        "prerequisiteDescription": "course 465A", 
+        "prerequisites": [
+            [
+                "NURSING 465A"
+            ]
+        ], 
+        "title": "Tertiary Prevention and Care of Medical-Surgical Patients and Families", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 465C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, four hours; clinical, 12 hours. Requisites: courses 465A, 465B. Examination of nursing assessment and management of acute and chronic health problems of older adults. Theory content in assessment, health history, and diagnostic reasoning on older adults, with emphasis on social, cultural, and developmental influences. Integration of knowledge of pathophysiology, pharmacology, stress and adaptation, adult development theory, therapeutic interventions, and communication concepts as applied to care of older medical and surgical patients, with more complex and comorbid conditions, and their families. Concept of nurses as bedside scientists, with emphasis on critical and contextual thinking skills and diagnostic reasoning. Nursing process, ethical principles, clinical research, evidence-based practice, and clinical thinking that maximize patient safety and quality care for older adults employed during clinical experiences. Diagnosis and management of healthcare problems managed by master's-level clinical nurses in acute care settings. Letter grading.", 
+        "prerequisiteDescription": "courses 465A, 465B", 
+        "prerequisites": [], 
+        "title": "Tertiary Prevention and Care of Geriatric Medical-Surgical Patients and Families", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 465D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; fieldwork, three hours. Requisites: courses 461, 462, 464, 465A, 465B, 465C. Pathophysiological and psychosocial concepts in acute life-limiting illness and nursing management of critically ill adults, with focus on effect of critical illness on individual and family health. Key diagnostic and therapeutic modalities that promote effective nursing management of individuals with complex critical illnesses addressed. Emphasis on rapid assessment, critical reasoning, prompt intervention, and outcome achievement with fluid replanning for rapidly changing disease conditions. Letter grading.", 
+        "prerequisiteDescription": "courses 461, 462, 464, 465A, 465B, 465C", 
+        "prerequisites": [], 
+        "title": "Human Responses to Critical Illness", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 467": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Clinical, 36 hours. Requisites: courses 461, 462, 464, 465D. Supervised practicum experience within setting of multidimensional team, with focus on application of theory in clinical interpretation of assessment and diagnostic data for purpose of planning, implementing, and evaluating course of care for patients, both as individuals and cohorts. Advanced-level assessment, health maintenance, and management of symptomatology across lifespan. S/U grading.", 
+        "prerequisiteDescription": "courses 461, 462, 464, 465D", 
+        "prerequisites": [], 
+        "title": "Clinical Internship: Integration", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 495": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, six hours. Supervised student teaching internship in preparation for academic roles. In-depth opportunity to gain skills in role of nurse educator within university setting, including application of instructional strategies and evaluation methods. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nursing Education Practicum", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 50": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours; laboratory, three hours. Epidemiology focuses on distribution and determinants of health-related states or events in specified populations. Fundamentally, epidemiology seeks to control health problems in communities and institutions. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fundamentals of Epidemiology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 501": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, to be arranged. Preparation: consent of UCLA assistant dean and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. No more than 8 units may be applied toward M.S.N. degree minimum total course requirement; may not be applied toward minimum graduate course requirement. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Cooperative Program", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 54A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, three hours. Preparation: human physiology course taken within past five years. Designed to provide students with basic understanding of pathophysiological changes that occur within internal environment of individuals. Understanding these alterations is basic to providing quality nursing care. Discussion of system variations across lifespan. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pathophysiology I", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 54B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Lecture, two hours. Requisite: course 54A. Designed to provide students with understanding of pathophysiological changes that occur within internal environment of individuals. Presence of dysfunction or disease of selected systems provided as rationale for nursing diagnosis and therapeutic interventions. Letter grading.", 
+        "prerequisiteDescription": "course 54A", 
+        "prerequisites": [
+            [
+                "NURSING 54A"
+            ]
+        ], 
+        "title": "Pathophysiology II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, to be arranged. Opportunity for individual graduate nursing students to pursue special studies or research interests. May be repeated for credit, but only 4 units may be applied toward graduate degree requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, to be arranged. Opportunity for individual graduate nursing students to prepare for comprehensive examination. May be repeated once for credit, but only 4 units may be applied toward M.S.N. degree requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Study for Comprehensive Examination", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial, to be arranged. Individualized faculty supervision of Ph.D. dissertation research by student's chair. May be repeated for credit, but only 8 units may be applied toward Ph.D. degree requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of Ph.D", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING 98T": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Examination of social and cultural influences on health and behaviors of refugees. Investigation of prejudice against newcomers, challenges to health promotion, and disease prevention among refugees. Interpretation of current policy debates and development of interventions. Letter grading.", 
+        "prerequisiteDescription": "satisfaction of Entry-Level Writing requirement", 
+        "prerequisites": [], 
+        "title": "Critical Perspectives and Health Promotion among Refugees", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "NURSING C155": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Exploration of theories, issues, debates, and pedagogy associated with globalization, social justice, and human rights and how these perspectives influence human health and well-being. Provides students with unique opportunity to explore these topics within classroom, via Internet and other technologies, and in other classrooms located around globe. Students, through collaborative projects with peers around world, reflect on how globalization shapes and transforms local communities and national cultures. Concurrently scheduled with course C255. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Global Health Elective: Globalization, Social Justice, and Human Rights", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING C255": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "Seminar, two hours. Exploration of theories, issues, debates, and pedagogy associated with globalization, social justice, and human rights and how these perspectives influence human health and well-being. Provides students with unique opportunity to explore these topics within classroom, via Internet and other technologies, and in other classrooms located around globe. Students, through collaborative projects with peers around world, reflect on how globalization shapes and transforms local communities and national cultures. Concurrently scheduled with course C155. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Global Health Elective: Globalization, Social Justice, and Human Rights", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING M221": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Same as American Indian Studies M202 and Health Policy and Management M202.) Seminar, three hours. Introduction to some key theoretical themes in American Indian studies and exploration of methods that can be used to incorporate them in research on American Indian cultures, societies, languages, and other issues. Quantitative methods (design, appropriate use), with emphasis on qualitative research methods, ethics, and special considerations in conducting research in American Indian country. Design of research and exploration of feasibility of researching topics. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Qualitative Research Design and Methodology for Indigenous Communities", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING M290A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Same as Community Health Sciences M245A, Dentistry M300A, Education M217G, Law M281A, Medicine M290A, and Social Welfare M203F.) Lecture, two hours. Course M290A is requisite to M290B, which is requisite to M290C. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Child Abuse and Neglect", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING M290B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Same as Community Health Sciences M245B, Dentistry M300B, Education M217H, Law M281A-M281B, Medicine M290A-M290B, and Social Welfare M203G.) Lecture, two hours. Requisite: course M290A. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.", 
+        "prerequisiteDescription": "course M290A", 
+        "prerequisites": [
+            [
+                "NURSING M290A"
+            ]
+        ], 
+        "title": "Child Abuse and Neglect", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING M290C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Same as Community Health Sciences M245C, Dentistry M300C, Education M217I, Law M281B, Medicine M290B, and Social Welfare M203H.) Lecture, two hours. Requisite: course M290B. Intensive interdisciplinary study of child physical and sexual abuse and neglect, with lectures by faculty members of Schools of Dentistry, Law, Medicine, Nursing, and Public Health and Departments of Education and Psychology, as well as by relevant public agencies. Letter grading.", 
+        "prerequisiteDescription": "course M290B", 
+        "prerequisites": [
+            [
+                "NURSING M290B"
+            ]
+        ], 
+        "title": "Child Abuse and Neglect", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NURSING M298": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NURSING", 
+        "departmentFullName": "Nursing", 
+        "description": "(Same as Community Health Sciences M256, Medicine M256, and Oral Biology M256.) Lecture, three hours; discussion, one hour. Designed to instill in professional students ideas of common emergency health problems and coordinated response, with specific attention to bioterrorism. Examination of tools to help students prevent, detect, and intervene in infectious disease emergencies. Interdisciplinary sessions also attended by students in Schools of Dentistry, Medicine, and Public Health during weeks two through five. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Interdisciplinary Response to Infectious Disease Emergencies: Nursing Perspective", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

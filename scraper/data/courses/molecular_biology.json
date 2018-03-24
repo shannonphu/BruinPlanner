@@ -1,0 +1,114 @@
+{
+    "MOL BIO 252": {
+        "corequisiteDescription": "Biological CHEM 251A or 251B or 251C", 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "Seminar, one hour. Corequisite: Biological Chemistry 251A or 251B or 251C. Limited to first-year Molecular Biology Ph.D. students. Development of specific skills in scientific writing within context of one advanced course on mechanics of gene transcription. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Writing for Science", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 254A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "(Formerly numbered Biological Chemistry 254A.) Lecture, three hours; discussion, two hours. Limited to human genetics and molecular biology graduate students. Five-week course covering four basic experimental approaches of biochemistry and molecular biology in context of various specific topics, including (1) structural biology, with protein and nucleic acid structure and molecular recognition, (2) use of cell-free and purified in vitro systems to dissect reaction mechanisms, (3) biochemical approaches to dissecting complex reactions/pathways in cells, and (4) enzymology and protein chemistry. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Concepts in Molecular Biosciences", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 254B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "(Formerly numbered Biological Chemistry 254B.) Five-week course. Lecture, three hours; discussion, two hours. Enforced requisite: course 254A. Important biological problems that have been genetically analyzed in different organisms or small number of related problems. Major genetic approaches used in relevant organisms, including both forward and reverse genetic approaches, genetic interactions between genes (genetic enhancers and suppressors), transgenic technology, and systematic genomic strategies. Letter grading.", 
+        "prerequisiteDescription": "course 254A", 
+        "prerequisites": [
+            [
+                "MOL BIO 254A"
+            ]
+        ], 
+        "title": "Concepts in Molecular Biosciences", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 254C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "(Formerly numbered Biological Chemistry 254C.) Five-week course. Lecture, three hours; discussion, two hours. Enforced requisites: courses 254A, 254B. Molecular mechanisms underlying complex problems in cell biology. Experimental approaches used to define mechanisms involved in protein targeting, cell structure and subcellular organization, cell communication, and intracellular signaling. Analysis of pathways that connect these cellular processes. Letter grading.", 
+        "prerequisiteDescription": "courses 254A, 254B", 
+        "prerequisites": [], 
+        "title": "Concepts in Molecular Biosciences", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 254D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "(Formerly numbered Biological Chemistry 254D.) Five-week course. Lecture, three hours; discussion, two hours. Enforced requisites: courses 254A, 254B, 254C. Application of biochemical, molecular biological, genetic, and cell biological approaches to understand specialized topics in life and biomedical sciences, including developmental disease, stem cell biology, synaptic transmission in nervous system, cancer, and heart disease. Letter grading.", 
+        "prerequisiteDescription": "courses 254A, 254B, 254C", 
+        "prerequisites": [], 
+        "title": "Concepts in Molecular Biosciences", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 255": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "Lecture, two hours; discussion, one hour. Limited to first-year Molecular Biology Ph.D. students. Improvement of academic literacy through development of specific skills in scientific writing. Review of principles of effective writing using practical examples and exercises. Topics include principles of good writing, tricks for writing faster and with less anxiety, format of scientific manuscripts, art of editing, and issues in publication and peer review. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Scientific Writing", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 298": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "Student presentation/seminar, two hours. Students present oral critiques and participate in discussions on assigned topics. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Current Topics in Molecular Biology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "MOL BIO 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "Tutorial, to be arranged. Directed individual research or study. May be repeated for maximum of 12 units. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Studies", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "MOL BIO 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "MOL BIO", 
+        "departmentFullName": "Molecular Biology", 
+        "description": "Tutorial, to be arranged. Directed individual studies for students who have advanced to candidacy. May be repeated for maximum of 12 units. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Ph.D", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }
+}

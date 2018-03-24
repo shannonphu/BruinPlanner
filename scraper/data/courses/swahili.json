@@ -1,0 +1,214 @@
+{
+    "SWAHILI 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 1A.) Lecture, five hours. Major language of East Africa, particularly Tanzania. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 101": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 103A.) Lecture, four hours. Enforced requisite: course 6. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "SWAHILI 6"
+            ]
+        ], 
+        "title": "Advanced Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 102": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 103B.) Lecture, four hours. Enforced requisite: course 101. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 101", 
+        "prerequisites": [
+            [
+                "SWAHILI 101"
+            ]
+        ], 
+        "title": "Advanced Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 103": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 103C.) Lecture, four hours. Enforced requisite: course 102. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102", 
+        "prerequisites": [
+            [
+                "SWAHILI 102"
+            ]
+        ], 
+        "title": "Advanced Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 1B.) Lecture, five hours. Enforced requisite: course 1. Major language of East Africa, particularly Tanzania. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1", 
+        "prerequisites": [
+            [
+                "SWAHILI 1"
+            ]
+        ], 
+        "title": "Elementary Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 1C.) Lecture, five hours. Enforced requisite: course 2. Major language of East Africa, particularly Tanzania. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2", 
+        "prerequisites": [
+            [
+                "SWAHILI 2"
+            ]
+        ], 
+        "title": "Elementary Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 4": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 2A.) Lecture, four hours. Enforced requisite: course 3. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "SWAHILI 3"
+            ]
+        ], 
+        "title": "Intermediate Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 2B.) Lecture, four hours. Enforced requisite: course 4. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 4", 
+        "prerequisites": [
+            [
+                "SWAHILI 4"
+            ]
+        ], 
+        "title": "Intermediate Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 6": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "(Formerly numbered African Languages 2C.) Lecture, four hours. Enforced requisite: course 5. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "SWAHILI 5"
+            ]
+        ], 
+        "title": "Intermediate Swahili", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SWAHILI 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SWAHILI", 
+        "departmentFullName": "Swahili", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

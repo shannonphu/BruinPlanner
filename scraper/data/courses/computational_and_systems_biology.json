@@ -1,0 +1,150 @@
+{
+    "C&S BIO 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Formerly numbered 198.) Tutorial, 12 hours. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report/thesis required. May be repeated for maximum of 12 units. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Computational and Systems Biology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "C&S BIO M175": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Same as Chemistry M186.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, 30B or Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading.", 
+        "prerequisiteDescription": "LIFESCI 1, 2, 3, and 4, or 7A, 7B, and 7C, 30B or MATH 33B, Electrical and Computer Engineering 131A or MATH 170A or STATS 100A", 
+        "prerequisites": [], 
+        "title": "Stochastic Processes in Biochemical Systems", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO M184": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Same as Bioengineering M184 and Computer Science M184.) Lecture, two hours; outside study, four hours. Enforced requisites: one course from Civil Engineering M20, Computer Science 31, Mechanical and Aerospace Engineering M20, or Program in Computing 10A, and Mathematics 3B or 31B. Survey course designed to introduce students to computational and systems modeling and computation in biology and medicine, providing motivation, flavor, culture, and cutting-edge contributions in computational biosciences and aiming for more informed basis for focused studies by students with computational and systems biology interests. Presentations by individual UCLA researchers discussing their active computational and systems biology research. P/NP grading.", 
+        "prerequisiteDescription": "one course from C&EE M20, COM SCI 31, MECH&AE M20, or PIC 10A, and MATH 3B or 31B", 
+        "prerequisites": [], 
+        "title": "Introduction to Computational and Systems Biology", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO M185": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Formerly numbered 185.) (Same as Computer Science M185.) Lecture, two hours; discussion, two hours. Requisites: course M184, Mathematics 32B, 33A, 33B, Life Sciences 4. Introduction to interdisciplinary laboratory research methods and research opportunities in computational and systems biology to prepare and initiate students for active engagement in research. Presentation of potential projects by faculty members and student visits to individual laboratories and participation in ongoing projects. P/NP or letter grading.", 
+        "prerequisiteDescription": "course M184, MATH 32B, 33A, 33B, LIFESCI 4", 
+        "prerequisites": [], 
+        "title": "Research Opportunities in Computational and Systems Biology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO M186": {
+        "corequisiteDescription": "EL ENGR 102", 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Same as Bioengineering CM186, Computer Science CM186, and Ecology and Evolutionary Biology M178.) Lecture, four hours; laboratory, three hours; outside study, eight hours. Corequisite: Electrical Engineering 102. Dynamic biosystems modeling and computer simulation methods for studying biological/biomedical processes and systems at multiple levels of organization. Control system, multicompartmental, predator-prey, pharmacokinetic (PK), pharmacodynamic (PD), and other structural modeling methods applied to life sciences problems at molecular, cellular (biochemical pathways/networks), organ, and organismic levels. Both theory- and data-driven modeling, with focus on translating biomodeling goals and data into mathematics models and implementing them for simulation and analysis. Basics of numerical simulation algorithms, with modeling software exercises in class and PC laboratory assignments. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Computational Systems Biology: Modeling and Simulation of Biological Systems", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&S BIO M187": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&S BIO", 
+        "departmentFullName": "Computational and Systems Biology", 
+        "description": "(Same as Bioengineering CM187 and Computer Science CM187.) Lecture, four hours; outside study, eight hours. Requisite: course M186. Closely directed, interactive, and real research experience in active quantitative systems biology research laboratory. Direction on how to focus on topics of current interest in scientific community, appropriate to student interests and capabilities. Critiques of oral presentations and written progress reports explain how to proceed with search for research results. Major emphasis on effective research reporting, both oral and written. Letter grading.", 
+        "prerequisiteDescription": "course M186", 
+        "prerequisites": [
+            [
+                "C&S BIO M186"
+            ]
+        ], 
+        "title": "Research Communication in Computational and Systems Biology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

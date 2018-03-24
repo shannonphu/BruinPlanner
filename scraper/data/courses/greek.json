@@ -1,0 +1,1242 @@
+{
+    "GREEK 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours; discussion, two hours. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Greek", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 100": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 20. Introduction to developing skills of reading longer, continuous passes of original Greek prose and/or poetry texts, with attention to literary and cultural background. Course is normally requisite to other courses in Greek 100 series. May be repeated for credit with change of assigned readings and with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 20", 
+        "prerequisites": [
+            [
+                "GREEK 20"
+            ]
+        ], 
+        "title": "Readings in Greek Prose and Poetry", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 101A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Homer: Odyssey", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 101B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Homer: Iliad", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 102": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. Selections from Archilochus to Bacchylides. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Lyric Poets", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 103": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Aeschylus", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 104": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Sophocles", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 105": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Euripides", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 106": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Aristophanes", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 107": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. Reading of \"Theogony\" and excerpts from \"Works and Days,\" with emphasis on Hesiod's place in Greek literature and his role in transmission of Greek mythology. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Hesiod", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 110": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three to four hours. Requisite: course 100. Work in sight reading and grammatical analysis of Attic prose texts; writing Attic prose. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Study of Greek Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 111": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Herodotus", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 112": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Thucydides", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 113": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Attic Orators", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 115": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. Reading of one major work of Xenophon -- \"Memorabilia,\" \"Cyropaedia,\" \"Anabasis,\" \"Hellenica,\" or \"Oeconomicus\" -- in Greek. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Xenophon", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 121": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Plato", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 122": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Plato: Republic", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 123": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Aristotle: Poetics and Rhetoric", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 124": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Aristotle: Ethics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 130": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 3. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "GREEK 3"
+            ]
+        ], 
+        "title": "Readings in New Testament", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 131": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. Topics vary from year to year and include \"Longinus,\" On Sublime; Marcus Aurelius; Arrian; Second Sophistic; Plutarch; later epic; epigram; epistolographi Graeci. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Readings in Later Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 132": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 100. Readings based on (1) \"Anthology of Byzantine Prose,\" ed. Nigel Wilson and (2) \"Oxford Book of Medieval and Modern Greek Verse,\" ed. C.A. Trypanis, or if unavailable, \"Poeti bizantini,\" ed. R. Cantarella. In addition, necessary historical and cultural background provided by readings and lectures. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "GREEK 100"
+            ]
+        ], 
+        "title": "Survey of Byzantine Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 133": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 132. Topics vary from year to year and include Procopius, Agathias, Michael Psellus, Alexiad of Anna Comnena, and Digenis Akritas. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 132", 
+        "prerequisites": [
+            [
+                "GREEK 132"
+            ]
+        ], 
+        "title": "Readings in Byzantine Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 15": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, 18 to 19 hours. Eight-week intensive introduction to principles of speaking, reading, and writing modern (demotic) Greek. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Modern Greek", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 16": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, 19 hours. Eight-week intensive introduction to Greek language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive First-Year Greek", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, two hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Greek", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Greek", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1", 
+        "prerequisites": [
+            [
+                "GREEK 1"
+            ]
+        ], 
+        "title": "Elementary Greek", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 20": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 3 or 16. Formal review of Greek grammar and syntax and development of skills in reading original texts of Greek prose. Readings selected to introduce literature and culture of ancient Greece. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 16", 
+        "prerequisites": [], 
+        "title": "Intermediate Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 200A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Greek Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 200B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Greek Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 200C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Greek Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 201A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 201A is requisite to 201B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Homer: Iliad", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 201B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 201A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 201A", 
+        "prerequisites": [
+            [
+                "GREEK 201A"
+            ]
+        ], 
+        "title": "Homer: Iliad", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 202A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 202A is requisite to 202B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Homer: Odyssey and Epic Cycle", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 202B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 202A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 202A", 
+        "prerequisites": [
+            [
+                "GREEK 202A"
+            ]
+        ], 
+        "title": "Homer: Odyssey and Epic Cycle", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 203": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Hesiod", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 204": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Homeric Hymns", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 205": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Aeschylus", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 206A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 206A is requisite to 206B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Sophocles", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 206B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 206A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 206A", 
+        "prerequisites": [
+            [
+                "GREEK 206A"
+            ]
+        ], 
+        "title": "Sophocles", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 207A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 207A is requisite to 207B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Euripides", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 207B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 207A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 207A", 
+        "prerequisites": [
+            [
+                "GREEK 207A"
+            ]
+        ], 
+        "title": "Euripides", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 208A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 208A is requisite to 208B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Aristophanes", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 208B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 208A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 208A", 
+        "prerequisites": [
+            [
+                "GREEK 208A"
+            ]
+        ], 
+        "title": "Aristophanes", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 209A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Hellenistic Poetry", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 209B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Hellenistic Poetry", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 210": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 110. S/U or letter grading.", 
+        "prerequisiteDescription": "course 110", 
+        "prerequisites": [
+            [
+                "GREEK 110"
+            ]
+        ], 
+        "title": "Advanced Greek Prose Composition", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 211A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 211A is requisite to 211B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Herodotus", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 211B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 211A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 211A", 
+        "prerequisites": [
+            [
+                "GREEK 211A"
+            ]
+        ], 
+        "title": "Herodotus", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 212A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 212A is requisite to 212B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Thucydides", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 212B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 212A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 212A", 
+        "prerequisites": [
+            [
+                "GREEK 212A"
+            ]
+        ], 
+        "title": "Thucydides", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 213": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Historiography", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 214": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Demosthenes", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 215": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Studies in works of Antiphon, Andocides, and Lysias. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Early Greek Orators", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 216": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Menander", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 217A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Study of lyric poetry of Archaic period, both choral and monodic, with elegiac and iambic included. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Lyric Poetry: Archaic Lyric", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 217B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Study of choral odes of Pindar and Bacchylides, with special attention to conventions of epinician. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Lyric Poetry: Pindar and Bacchylides", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 220": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Study of Greek romance and its place in Greek literature. Two texts (Chariton: \"Chaereas and Callirhoe\" and Longus: \"Daphnis and Chloe\") studied in some detail. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Novel", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 221": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Pre-Socratic Philosophers", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 222A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 222A is requisite to 222B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Plato", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 222B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 222A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 222A", 
+        "prerequisites": [
+            [
+                "GREEK 222A"
+            ]
+        ], 
+        "title": "Plato", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 223A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Course 223A is requisite to 223B. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Aristotle", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 223B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Requisite: course 223A. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": "course 223A", 
+        "prerequisites": [
+            [
+                "GREEK 223A"
+            ]
+        ], 
+        "title": "Aristotle", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 224": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Post-Aristotelian Philosophy", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 229": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Preparation: graduate-level knowledge of ancient Greek. Practice in translation of previously unseen texts from variety of authors and genres. Topics include peculiarities of style and vocabulary of distinct genres, literary versus scholarly translation, semantic properties of particular words and constructions. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Sight Translation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 240A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, four hours. Course 240A is requisite to 240B. Linguistic history of classical Greek. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Greek Language", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 240B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, four hours. Requisite: course 240A. Postclassical, medieval, and modern Greek. S/U or letter grading.", 
+        "prerequisiteDescription": "course 240A", 
+        "prerequisites": [
+            [
+                "GREEK 240A"
+            ]
+        ], 
+        "title": "History of Greek Language", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 241": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Survey of Greek historical inscriptions, chiefly Attic. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Epigraphy", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 242": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Linguistic situation in early Greece. Readings in classical Greek dialectal texts. Greek grammar in context of common Greek and Indo-European linguistics. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Dialects and Historical Grammar", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 243": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Script, language, and grammar of Linear B inscriptions; their relevance to ancient Greek linguistic and cultural history. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Mycenaean Greek", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 244": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Preparation: reading knowledge of Greek. Introduction to Greek papyri, considered both as historical documents and as carriers of literature. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Papyrology", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 245": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Studies in development of book hand in Greek manuscripts earlier than invention of printing. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Greek Palaeography", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 250": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Advanced study of some aspect of ancient Greek language, literature, and/or culture. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topical Studies of Ancient Greece", 
+        "unit": "2 or 4", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2", 
+        "prerequisites": [
+            [
+                "GREEK 2"
+            ]
+        ], 
+        "title": "Elementary Greek", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Study for M.A", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for Ph.D", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 8A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Introduction to basic elements of modern Greek conversation for beginning students, including those with some knowledge of ancient (Attic) Greek. Conducted in modern Greek, with in-class conversation drills, regular homework assignments, and weekly quizzes. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 8B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Enforced requisite: course 8A. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 8A", 
+        "prerequisites": [
+            [
+                "GREEK 8A"
+            ]
+        ], 
+        "title": "Elementary Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 8C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Enforced requisite: course 8B. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 8B", 
+        "prerequisites": [
+            [
+                "GREEK 8B"
+            ]
+        ], 
+        "title": "Elementary Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "GREEK 9A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Enforced requisite: course 8C. Course 9A is enforced requisite to 9B, which is enforced requisite to 9C. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 8C", 
+        "prerequisites": [
+            [
+                "GREEK 8C"
+            ]
+        ], 
+        "title": "Intermediate Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 9B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Enforced requisite: course 9A. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 9A", 
+        "prerequisites": [
+            [
+                "GREEK 9A"
+            ]
+        ], 
+        "title": "Intermediate Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GREEK 9C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GREEK", 
+        "departmentFullName": "Greek", 
+        "description": "Lecture, three hours. Enforced requisite: course 9B. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 9B", 
+        "prerequisites": [
+            [
+                "GREEK 9B"
+            ]
+        ], 
+        "title": "Intermediate Modern Greek", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

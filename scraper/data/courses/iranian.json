@@ -1,0 +1,870 @@
+{
+    "IRANIAN 102A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Requisite: course 1C or 20C. Course 102A is requisite to 102B, which is requisite to 102C. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1C or 20C", 
+        "prerequisites": [], 
+        "title": "Intermediate Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 102B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Requisite: course 102A. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102A", 
+        "prerequisites": [
+            [
+                "IRANIAN 102A"
+            ]
+        ], 
+        "title": "Intermediate Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 102C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Requisite: course 102B. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102B", 
+        "prerequisites": [
+            [
+                "IRANIAN 102B"
+            ]
+        ], 
+        "title": "Intermediate Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 103A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Students who do exceptionally well in course 20C may be permitted to enroll with consent of instructor. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Advanced Persian: Introduction to Classical Persian Poetry", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 103B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Students who do exceptionally well in course 20C may be permitted to enroll with consent of instructor. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Advanced Persian: Introduction to Classical Persian Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 103C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Students who do exceptionally well in course 20C may be permitted to enroll with consent of instructor. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Advanced Persian: Introduction to Contemporary Persian Poetry and Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 104": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Readings in English. Introduction to wide selection of philosophical texts in translation. Identification of major philosophical themes in ontology, epistemology, psychology, and cosmology through texts, with study in detail. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Philosophical Texts", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 120": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, two hours; discussion, one hour. Preparation: knowledge of Persian. Lectures in Persian, readings in English and Persian. Comparative study of six major Persian poets from 10th to 14th century who shaped sense of Persian identity and delineated chief distinguishing characteristics of Persian thought and culture. May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Comparative Study of Six Major Persian Poets", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 130": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Readings in English. Introduction to intellectual history of Jews in Persia by highlighting select areas of Judeo-Persian studies and focusing on various authors and their work. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intellectual History of Jews of Persia", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 131": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Preparation: knowledge of Persian equivalent to course 102C. Introduction to history of Judeo-Persian literature and culture to prepare students to read Judeo-Persian texts. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Judeo-Persian: Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 132": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Enforced requisites: courses 102C, 131. Literary study of Judeo-Persian literature, as segment of Iranian classical literature. Judeo-Persian literary genres, in forms of prose and verse, compared with their parallel genres in context of Iranian literature. Textual study of Judeo-Persian manuscripts, both print and cursive, and their variations depending on time period or locality. P/NP or letter grading.", 
+        "prerequisiteDescription": "courses 102C, 131", 
+        "prerequisites": [], 
+        "title": "Intermediate Judeo-Persian Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 140": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Study of major Persian poets and prose writers: prose -- Sohravardi, Hamad\u00e2ni, Nasafi, Ir\u00e2qi, and others; poetry -- H\u00e2fez, Sa'di, R\u00fbmi, Bah\u00e2r, Dehkhoda, and others. May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Persian Belles Lettres (Adabiyyat)", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 141": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Study of selected analytical and expository prose texts, with emphasis on philosophy, sciences, literary criticism, and history. May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Persian Analytical Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 142": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 102C. Study of major Persian works on popular ethics that have helped shape normative social, cultural, and political values in Iranian civilization. May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Persian Popular Ethics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 150A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Knowledge of Persian not required. May be taken independently for credit.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Survey of Persian Literature in English", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 150B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Knowledge of Persian not required. May be taken independently for credit.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Survey of Persian Literature in English", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 161A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Preparation: knowledge of Persian desirable. Course 161A is requisite to 161B, which is requisite to 161C. Studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 161B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 161A. Studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 161A", 
+        "prerequisites": [
+            [
+                "IRANIAN 161A"
+            ]
+        ], 
+        "title": "Elementary Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 161C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 161B. Studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 161B", 
+        "prerequisites": [
+            [
+                "IRANIAN 161B"
+            ]
+        ], 
+        "title": "Elementary Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 169": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Survey of Iranian culture from the beginning through Sasanian period.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Civilization of Pre-Islamic Iran", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 170": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "History of religion in Iran from the beginning to the Mohammedan conquest; Indo-Iranian background, Zoroastrianism, Manichaeism, Mazdakism.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Religion in Ancient Iran", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 187": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Variable topics; consult \"Schedule of Classes\" for topics to be offered in specific term. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics in Iranian Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 188FL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, two hours. Requisite: course 102C. Students must be concurrently enrolled in affiliated main course. Primary readings and advanced training in Iranian. Additional work in Iranian to enrich and augment work assigned in main course, including reading, writing, and other exercises in Iranian. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 102C", 
+        "prerequisites": [
+            [
+                "IRANIAN 102C"
+            ]
+        ], 
+        "title": "Special Studies: Readings in Iranian", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Iranian", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Project in Iranian", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN 1A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Course 1A is enforced requisite to 1B, which is enforced requisite to 1C. Not open to students with prior knowledge of Persian. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 1B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Enforced requisite: course 1A. Not open to students with prior knowledge of Persian. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1A", 
+        "prerequisites": [
+            [
+                "IRANIAN 1A"
+            ]
+        ], 
+        "title": "Elementary Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 1C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, six hours. Enforced requisite: course 1B. Not open to students with prior knowledge of Persian. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1B", 
+        "prerequisites": [
+            [
+                "IRANIAN 1B"
+            ]
+        ], 
+        "title": "Elementary Persian", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 20A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, four hours; discussion two hours; laboratory, 30 minutes per day. Preparation: some knowledge of spoken Persian. Course 20A is enforced requisite to 20B, which is enforced requisite to 20C. Intensive and thorough study of fundamental structure of Persian grammar; reading from a wide range of classical and modern poetry and prose compositions. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Accelerated Elementary Persian", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 20B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, four hours; discussion two hours; laboratory, 30 minutes per day. Preparation: some knowledge of spoken Persian. Enforced requisite: course 20A. Intensive and thorough study of fundamental structure of Persian grammar; reading from a wide range of classical and modern poetry and prose compositions. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 20A", 
+        "prerequisites": [
+            [
+                "IRANIAN 20A"
+            ]
+        ], 
+        "title": "Accelerated Elementary Persian", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 20C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, four hours; discussion two hours; laboratory, 30 minutes per day. Preparation: some knowledge of spoken Persian. Enforced requisite: course 20B. Intensive and thorough study of fundamental structure of Persian grammar; reading from a wide range of classical and modern poetry and prose compositions. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 20B", 
+        "prerequisites": [
+            [
+                "IRANIAN 20B"
+            ]
+        ], 
+        "title": "Accelerated Elementary Persian", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 220A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisites: courses 103A, 103B, 103C. Study of selected classical Persian texts. May be taken independently for credit.", 
+        "prerequisiteDescription": "courses 103A, 103B, 103C", 
+        "prerequisites": [], 
+        "title": "Classical Persian Texts", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 220B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisites: courses 103A, 103B, 103C. Study of selected classical Persian texts. May be taken independently for credit.", 
+        "prerequisiteDescription": "courses 103A, 103B, 103C", 
+        "prerequisites": [], 
+        "title": "Classical Persian Texts", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 221": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, three hours. Requisite: course 220A or 220B. Study of life and works of Rumi in context of interaction of Sufism and poetic creativity. May be repeated twice for credit.", 
+        "prerequisiteDescription": "course 220A or 220B", 
+        "prerequisites": [], 
+        "title": "Rumi, Mystic Poet of Islam", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 231A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 161C. Course 231A is requisite to 231B, which is requisite to 231C. Further studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. S/U or letter grading.", 
+        "prerequisiteDescription": "course 161C", 
+        "prerequisites": [
+            [
+                "IRANIAN 161C"
+            ]
+        ], 
+        "title": "Advanced Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 231B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 231A. Further studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. S/U or letter grading.", 
+        "prerequisiteDescription": "course 231A", 
+        "prerequisites": [
+            [
+                "IRANIAN 231A"
+            ]
+        ], 
+        "title": "Advanced Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 231C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, three hours. Requisite: course 231B. Further studies in grammars and texts of Middle Iranian languages (e.g., Middle Persian, Parthian, Sogdian, Khotanese, Bactrian). May be repeated for credit with consent of instructor. S/U or letter grading.", 
+        "prerequisiteDescription": "course 231B", 
+        "prerequisites": [
+            [
+                "IRANIAN 231B"
+            ]
+        ], 
+        "title": "Advanced Middle Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 250": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, three hours. Requisites: courses 103A, 103B, 103C, 199. May be repeated twice for credit.", 
+        "prerequisiteDescription": "courses 103A, 103B, 103C, 199", 
+        "prerequisites": [], 
+        "title": "Seminar: Classcial Persian Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 251": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, three hours. Requisite: course 140. Studies in specific problems and trends in Persian poetry and prose in the 20th century. May be repeated twice for credit.", 
+        "prerequisiteDescription": "course 140", 
+        "prerequisites": [
+            [
+                "IRANIAN 140"
+            ]
+        ], 
+        "title": "Seminar: Contemporary Persian Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, to be arranged. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Examination Preparation", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Ph.D", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN 8": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Lecture, 10 hours; discussion, 10 hours. Not open to students who have learned, from whatever source, enough Persian to qualify for more advanced courses. Intensive course equivalent to courses 1A, 1B, and 1C. Introduction to fundamentals of Persian, including pronunciation, grammar, and Persian script, with emphasis on all four basic language skills -- speaking, listening comprehension, reading, and writing. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Persian: Intensive", 
+        "unit": 15, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "IRANIAN CM163": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East CM163.) Lecture, three hours. Designed to introduce students to Iranian archaeology from prehistoric through Achaemenid times. Concurrently scheduled with course CM259. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Archaeology of Iran", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN CM259": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East CM259.) Lecture, three hours. Designed to introduce students to Iranian archaeology from prehistoric through Achaemenid times. Concurrently scheduled with course CM163. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Archaeology of Iran", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M105A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Religion M105A.) Lecture, three hours. Readings in English. Rise and development of Babi and Baha'i religions in context of 19th century Iran. Focus on personalities of Bab, Baha'u'llah, and 'Abdu'l-baha. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Baha'i Faith in Iran: Historical and Sociological Survey", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M105B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Religion M105B.) Lecture, three hours. Readings in English. Analysis of major writings by Bab, Baha'u'llah, and 'Abdu'l-Baha. Emphasis on mystical and social principles. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Baha'i Faith in Iran: Survey of Baha'i Scriptures and Thought", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M105C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Religion M105C.) Lecture, three hours. Readings in English. Focus on history of 20th-century Iran beginning with constitutional revolution, development and persecution of Baha'i community, and latter's relation to reform movements in Iran. May be taken independently for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Baha'i Faith in Iran: 20th Century Iran and the Baha'is", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M110A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East M110A and History M110A.) Lecture, three hours; discussion, one hour (when scheduled). From end of Elam and rise of Medes to Macedonian conquest of Achaemenid Persia. Emphasis on political history, state structure, empire's religions, and Greco-Persian interactions. Further accents on Cyrus' empire and Darius' world order, age of Persian Wars, Cyrus the Younger, Achaemenid Egypt, Alexander's conquest. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Iranian Civilization: History of Achaemenid Empire", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M110B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East M110B and History M110B.) Lecture, three hours; discussion, one hour (when scheduled). From Hellenistic rule in Persia to Sasanian conquest. Emphasis on political history, state structure, empire's religions, interactions with Hellenistic and Roman worlds. Further accent on Parthian conquest of Iran and Mesopotamia, Seleucid demise and Arsacid hegemony in East, Arsacid-Roman wars, rise of Sasanians. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Iranian Civilization: History of Arsacid (Parthian) Empire", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M110C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East M110C and History M110C.) Lecture, three hours; discussion, one hour (when scheduled). From fall of Arsacids to Muslim conquest of Iran. Emphasis on political and economic history, evolution of state structure, empire's religious landscape (Mazdism, Manicheism, Exilarchate, Church of Persia, Mazdakism), Persian and Roman/Byzantine interactions, Persia and East. Further accent on Persian-Roman conflicts and cooperation, Persia and Huns. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Iranian Civilization: History of Early Sasanian Empire -- From Ardashir I to Rise of Peroz (circa 224-459 C.E.)", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M115A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Turkic Languages M115A.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Azeri", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M115B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Turkic Languages M115B.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Azeri", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M115C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Turkic Languages M115C.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Azeri", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M178": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as History M178 and Jewish Studies M178.) Lecture, three hours. Introduction to political, intellectual, cultural, and socioeconomic status of Iranian Jews. Exploration of history of Iranian Jews from ancient period throughout history, with focus on post-Middle Ages to present time. Topics, studied from perspective of Iranian cultural and intellectual history, include identity and status, religious tolerance versus forced conversion, Iranian Jewish emancipation, and dynamic symbiosis between Iranian Jews and other Iranians. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to History and Culture of Iranian Jews", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M210": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Ancient Near East M208 and History M210.) Seminar, three hours. Varying topics on Elamite, Achaemenid, Arsacid, and Sasanian history. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topics in Ancient Iranian History", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M222A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Indo-European Studies M222A and South Asian M222A.) Lecture, three hours. Preparation: knowledge of Sanskrit equivalent to South Asian 110C. Characteristics of Vedic dialect and readings in Rig-Vedic hymns. May not be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Vedic", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M222B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Indo-European Studies M222B and South Asian M222B.) Lecture, three hours. Preparation: knowledge of Sanskrit equivalent to South Asian 110C. Characteristics of Vedic dialect and readings in Rig-Vedic hymns. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Vedic", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M230A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Indo-European Studies M230A.) Lecture, four hours. Studies in grammars and texts of Old Persian and Avestan. Comparative considerations. May not be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Old Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "IRANIAN M230B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "IRANIAN", 
+        "departmentFullName": "Iranian", 
+        "description": "(Same as Indo-European Studies M230B.) Lecture, four hours. Studies in grammars and texts of Old Persian and Avestan. Comparative considerations. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Old Iranian", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}
