@@ -1,0 +1,94 @@
+{
+    "NEURLGY 188SA": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NEURLGY 188SB": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SA", 
+        "prerequisites": [
+            [
+                "NEURLGY 188SA"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NEURLGY 188SC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SB", 
+        "prerequisites": [
+            [
+                "NEURLGY 188SB"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NEURLGY 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NEURLGY 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Neurology", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "NEURLGY 88S": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Seminar, one hour. Offers comprehensive study of one disease from multitude of perspectives. Study of Huntington's disease from variety of lenses, including neurobiology, ethics, doctor experience, patient experience, and public health implications. Students gain greater appreciation for factors that must be considered when viewing particular illness. Scientific and public health backgrounds not required. P/NP grading. Facilitated by Elisa Fazzari and Leane Nasrallah, with Leif A. Havton as faculty mentor.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Varying Perspectives on Disease: From Molecules to Populations", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "NEURLGY 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "NEURLGY", 
+        "departmentFullName": "Neurology", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

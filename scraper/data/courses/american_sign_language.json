@@ -1,0 +1,214 @@
+{
+    "ASL 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Introduction to fundamentals of American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 121": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, three hours. Historical survey of mass media (print, film, television, and Internet) as sources and interpreters of deafness and deaf people within context of U.S. social and cultural history. Examination of historical changes in products of mass media within deaf community and ways of critiquing media sources. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Mass Media and Deaf Community", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Enforced requisite: course 1. Introduction to fundamentals of American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1", 
+        "prerequisites": [
+            [
+                "ASL 1"
+            ]
+        ], 
+        "title": "Elementary American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Enforced requisite: course 2. Introduction to fundamentals of American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2", 
+        "prerequisites": [
+            [
+                "ASL 2"
+            ]
+        ], 
+        "title": "Elementary American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 4": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Enforced requisite: course 3. Intermediate American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "ASL 3"
+            ]
+        ], 
+        "title": "Intermediate American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Enforced requisite: course 4. Intermediate American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 4", 
+        "prerequisites": [
+            [
+                "ASL 4"
+            ]
+        ], 
+        "title": "Intermediate American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 6": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, five hours. Enforced requisite: course 5. Intermediate American sign language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "ASL 5"
+            ]
+        ], 
+        "title": "Intermediate American Sign Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 8": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Lecture, 20 hours. Intensive elementary instruction in American sign language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive Elementary American Sign Language", 
+        "unit": 15, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "ASL M115": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "(Same as Disability Studies M115.) Lecture, three hours. Exploration of historical, medical, social, political, philosophical, and cultural influences that have constructed categories of normalcy, disability, and deafness. Building on writing of Michel Foucault and critical work in field of disability studies, inquiry into institutions that have enforced standards of normalcy throughout 19th and 20th centuries to present. Primary attention to rise of medical authority in West, history of eugenics, and contemporary bioethics issues confronting disability and deaf communities. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Enforcing Normalcy: Deaf and Disability Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "ASL M120": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "ASL", 
+        "departmentFullName": "American Sign Language", 
+        "description": "(Same as History M147E.) Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. Study of history and culture of deaf communities in America (circa 1800 to present) by exploring major events impacting deaf people, including development of sign language, deaf education, audism, politics of deafness, eugenics, deaf revolution movements, and role of hearing technology. Historical development of emergence, growth, and survival of America's deaf community and development of deaf identity over time. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of Deaf Communities in America", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

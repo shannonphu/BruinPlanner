@@ -14,3 +14,4 @@ class CourseJSONWriter(object):
 
 		with open(output_path, 'w') as outfile:
 			json.dump(courses_json, outfile, indent=4, sort_keys=True)
+			print "Wrote JSON to " + output_path

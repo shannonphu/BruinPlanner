@@ -1,0 +1,66 @@
+{
+    "I M STD 155": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "I M STD", 
+        "departmentFullName": "International Migration Studies", 
+        "description": "Seminar, three hours. Limited to International Migration Studies minors. Overview of key debates in study of international migration, focusing on emigration, immigration, and connections between place of origin and destination. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theory, Research, and Methods in Study of International Migration", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "I M STD 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "I M STD", 
+        "departmentFullName": "International Migration Studies", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "I M STD 193": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "I M STD", 
+        "departmentFullName": "International Migration Studies", 
+        "description": "Seminar, two hours. Introduction to current scholarship in field of international migration studies. Attendance at selected presentations with required response papers. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Colloquia and Speaker Series", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "I M STD 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "I M STD", 
+        "departmentFullName": "International Migration Studies", 
+        "description": "Tutorial, to be arranged. Requisite: course 155. Limited to International Migration Studies minors. Supervised individual research under guidance of faculty mentor. Culminating paper required. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": "course 155", 
+        "prerequisites": [
+            [
+                "I M STD 155"
+            ]
+        ], 
+        "title": "Directed Individual Research in International Migration Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "I M STD 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "I M STD", 
+        "departmentFullName": "International Migration Studies", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

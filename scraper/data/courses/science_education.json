@@ -1,0 +1,114 @@
+{
+    "SCI EDU 100SL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, three hours; service learning fieldwork, three hours. Recommended requisite: course 1SL or 10SL. Introduction for prospective science teachers to field of secondary education and teaching and learning of science in high school classrooms. Pairs of students are placed in local high school classrooms to observe, participate, and assist mentor teachers in instruction. Discussion of learning in high school culture, cognitive development of students at this level, and best means to teach appropriate science concepts at this level. Letter grading.", 
+        "prerequisiteDescription": "course 1SL or 10SL", 
+        "prerequisites": [], 
+        "title": "Classroom Practices in High School Science", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 10SL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, 90 minutes; fieldwork, three hours. Recommended requisite: course 1SL. Introduction for prospective science teachers to field of secondary education and teaching and learning of science in middle school classrooms. Pairs of students are placed in local middle school classrooms to observe, participate, and assist mentor teachers in instruction. Discussion of learning in middle school culture, cognitive development of students at this level, and best means to teach appropriate science concepts at this level. P/NP grading.", 
+        "prerequisiteDescription": "course 1SL", 
+        "prerequisites": [
+            [
+                "SCI EDU 1SL"
+            ]
+        ], 
+        "title": "Classroom Practices in Middle School Science", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 1SL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, 90 minutes; fieldwork, three hours per week for eight weeks. Introduction for prospective science teachers to field of elementary education and teaching and learning of science in elementary school classrooms. Pairs of students are placed in local elementary school classrooms to observe, participate, and assist mentor teachers in instruction. Introduction to inquiry-based learning practices, national and California standards, reading and learning differences in children, and cognitive ability of elementary-age children as it relates to introduction of concepts, curricular planning, classroom management, and learning assessment. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Classroom Practices in Elementary School Science", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SCI EDU 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SCI EDU", 
+        "departmentFullName": "Science Education", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

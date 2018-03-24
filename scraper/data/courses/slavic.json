@@ -1,0 +1,442 @@
+{
+    "SLAVC 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 191H": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Limited to senior departmental majors. Planning and development of senior honors capstone thesis. Introduction to research methods and presentation skills; use of student target language for research required. Verbal and written presentations required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Senior Honors Thesis in Slavic Languages and Literatures", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 191TA": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Formerly numbered 191T.) Seminar, three hours. Limited to senior departmental majors. Planning and completion of senior capstone thesis. Introduction to research methods and presentation skills; use of student target language for research required. Verbal and written presentations required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Senior Capstone Thesis in Slavic Languages and Literatures", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 191TB": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Enforced requisite: course 191TA. Limited to senior departmental majors. Editing and completion of senior capstone thesis. Use of student target language for research required. Letter grading.", 
+        "prerequisiteDescription": "course 191TA", 
+        "prerequisites": [
+            [
+                "SLAVC 191TA"
+            ]
+        ], 
+        "title": "Senior Capstone Thesis in Slavic Languages and Literatures", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 191TC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Enforced requisite: course 191TB. Limited to senior departmental majors. Editing and completion of senior capstone thesis. Use of student target language for research required. Letter grading.", 
+        "prerequisiteDescription": "course 191TB", 
+        "prerequisites": [
+            [
+                "SLAVC 191TB"
+            ]
+        ], 
+        "title": "Senior Capstone Thesis in Slavic Languages and Literatures", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Slavic Languages and Literatures", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 198A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, three hours. Course 198A is requisite to 198B. Limited to senior departmental honors program students. Development of honors thesis under direct supervision of faculty member. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Research in Slavic Languages and Literatures", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 198B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, three hours. Requisite: course 198A. Limited to senior departmental honors program students. Completion of honors thesis under direct supervision of faculty member. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": "course 198A", 
+        "prerequisites": [
+            [
+                "SLAVC 198A"
+            ]
+        ], 
+        "title": "Honors Research in Slavic Languages and Literatures", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Slavic Languages and Literatures", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 200A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Required for M.A. (literature). Designed to prepare incoming graduate students for scholarly work by introducing them to resources (departmental, intramural, and extramural), methodologies, and techniques for analysis of literary materials and cultural studies. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Literary Proseminar", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 200B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Required for M.A. (linguistics). Introduction to synchronic and diachronic study of Slavic languages and to research tools and methodologies associated with Slavic linguistics. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Proseminar: Slavic Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 201": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Required for M.A. (linguistics, literature). Introduction to phonology and grammar; readings.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Old Church Slavic", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 202": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Requisite: course 201. Required for M.A. (linguistics). Introduction to comparative phonology and grammar of Slavic languages.", 
+        "prerequisiteDescription": "course 201", 
+        "prerequisites": [
+            [
+                "SLAVC 201"
+            ]
+        ], 
+        "title": "Introduction to Comparative Slavic Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 230A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Recommended preparation: upper division courses in Czech, Polish, Russian, and Yugoslav literatures. Two terms required for Ph.D. (literature). May be repeated for credit with consent of instructor and graduate adviser.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topics in Comparative Slavic Literature: Middle Ages through Baroque", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 230B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Recommended preparation: upper division courses in Czech, Polish, Russian, and Yugoslav literatures. Two terms required for Ph.D. (literature). May be repeated for credit with consent of instructor and graduate adviser.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topics in Comparative Slavic Literature: Classicism through Romanticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 230C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Recommended preparation: upper division courses in Czech, Polish, Russian, and Yugoslav literatures. Two terms required for Ph.D. (literature). May be repeated for credit with consent of instructor and graduate adviser.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topics in Comparative Slavic Literature: Realism to Modernism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 251": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours. Requisite: course 202. Introduction to Baltic linguistics, with special attention to relationship between Baltic and Slavic.", 
+        "prerequisiteDescription": "course 202", 
+        "prerequisites": [
+            [
+                "SLAVC 202"
+            ]
+        ], 
+        "title": "Introduction to Baltic Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 495": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, 90 minutes; discussion, 90 minutes. Designed for graduate students. Theory and practice of language teaching. Discussion of contemporary language teaching methodology as well as problems of pedagogical grammar. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Slavic Languages at College Level", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours; discussion, one hour (when scheduled). Interdisciplinary survey of Eurasia. Introduction to history, culture, and geography of diverse area that is often vaguely understood as not quite Europe and not quite Asia, yet both at the same time home to several of history's most powerful overland empires, as well as its most notorious figures: Genghis Khan, Alexander the Great, Ivan the Terrible, and others. Exploration of contemporary issues in modern states of Russia, China, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Iran, and Azerbaijan. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Eurasia", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for M.A", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for Ph.D", 
+        "unit": "2 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC 87": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours; discussion, one hour. Comprehensive interdisciplinary investigation of Los Angeles as multilingual and multicultural metropolis Review and analysis of features of major linguistic communities in Los Angeles area (Armenian, Cantonese, Japanese, Korean, Mandarin, Russian, Spanish, and others), with particular attention to social and cultural factors that play role in maintenance of language used in any given ethnic group. Familiarization with discipline and methodology of urban linguistics as part of urban geographical studies and as tool for investigating growing linguistic and cultural diversity of America's large cities. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Languages of Los Angeles", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 90": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Lecture, three hours; discussion, one hour. Introductory survey of social and cultural institutions of Slavic peoples and their historical background. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Slavic Civilization", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "SLAVC CM114": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Same as Asian CM124 and Near Eastern Languages CM114.) Lecture, three hours. Consideration of issues relevant to heritage language learners (HLL) and to heritage language (HL) instruction. Readings and discussion on such topics as definitions of HLs and HLLs; linguistic, demographic, sociolinguistic, and sociocultural profile of HLLs, particularly HL groups most represented among UCLA students; institutional and instructor attitudes toward HLLs; impact of student motivation and expectations on HL curriculum and teaching approaches; similarities and differences between HLLs and foreign language learners (FLLs) regarding teaching methods and materials; diagnostic testing and needs analysis; use of oral/aural proficiency as springboard for literacy instruction; optimization of instruction of mixed HL and FL classes. Action research component included. Concurrently scheduled with course CM214. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching and Learning of Heritage Languages", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC CM214": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Same as Asian CM224 and Near Eastern Languages CM214.) Lecture, three hours. Consideration of issues relevant to heritage language learners (HLL) and to heritage language (HL) instruction. Readings and discussion on such topics as definitions of HLs and HLLs; linguistic, demographic, sociolinguistic, and sociocultural profile of HLLs, particularly HL groups most represented among UCLA students; institutional and instructor attitudes toward HLLs; impact of student motivation and expectations on HL curriculum and teaching approaches; similarities and differences between HLLs and foreign language learners (FLLs) regarding teaching methods and materials; diagnostic testing and needs analysis; use of oral/aural proficiency as springboard for literacy instruction; optimization of instruction of mixed HL and FL classes. Action research component included. Concurrently scheduled with course CM114. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching and Learning of Heritage Languages", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC M20": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Same as Asian M20, Indo-European Studies M20, Near Eastern Languages M20, and Southeast Asian M20.) Lecture, three hours; discussion, one hour. Consideration of concrete means of language representation in writing systems. Earliest representations of language known are those of Near East dating to end of 4th millennium B.C. While literate civilizations of Egypt, Indus Valley, China, and Mesoamerica left little evidence of corresponding earliest developments, their antiquity and, in case of China and Mesoamerica, their evident isolation mark these centers as loci of independent developments in writing. Basic characteristics of early scripts, assessment of modern alphabetic writing systems, and presentation of conceptual basis of semiotic language representation. Origins and development of early non-Western writing systems. How Greco-Roman alphabet arose in 1st millennium B.C. and how it compares to other modern writing systems. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Visible Language: Study of Writing", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC M229": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Same as Information Studies M229C.) Introduction to Slavic and East European bibliography for the humanities and social sciences. Emphasis to be determined by requirements and background of enrolled students. Topics include relevant library terminology and concepts; survey of languages and transliteration systems; acquisition of Slavic and East European library materials; Slavic and East European scholarship in the West; relevant reference sources, archival resources, and research methods; survey of online databases; compilation of bibliographies. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Slavic Bibliography", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SLAVC M40": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SLAVC", 
+        "departmentFullName": "Slavic", 
+        "description": "(Same as Religion M40.) Lecture, three hours; discussion, one hour. Survey of three major historical branches of Christianity -- Eastern and Oriental Orthodoxy, Roman Catholicism, and Protestantism, contrasting how history, dogma, culture, and community structures develop in those three traditions. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Christianities East and West", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }
+}

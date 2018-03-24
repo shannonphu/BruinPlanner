@@ -1,0 +1,1418 @@
+{
+    "GERMAN 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, five hours; laboratory, one hour. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 102": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Taught in English. Analysis of interrelationship between politics, social conditions, and arts with respect to war. World Wars I and II and German history to be used as model for principal questions of society and philosophical thinking. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "War, Politics, Art", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 103": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, two hours; discussion, one hour. Taught in English. Survey of German film between 1919 and 1945. Analysis of technological and stylistic development of film from silent Expressionist films to Nazi propaganda and entertainment films. Film discussions enhanced by interactive media. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "German Film in Cultural Context: Early German Film", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 104": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, two hours; discussion, one hour. Taught in English. Survey of German film since 1945 in its thematic and stylistic diversity. How did German filmmakers grapple with aftermath of World War II and Holocaust, economic recovery, Cold War and division of Germany, reunification, and growth of minority communities? Film discussions enhanced by interactive media. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "German Film in Cultural Context, 1945 to Present", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 109": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Analysis of works that represent process of Jewish assimilation, disenfranchisement, and extermination, including authors such as Mendelssohn, Heine, Kafka, Paul Celan, Nelly Sachs, Anne Frank, and others. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Jewish Question and German Thought", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 110": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Content varies with instructor and may include works by authors such as Thomas Mann, Rilke, Kafka, Brecht, Christa Wolf, and others. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Topics in Modern Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 111": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Survey of Nobel Prize-winning German texts with eye for degree to which these authors' visions reflect Nobel's ideals of peace and progress of human race. Texts include \"Weavers\" (Hauptmann), excerpts from \"Buddenbrooks\" (Mann), and \"Siddharta\" (Hesse). Viewing of films based on \"Lost Honor of Katharina Blum\" and \"Tin Drum.\" Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Thomas Mann, Hesse, B\u00f6ll, and Grass: German Nobel Prize Winners in Literature in English", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 112": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Analysis of major issues in German feminism today (e.g., status, creative work, and reception of women writers in various periods such as Romanticism, Fascism, and/or divided/unified Germanies). Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Feminist Issues in German Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 113": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Survey of various folklore genres in cultural context, including legends, proverbs, and cultural enactments such as carnival. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "German Folklore", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 114": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Taught in English. History and reception of folklore collections in Europe, with particular attention to ideology and influence of Grimms' tales. Interpretation of selected tales and their transformations and appropriation in literature, film, advertising, and pedagogy. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fairy Tales and Fantastic", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 115": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Taught in English. German philosophy, which may generally be characterized as philosophy that takes activity rather than passive subsistence to be fundamental nature of all things, is one of Germany's greatest gifts to humanity. Exploration of first half of two-century history of German philosophy -- period from Kant to Nietzsche, including Hegel, Kierkegaard, and Marx. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "19th-Century German Philosophy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 116": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Taught in English. German philosophy, which may generally be characterized as philosophy that takes activity rather than passive subsistence to be fundamental nature of all things, is one of Germany's greatest gifts to humanity. Exploration of second half of two-century history of German philosophy -- period from Nietzsche through Habermas, including Heidegger, Gadamer, Jaspers, and Frankfurt School theorists. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "20th-Century German Philosophy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 117": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in English. Cultural and historical exploration of exile as site of creative activity for German writers and other artists during and after World War II. General questions of cultural migration and cultural transfer to be thematized. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "German Exile Culture in Los Angeles", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 118SL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, two hours; fieldwork, two hours. Strongly recommended requisites: prior European and Holocaust history courses. Examination of historical value of eyewitness testimony of Holocaust through unique service opportunities that bring students together with survivors. Question of testimony approached from number of perspectives, including legal, historical, and ethical, to examine vexed relationship between history and memory. Examination of survivor testimony through classic memoirs in field, such as Primo Levi's \"The Drowned and the Saved\" and Ruth Kluger's \"Still Alive.\" Through collaboration with Jewish Family Services, 1939 Club, and Los Angeles Museum of Holocaust, students meet and work with Holocaust survivors and undertake collaborative research projects and oral histories. Students also research and curate series of interactive tours through Museum of Holocaust. Letter grading.", 
+        "prerequisiteDescription": "prior European and Holocaust history courses", 
+        "prerequisites": [], 
+        "title": "Between Memory and History: Interviewing Holocaust Survivors", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 140": {
+        "corequisiteDescription": "course 6", 
+        "corequisites": [
+            [
+                "GERMAN 6"
+            ]
+        ], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite or corequisite: course 6. Taught in English with German proficiency required. Theories and methods of linguistics, with emphasis on structure of modern standard German, its phonology, morphology, syntax, semantics, and pragmatics. Other topics include diachronic, spatial, and social variation of German (i.e., its historical development, dialectology, and sociolinguistic dimensions). Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Language and Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 141": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152. Taught in English with German proficiency required. In-depth investigation of one topic in field of Germanic linguistics, such as phonetics and phonology, morphology and syntax, semantics and pragmatics, social and spatial variation (i.e., sociolinguistics and dialectology of German), or history of German. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 152", 
+        "prerequisites": [
+            [
+                "GERMAN 152"
+            ]
+        ], 
+        "title": "Current Topics in Germanic Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 150": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours. Enforced requisite: course 3. Taught in German. Introduction to four German plays (readings variable) and to different types of drama and drama theory. Reading, discussion, and analysis of plays in detail, practice in performing roles in class, and writing of short responses in German. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "GERMAN 3"
+            ]
+        ], 
+        "title": "German Play Production Act I", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 151": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours. Requisites: courses 3 (enforced), 150. Taught in German. Staging of German play. Students responsible for various aspects of theater production, including acting and technical jobs (costumes, sets, and programs). Intensive pronunciation practice. Two public performances take place at end of term. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "courses 3 (enforced), 150", 
+        "prerequisites": [], 
+        "title": "German Play Production Act II", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 152": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 6. Taught in German. Structured around themes as they emerge in contemporary German texts ranging from news magazine articles to literature, with emphasis on speaking and writing proficiency. Presentation software featured. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "GERMAN 6"
+            ]
+        ], 
+        "title": "Conversation and Composition on Contemporary German Culture and Society I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 153": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 6. Taught in German. Structured around themes as they emerge in contemporary German texts ranging from news magazine articles to literature, with emphasis on speaking and writing proficiency. Presentation software featured. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "GERMAN 6"
+            ]
+        ], 
+        "title": "Conversation and Composition on Contemporary German Culture and Society II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 154": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 6. Taught in German. Specialized language course that teaches German business administration, practices, and correspondence, with attention to cultural nuances. Ongoing developments in European Union analyzed via newspaper articles and Internet. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "GERMAN 6"
+            ]
+        ], 
+        "title": "Business German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 155": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisites: courses 152, 153. Taught in German. Advanced German language course that juxtaposes cultural history with current affairs to teach complex speaking and writing skills of interpretation, analysis, and criticism. Readings may include selections from Luther, Heine, Freud, and current authors. Students create their own interactive media presentations. Letter grading.", 
+        "prerequisiteDescription": "courses 152, 153", 
+        "prerequisites": [], 
+        "title": "Advanced German Language through Cultural History and Current Affairs", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 157": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in German. Development of advanced speaking skills and thorough grounding in essay writing in German by considering issues of style, structure, grammar, and vocabulary. Introduction to contemporary German cinema to expose students to slice of German (and European) culture and history, with focus on notion of boundary. Examination of different types of boundaries and borders (e.g., physical borders between countries; boundaries created by various political ideologies; socially created boundaries of class, race, and gender; boundary between memory and experience), ways in which people cross them, and their reasons for these transgressions. Analysis of movies to better understand various cinematic techniques. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Contemporary German Cinema: Advanced Conversation and Composition", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 158": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in German. Introduction to most important terms and resources of literary analysis to help students develop and improve skills in close and critical reading of literary texts, develop basic research techniques, acquire familiarity with basics of literary and cultural analysis, and find pleasure in pursuit of literary and cultural study. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Study of Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 159": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German; some theoretical readings in English. Exploration of German culture in different historical contexts. Examination of various cultural spaces, practices, and standpoints as staged in literary and nonliterary texts, with emphasis on constructions of sex and gender, memory and national identity, and ethnicity and race. Analysis of ways of seeing, thinking, and talking about these issues as manifested in several cultural debates that dominated public discussions in Germany (and Europe) for several weeks, months, or even years (e.g., debates about admission of women to universities at end of 19th century, reconstructing/preserving sites of memory in postwar Germany, and headscarf and integration in contemporary Germany). Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "German Cultural Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 160": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Close reading of representative examples of German lyric poetry from early as well as recent literary periods, including systematic consideration of poetic conventions and forms, diction, imagery, symbolism, and metrics. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to German Poetry", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 161": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Analysis of selected dramatic genres (e.g., tragedy, comedy, one-act play, lyric drama, lyric theater, historical drama, etc.), including systematic review of dramatic forms, techniques, and theories. Texts selected from both contemporary and earlier periods. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to German Drama", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 162": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Analysis of narrative prose genres (e.g., short story, novella, fairy tales, etc.), including systematic review of narrative forms, techniques, and styles. Texts selected from both contemporary and earlier periods. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to German Narrative Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 163": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Topics in Enlightenment literature, social history, and culture. Works by Goethe, Lessing, Schiller, Kant, Mozart, and others. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Project of Enlightenment", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 164": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Presentation of major texts from Romanticism to realism. Works by Kleist, B\u00fcchner, Heine, Fontane, and others. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to 19th-Century Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 165": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Analysis of selected modern works written between 1890 and 1945, including texts by authors such as Thomas Mann, Kafka, Rilke, Brecht, and others. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to Modern Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 166": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Analysis and discussion of German, Austrian, Swiss, and ex-GDR literatures from 1945 to present. Examination of writers such as Heinrich B\u00f6ll, G\u00fcnther Grass, Friedrich D\u00fcrrenmatt, Elfriede Jelinek, and Christa Wolf with view to their specific political and cultural context. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Introduction to Contemporary Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 169": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Readings and analysis of major works from Middle Ages to baroque. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Studies in German Literature before 1750", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 170": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Requisite: course 152 or 153. Taught in German. Reading and discussion of representative works (except Faust) from Goethe's early period (Die Leiden des jungen Werther) through maturity and old age (West-\u00f6stlicher Divan). Students work with digital humanities methods to improve German language competency and evaluate Goethe's global influence on Western intellectual history. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Goethe and World Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 171": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Detailed interpretation of Goethe's major work, Parts I and II, together with general consideration of other treatments of \"Faust\" theme in European literature. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Goethe's Faust", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 172": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Reading and analysis of major works by German Romantics, including Friedrich Schlegel, Novalis, E.T.A. Hoffman, and Eichendorff. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Romanticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 173": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Naturalism, Expressionism, and other early 20th-century literary movements and works. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Advanced Study of Modern Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 174": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 152 or 153. Taught in German. Literature after 1945 in German-speaking countries, including issues such as national borders, ethnic identity, gender relations, and commercialization of culture. Letter grading.", 
+        "prerequisiteDescription": "course 152 or 153", 
+        "prerequisites": [], 
+        "title": "Advanced Study of Contemporary Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 175": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Taught in German. Most readings in German; some theoretical readings in English. Exploration of issues surrounding immigration and intercultural identity in Germany since 1960, with focus on period after 1990. Examination of various cultural spaces, practices, and standpoints as staged in literary and nonliterary texts, with emphasis on constructions of ethnicity, nation, race, class, and gender. Analysis of several political and cultural debates that dominated media and public discussions in Germany and Europe for several weeks. Discussion of several literary texts by Turkish German and other minority/intercultural writers. Examination of hip-hop minority music and culture as voices in political debates. Exploration of contemporary controversies around Islam in Germany. Reading of several theoretical pieces that examine relationships between immigration, globalization, culture, and identity. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intercultural Germany: Literature, Politics, Migration, and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 187": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Required of all German majors who are candidates for general secondary instructional credential. Content varies by instructor and may include advanced work in folklore, film, and German studies. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Undergraduate Seminar", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 188SA": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 188SB": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SA", 
+        "prerequisites": [
+            [
+                "GERMAN 188SA"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 188SC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SB", 
+        "prerequisites": [
+            [
+                "GERMAN 188SB"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 191A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Requisite: course 6. Taught in German. Research seminars on topics to be announced each term. Topics include major writers, genres, cultural movements, or theoretical practices. May be repeated for credit with consent of major adviser. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "GERMAN 6"
+            ]
+        ], 
+        "title": "Variable Topics Research Seminars: German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 191C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Limited to senior German majors. Collaborative discussion of and reflection on courses already taken for major, drawing out and synthesizing larger themes and culminating in paper or other final project. Must be taken in conjunction with one course numbered 140 or higher. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Capstone Seminar", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in German", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "GERMAN 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Project in German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 1G": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours. Preparation for Graduate Division foreign language reading requirement. May not be applied toward degree requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary German for Graduate Students", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, five hours; laboratory, one hour. Enforced requisite: course 1. P/NP or letter grade.", 
+        "prerequisiteDescription": "course 1", 
+        "prerequisites": [
+            [
+                "GERMAN 1"
+            ]
+        ], 
+        "title": "Elementary German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 201C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Advanced analysis and discussion of various models of literary interpretation and schools of thought such as hermeneutics, psychoanalytic criticism, social historical approaches, semiotics, structuralism, and poststructuralism. Topics vary with instructor. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Theories of Literary Interpretation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 202A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Introduction to Middle High German language, with particular emphasis on developing facility in reading. Study of grammar, syntax, and vocabulary combined with introduction to poetic forms and cultural context. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Middle High German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 202B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Introduction to medieval German literature and literary history and to use of contemporary theory in study of medieval texts. Continued practice in reading Middle High German, although most texts to be read in modern translation. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Readings in Middle High German Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 204": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Selected readings from 1500 to 1700, with introduction to development of German as modern literary language and to literary genres and cultural models. Impact of Thirty Years' War on German literary production and reception in German baroque. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Early Modern German Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 206": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Analysis of major 18th-century German texts from philosophic, social-historical, psychohistorical, and literary perspectives. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Enlightenment Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 207": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Reading and interpretation of major works of German classicism. May include problems in reception of classicism by later authors and cultural theorists. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Weimar Classicism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 208": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Analysis of selected works and theories of German Romantics such as Friedrich Schlegel, Novalis, and Hoffman, with attention to relationship between Romanticism and other periods. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Romanticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 209C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Analysis of prose works between Romanticism and naturalism. Discussion of development of literary realism and form of novella. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "19th-Century Narrative Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 210A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Analysis of selected works (poetry, drama, prose) of early modernism from Hauptmann to Kafka. Discussion of sociological spectra and pluralism of styles and forms. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Naturalism, Symbolism, and Expressionism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 210B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Prose works in first half of 20th century as they express war experience, crisis of consciousness, and cultural conflicts between wars, as well as innovations in narrative technique. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "20th-Century Novel to 1945", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 211": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Study of major works by German-speaking authors writing since World War II. Examination of issues such as identity crises, nationalism and divided Germany, gender expectations, and social-political attitudes. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Postwar Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 212": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Analysis of current cultural issues and their relation to literary production and interpretation. Topics may include areas such as feminism, postcolonialism, postmodernism, and contemporary theories of textuality. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Contemporary Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 213": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. With focus on two different modes of cultural representation, examination of topics in German literature and film from Weimar Republic to present. Study of media theory, feminist film theory, and interrelationships between film, literature, and social history. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Topics in Literature and Film", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 217": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Discussion, three hours. Historical survey of development of standard literary German language from time of Indo-European unity through proto-Germanic, West Germanic, medieval period, Reformation, baroque period, and Enlightenment until its final codification at end of 19th century. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "History of German Language", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 230": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Systematic overview of theories of historical linguistics. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Survey of Theory in Historical Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 231": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Discussion, three hours. Systematic study of phonology and grammar of Gothic language, with readings in Wulfila's translation of Bible and introduction to history of Goths and their place in development of modern Europe. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Gothic", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 232": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Discussion, three hours. Introduction to earliest phases of German literature, with extensive readings in major documents of that period (750 to 1050). Emphasis on grammatical interpretation of these documents and identification of dialects used in their composition. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Old High German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 233": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Discussion, three hours. Introduction to study of earliest documents in Old Low German. Readings in \"Hel\u00edand\" and study of \"Old Saxon Genesis.\" S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Old Saxon", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 251": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Current topics in synchronic or diachronic linguistics, such as specific issues in generative grammar, sociolinguistics and dialectology, or language contact. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Germanic Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 252": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Topics selected from field of historical German phonology and syntax according to needs and preparation of students enrolled (e.g., West Germanic problem and classification of Germanic languages, development of Germanic verbal and nominal morphology, proto-Germanic syntax). S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Historical and Comparative German Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 253": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Investigation of selected topic or particular theoretical issue that arises in study of medieval literature. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Medieval Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 256": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Selected problems in cultural, literary, and philosophic history. May include modern critiques of Enlightenment thought. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Enlightenment", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 257": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Selected topics in literature and culture between 1775 and 1832, with special emphasis on work of Goethe and Schiller as it relates to philosophic texts such as Hegel's \"Ph\u00e4nomenologie des Geistes\" or as it relates to historical events such as French and American Revolutions. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Age of Goethe", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 258": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Discussion of specific author or topic from Romantic period, possibly in close connection with course 208. Critical review of secondary works. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Romanticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 259": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Discussion of specific author or topic of 19th-century literature, possibly in close connection with course 209A, 209B, or 209C. Critical review of secondary works. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: 19th-Century Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 260": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. In-depth analysis of one particular issue in pre-1945 German literature and culture. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Modern Period", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 261": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. In-depth analysis of one particular issue in post-1945 German literature and culture. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Contemporary Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 263": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Special focus on particular theoretical school or interpretive paradigm. Content varies with instructor. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Seminar: Literary Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 264": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "(Formerly numbered M264.) Seminar, three hours. Requisite: course C142 or C238. Readings, discussion, analyses, and validation procedures within sign-based linguistics, cognitive grammar, and discourse-functional approaches to language. Consideration of impact of grammaticalization theory on various nonformal approaches to synchronic linguistics. Discussion of work by Contini-Morava, Diver, Garcia, Goldberg, Janssen, Lakoff, Langacker, and Verhagen, as well as Bybee, Traugott, Hopper, and others. S/U or letter grading.", 
+        "prerequisiteDescription": "course C142 or C238", 
+        "prerequisites": [], 
+        "title": "Topics in Communicative, Cognitive, and Functional Approaches to Linguistic Analysis", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 265": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Taught in English. Examination of work of Hannah Arendt in political theory with emphasis on connection between forms of government and precarious lives of others--Jews, the stateless, pariahs. Evaluation within comparative and transnational context of political action, public sphere, amor mundi, moral judgment, individual or collective responsibility, violence, and literature. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "German Philosophy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 2G": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours. Enforced requisite: course 1G. Preparation for Graduate Division foreign language reading requirement. May not be applied toward degree requirements. S/U grading.", 
+        "prerequisiteDescription": "course 1G", 
+        "prerequisites": [
+            [
+                "GERMAN 1G"
+            ]
+        ], 
+        "title": "Elementary German for Graduate Students", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, five hours; laboratory, one hour. Enforced requisite: course 2. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2", 
+        "prerequisites": [
+            [
+                "GERMAN 2"
+            ]
+        ], 
+        "title": "Elementary German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "GERMAN 4": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, five hours; laboratory, one hour. Enforced requisite: course 3. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "GERMAN 3"
+            ]
+        ], 
+        "title": "Intermediate German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 495": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, one hour; discussion, two hours. Issues include development of current theories of second-language acquisition, effects of these theories on language teaching, psycholinguistics, sociolinguistics, assessment techniques, use of multimedia in foreign language pedagogy, and design of syllabi for basic foreign language courses. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Approaches to Foreign Language Pedagogy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours; laboratory, one hour. Enforced requisite: course 4. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 4", 
+        "prerequisites": [
+            [
+                "GERMAN 4"
+            ]
+        ], 
+        "title": "Intermediate German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 50A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Study and analysis of selected masterworks in English translation, including works from earliest period, such as heroic and courtly epic, to authors such as Grimmelshausen, Lessing, Schiller, and Goethe. May not be applied toward completion of major in German. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Great Works of German Literature in Translation: Medieval Period through Classicism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 50B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Study and analysis of selected masterworks in English translation, including authors such as E.T.A. Hoffmann, Heine, Fontane, Rilke, Kafka, Brecht, Thomas Mann, Hesse, Grass, B\u00f6ll, and Christa Wolf. May not be applied toward completion of major in German. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Great Works of German Literature in Translation: Romanticism to Present", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 56": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Introduction to strains of German philosophy and political thought that focus on cosmopolitanism. Exploration of different historical and philosophical engagements with cosmopolitan projects. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Figures Who Changed World: Cosmopolitanisms within a Global Context", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 57": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture/screenings, five hours; discussion, one hour. Examination of images of Germany generated by Hollywood, cultural/historical interface between Hollywood and Germany, and contemporary critiques of long-standing relationship between these cultural sites. Discussion of how and why cultural stereotypes are generated and maintained, and why film is uniquely powerful tool in ideological discourse. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Hollywood and Germany", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 58": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Introduction to culture of high medieval court, one of great achievements of European Middle Ages. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Knights and Ladies, Sex and Power at Medieval Court", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 59": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture/screenings, five hours; discussion, one hour. History of Holocaust and its present memory through examination of challenges and problems encountered in trying to imagine its horror through media of literature and film. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Holocaust in Film and Literature", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. To be arranged with faculty member who directs study or research. Required research paper must be filed with department chair. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. To be arranged with faculty member who directs examination preparation. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for M.A", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 598": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. To be arranged with faculty member who directs research for and preparation of thesis. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of M.A", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "GERMAN 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. To be arranged with faculty member who directs study. May be repeated. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of Ph.D", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "GERMAN 6": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, four hours; laboratory, one hour. Enforced requisite: course 5. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "GERMAN 5"
+            ]
+        ], 
+        "title": "Intermediate German", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 60W": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, two hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Reflection on cultural history of war -- on its significance from anthropological, cultural, and philosophical perspectives rather than from perspective of political and historical gains and losses. Emphasis on World War I, war in which political and military confrontation seemed particularly attuned to sense of confrontationalism and scandal in cultural life. Satisfies Writing II requirement. Letter grading.", 
+        "prerequisiteDescription": "English Composition 3 or 3H or English as a Second Language 36", 
+        "prerequisites": [], 
+        "title": "War", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 61A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Cultural, political, architectural, and urban history of one of most vibrant and significant cities in world. Exploration of city over 800 years, using innovative mapping tools to understand how Berlin evolved from fortified mercantile town into global city. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Modern Metropolis: Berlin", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 61B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Historical exploration of major Central European cities and their cultures. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Modern Metropolis: Weimar", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 61C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Historical exploration of major Central European cities and their cultures. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Modern Metropolis: Vienna", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 61D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours; discussion, one hour. Historical exploration of major Central European cities and their cultures. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Modern Metropolis: Prague", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 8": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, 15 hours; laboratory, five hours. Intensive basic course in German equivalent to courses 1, 2, and 3. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary German: Intensive", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 88": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Course of variable content limited to topics of current interest and offered whenever staff member is available. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Lower Division Seminar", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "GERMAN C142": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 140 or Linguistics 20. Taught in English with German proficiency required. Problems in structure of Dutch and German, considered from theoretical frameworks such as sign-oriented linguistics, functional linguistics, discourse grammar, and cognitive linguistics. Discussion of formal linguistic approaches. Concurrently scheduled with course C238. Letter grading.", 
+        "prerequisiteDescription": "course 140 or Linguistics 20", 
+        "prerequisites": [], 
+        "title": "Linguistic Theory and Grammatical Description", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN C238": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "Lecture, three hours. Enforced requisite: course 140 or Linguistics 20. Taught in English with German proficiency required. Problems in structure of Dutch and German, considered from theoretical frameworks such as sign-oriented linguistics, functional linguistics, discourse grammar, and cognitive linguistics. Discussion of formal linguistic approaches. Concurrently scheduled with course C142. Graduate students meet as group one additional hour each week and write research papers of greater length and depth. Letter grading.", 
+        "prerequisiteDescription": "course 140 or Linguistics 20", 
+        "prerequisites": [], 
+        "title": "Linguistic Theory and Grammatical Description", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN M105": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "(Same as Gender Studies M119.) Lecture, three hours. Taught in English. German, French, and English versions of Tristan and Isolde story from Middle Ages to 20th century. Particular attention to relation between representation of heterosexual love in each text and contemporaneous ideas about human sexuality. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Tristan, Isolde, and History of Heterosexuality", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "GERMAN M70": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "GERMAN", 
+        "departmentFullName": "German", 
+        "description": "(Same as Communication M70 and Indo-European Studies M70.) Lecture, three hours; discussion, one hour. Theoretical and methodological issues surrounding origin of language. Topics include evolutionary theory, evolution of man, how language is organized in brain, and science of language, including physiology of speech, phonetics, and comparative reconstruction. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Origin of Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }
+}

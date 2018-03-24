@@ -1,0 +1,138 @@
+{
+    "SOC THT 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 190A": {
+        "corequisiteDescription": "course 199A", 
+        "corequisites": [
+            [
+                "SOC THT 199A"
+            ]
+        ], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Seminar, two hours. Corequisite: course 199A. Limited to juniors/seniors. Required of students in Social Thought minor. Designed to bring together students undertaking supervised senior thesis work in seminar setting with one or more faculty members to discuss their work or related work in Social Thought minor. Led by one supervising faculty member. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Colloquia in Social Thought I", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 190B": {
+        "corequisiteDescription": "course 199B", 
+        "corequisites": [
+            [
+                "SOC THT 199B"
+            ]
+        ], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Seminar, two hours. Corequisite: course 199B. Limited to juniors/seniors. Required of students in Social Thought minor. Designed to bring together students undertaking supervised senior thesis work in seminar setting with one or more faculty members to discuss their work or related work in Social Thought minor. Led by one supervising faculty member. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Colloquia in Social Thought II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 199A": {
+        "corequisiteDescription": "course 190A", 
+        "corequisites": [
+            [
+                "SOC THT 190A"
+            ]
+        ], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Tutorial, to be arranged. Corequisite: course 190A. Limited to juniors/seniors. Required of students in Social Thought minor. Supervised individual research under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Thesis in Social Thought I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 199B": {
+        "corequisiteDescription": "course 190B", 
+        "corequisites": [
+            [
+                "SOC THT 190B"
+            ]
+        ], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Tutorial, to be arranged. Corequisite: course 190B. Limited to juniors/seniors. Required of students in Social Thought minor. Supervised individual research under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Thesis in Social Thought II", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "SOC THT 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "SOC THT", 
+        "departmentFullName": "Social Thought", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

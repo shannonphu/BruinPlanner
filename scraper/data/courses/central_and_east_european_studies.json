@@ -1,0 +1,122 @@
+{
+    "C&EE ST 125": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "(Formerly numbered Slavic 125.) Lecture, three hours. Analysis of selected novels, stories, plays, and essays of representative authors of 1920s and 1930s in translation. Special attention to relation between literature and historical and ethnic concerns. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Interwar Central European Prose", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 126": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Lecture, three hours. Examination of coldwar Central European culture through prism of prose fiction, essays, and film from 1947 to 1992. Analysis of strategies of Polish, Czech, Hungarian, and East German writers as articulation of tensions, contradictions, and compromises informing communist rule in central and eastern Europe, with focus on culture as node of resistance as well as accommodation to communist system. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Coldwar Central European Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 191": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Seminar, three hours. Study and discussion of specialized issues and approaches in history, structure, and thematics of one or more literary traditions of central and eastern Europe. Consult \"Schedule of Classes\" for topics to be offered in specific term. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics Research Seminars: Central and East European Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 91": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Lecture, three hours; discussion, one hour. Interdisciplinary course to introduce students to main themes and concepts of central and east European studies, including historical background, nation states and ethnic groups, languages spoken in area, and culture and politics in communist and post-communist periods: religion, literature, mass media, music, art, and cinema. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Culture and Society in Central and Eastern Europe", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "C&EE ST 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "C&EE ST", 
+        "departmentFullName": "Central and East European Studies", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }
+}

@@ -1,0 +1,1214 @@
+{
+    "FRNCH 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, five hours. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 100": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 6. Writing assignments follow close analysis of relevant texts, film, and related grammatical structures. Examination of vocabulary and structures associated with descriptive writing and French verb tense system required for narration. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "FRNCH 6"
+            ]
+        ], 
+        "title": "Written Expression: Techniques of Description and Narration", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 101": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 100. Study of rhetorical devices and revision of related grammatical structures. Writing assignments follow analysis of relevant texts. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100", 
+        "prerequisites": [
+            [
+                "FRNCH 100"
+            ]
+        ], 
+        "title": "Advanced Expository Writing: Techniques of Argumentation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 104": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 6. Study of individual sounds (vowels, consonants, and semi-vowels), including rhythm, intonation, and phrasing, and of learning sound -- spelling correspondences to help sight read accurately. Thorough study of symbols of International Phonetic Alphabet (IPA) to give students tools to work on pronunciation systematically. Standard French serves as model, with examination of pronunciation changes and various dialects that are spoken in Francophone world to improve listening comprehension and pronunciation. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "FRNCH 6"
+            ]
+        ], 
+        "title": "Theory and Correction of Diction", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 105": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Prior background in linguistics not required. Introduction to linguistic analysis of French in areas of phonology, morphology, syntax, and language variation. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Structure of French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 107": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 6. Discussion and analysis of current events and sociocultural issues; techniques of argumentation. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "FRNCH 6"
+            ]
+        ], 
+        "title": "Advanced Oral Expression", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 108": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisites: courses 100, 101. Translation of literary, sociocultural, and journalistic texts. May include editorials, polemical issues, film subtitles, biography and interview, formal and informal reporting, advertising and idiomatic language. Comparative stylistics of translation. P/NP or letter grading.", 
+        "prerequisiteDescription": "courses 100, 101", 
+        "prerequisites": [], 
+        "title": "Advanced Practical Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 109": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 6. Oral and written communication in commercial arena, including transactions, banking, education, job search, correspondence, and management. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "FRNCH 6"
+            ]
+        ], 
+        "title": "Language and Communication in Business French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 10A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "French Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 10B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "French Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 10C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "French Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 10D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "French Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 110": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 100 or 109. French culture in consumer world. Analysis of mentalities, practices and customs, marketing, and advertising strategies. Discussion of changes brought about by European Union and globalization. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 100 or 109", 
+        "prerequisites": [], 
+        "title": "Culture of Business in France", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 112": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours; discussion/film screenings, two hours. Medieval texts, culture, social structure, and political history as they lay bases of European modernity. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Medieval Foundations of European Civilization", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 114A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12. Masterpieces of medieval and Renaissance literature, including examples of epic (\"La Chanson de Roland\"), romance (Chr\u00e9tien de Troyes' \"Yvain\"), and Renaissance prose and poetry (including Marot, Du Bellay, Ronsard, Rabelais, Marguerite de Navarre, and Montaigne). P/NP or letter grading.", 
+        "prerequisiteDescription": "course 12", 
+        "prerequisites": [
+            [
+                "FRNCH 12"
+            ]
+        ], 
+        "title": "Survey of French Literature: Medieval and Renaissance Literature", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 114B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12. Study of selections from major works of classicism and Enlightenment, including those by Racine, Pascal, La Fayette, La Fontaine, Laclos, Diderot, Voltaire, and Rousseau. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 12", 
+        "prerequisites": [
+            [
+                "FRNCH 12"
+            ]
+        ], 
+        "title": "Survey of French Literature: 17th and 18th Centuries", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 114C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12. Study of major literary movements and writers of period, including works by Hugo, Baudelaire, Balzac, Stendhal, Flaubert, Zola, Gide, Proust, Sartre, Robbe-Grillet, and Duras. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 12", 
+        "prerequisites": [
+            [
+                "FRNCH 12"
+            ]
+        ], 
+        "title": "Survey of French Literature: 19th and 20th Centuries", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 115": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of medieval French culture and literature, including lyric poetry and narrative romance, history of medieval warfare, comedy, and class structures. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "FRNCH 5"
+            ]
+        ], 
+        "title": "Studies in Medieval French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 116": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Study of Renaissance French culture and literature, including la Pl\u00e9iade and 16th-century poetry, linguistic and poetic revolution, novel and early prose, and late French humanism. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Renaissance French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 117": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of 17th-century French culture and literature, including theater, philosophers, moralists, novelists, and cultural, political, social, religious, and courtly aspects. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "FRNCH 5"
+            ]
+        ], 
+        "title": "Studies in 17th-Century French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 118": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Study of 18th-century French culture and literature, including satire, novel, theater, philosophers, and theoretical writings. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in 18th-Century French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 119": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of 19th-century French culture and literature, including Romanticism, generation of 1848, naturalism and symbolism, and genres and trends from 1885 through World War I. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "FRNCH 5"
+            ]
+        ], 
+        "title": "Studies in 19th-Century French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 12": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, two hours; discussion, one hour. Enforced requisite: course 6. Principles of literary analysis as applied to selected texts in poetry, theater, and prose by French and Francophone writers. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 6", 
+        "prerequisites": [
+            [
+                "FRNCH 6"
+            ]
+        ], 
+        "title": "Introduction to Study of French and Francophone Literature", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 120": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Study of 20th-century French culture and literature, including early 20th-century writers, surrealism, literature from 1915 to 1945, post-World War II literature, existentialism, new novel, theater, and poetry. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in 20th-Century French Culture and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 121": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of Francophone cultures and literatures, including works by poets, playwrights, and novelists from Caribbean, North Africa, Quebec, and sub-Saharan Africa, immigrant narratives, and colonialism and postcolonial studies. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "FRNCH 5"
+            ]
+        ], 
+        "title": "Studies in Francophone Cultures and Literatures", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 130": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Study of contemporary France and Francophone world (Africa, Asia, Caribbean, Quebec), government, institutions, and cultural, economic, social, and political issues. May be repeated for credit with topic change. Letter grading.", 
+        "prerequisiteDescription": "course 12 or 100", 
+        "prerequisites": [], 
+        "title": "Contemporary French and Francophone Cultures", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 131": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Through plays of 20th century, analysis of struggles of individuals and social groups in contexts that are historical, political, philosophical (existentialism, absurd), and cultural (colonialism and conformism). P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Theater", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 132": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Study of history of French and Francophone poetry and readings of major poets from 16th to 20th century. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Poetry", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 133": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Survey of short fiction forms in France and Francophone world. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Short Story", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 134": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Study of French and Francophone novels and readings of major novelists. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Novel", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 136": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Taught in French. Rhetoric of genre and its relation to broad questions of identity, gender, race, and class. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Autobiography", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 137": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Exploration of themes that address particular problem of French literature, civilization, or ideas. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 12 or 100", 
+        "prerequisites": [], 
+        "title": "French and Francophone Intellectual History", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 138": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Study of French theorists (Barthes, Baudrillard, Cixous, Derrida, Foucault, Irigaray) and major concepts in contemporary French thought, with attention to its influence on and application to literary and nonliterary texts. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 12 or 100", 
+        "prerequisites": [], 
+        "title": "Contemporary French Theory", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 139": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Textual and visual exploration of historical and imaginary (re)constructions of Paris, beginning with its earliest history and gradual formation of this great urban complex in maps from Renaissance to 20th century. Study of city's streets and quarters, traffic and transportation, multiple layers of past, present, and future, and \"fl\u00e2neurs\" and insurrectionists through wide range of literary and critical texts. Readings cover mainly 19th and 20th centuries -- Honor\u00e9 de Balzac, Charles Baudelaire, Emile Zola, Marcel Proust, Louis-Ferdinand C\u00e9line, and others. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5", 
+        "prerequisites": [
+            [
+                "FRNCH 5"
+            ]
+        ], 
+        "title": "Paris: Study of French Capital", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 14": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 14W. Study of contemporary French institutions and issues in cultural, political, and socioeconomic realms. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to French Culture and Civilization in English", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 141": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of French cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French Cinema", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 142": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of Francophone (Africa, Caribbean, postcolonial communities in France) cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Francophone Cinema", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 14W": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 14. Study of contemporary French institutions and issues in cultural, political, and socioeconomic realms. Satisfies Writing II requirement. Letter grading.", 
+        "prerequisiteDescription": "English Composition 3 or 3H or English as a Second Language 36", 
+        "prerequisites": [], 
+        "title": "Introduction to French Culture and Civilization in English", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 16": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours; discussion, one hour. Role of religion, politics, and sociability in constructing self and understanding its relation with society in early modern France. Development of students' critical thought and knowledge of French and European intellectual tradition. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Society And Self in Early Modern France", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 160": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of historical, anthropological, legal, literary, or filmic texts to provide students with broad view of some main issues in field of colonial and postcolonial Francophone studies. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Francophone Cultures in English", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 161": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Through plays of 20th century, analysis of struggles of individuals and social groups in contexts that are historical, political, philosophical (existentialism, absurd), and cultural (colonialism and conformism). May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Theater in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 163": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Survey of short fiction forms in France and Francophone world. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Short Story in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 164": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of French novels. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Novel in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 166": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Rhetoric of genre and its relation to broad questions of identity, gender, race, and class. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Autobiography in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 167": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Readings of French and Francophone writers, historians, and thinkers. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Intellectual History in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 169": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Textual and visual exploration of historical and imaginary (re)constructions of Paris, beginning with its earliest history and gradual formation of this great urban complex in maps from Renaissance to 20th century. Study of city's streets and quarters, traffic and transportation, multiple layers of past, present, and future, and \"fl\u00e2neurs\" and insurrectionists through wide range of literary and critical texts. Readings cover mainly 19th and 20th centuries -- Victor Hugo, Charles Baudelaire, Jules Verne, Emile Zola, Andr\u00e9 Breton, Walter Benjamin, Roland Barthes, and others. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Paris: Study of French Capital in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 171": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Examination of Middle Ages across issues such as gender, class, race, religion, sexuality, love, and death. Exploration of each of these key terms in Middle Ages and look at Middle Ages as projection screen for interrogating, contesting, and resolving contemporary debates on gender, class, race, and religion. Contrasting of medieval and modern around issue of difference and diversity; sessions to be situated in their historical cross-cultural contexts. Film screenings accompanied by medieval texts. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Medieval Flix", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 172": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of Francophone (Africa, Caribbean, postcolonial communities in France) cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Francophone Cinema and Literature in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 191A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Research seminars on topics to be announced each term. Topics include major writers, genres, cultural movements, or theoretical practices. Reading, discussion, and development of culminating project. May be repeated for credit with consent of major adviser. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics Research Seminars in Translation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 191B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Taught in French. Research seminars on topics to be announced each term. Topics include major writers, genres, cultural movements, or theoretical practices. Reading, discussion, and development of culminating project. May be repeated for credit with consent of major adviser. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics Research Seminars: French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 195": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, to be arranged. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Community or Corporate Internships in French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 198": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, three hours. Limited to junior/senior French majors with 3.5 departmental and 3.25 overall grade-point averages. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Research in French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, three hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research or Senior Project in French", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 1G": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Preparation for GSFLT or other language examinations. Passing grade does not imply satisfaction of language requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary French for Graduate Students", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, five hours. Enforced requisite: course 1 with grade of C- or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 1 with grade of C- or better", 
+        "prerequisites": [], 
+        "title": "Elementary French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 200": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Introductory study of French structuralist and poststructuralist thought in literature, linguistics, psychoanalysis, anthropology, philosophy, and feminism, that may include texts by Althusser, Barthes, Deleuze, Derrida, Foucault, Genette, Irigaray, Kristeva, Lacan, Lyotard, and others. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Contemporary French Theories", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 201": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Practice in close analysis of literary texts, including \"explication de teste.\" S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Techniques of Literary Analysis", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 202": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Introduction to theoretical approaches to popular and mass culture, and to postcolonial and Francophone cultures. Topics include emergent disciplines and theories such as sociology and structuralism, city, revolution, avant-garde strategies, media, diaspora during postwar modernization, Algerian War, May 68, and beyond. Theorists include Barthes, de Certeau, Bourdieu, Baudrillard, Lyotard, Ross, Rey Chow, Virilio. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Cultural Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 203": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Study of Francophone African, Caribbean, Vietnamese, or Quebec literatures and cultures, with specific attention to issues of cultural contact, language, colonialism, anticolonialism, nationalism, resistance and dissidence, and postcolonial theory. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Contemporary Francophone Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 204": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Introduction to theories of autobiography and subjectivity, and to genre of autobiography in literatures in French across centuries. Topics include early modern approaches to self-writing, Rousseau and emergence of modern self, women's autobiography in France and Francophone world. Theorists may include Georges Gusdorf, Philippe Lejeune, Paul de Man, Jacques Derrida, Helene Cixous, Michel Foucault, Pierre Bourdieu, Toril Moi. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Autobiography", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 205": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "(Formerly numbered 205A.) Lecture, three hours. Discussion of selected topics in French and Francophone cinema and literature. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Cinema and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 207": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Particular problems in French literature and ideas. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in History of Ideas", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 208": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Readings in literary criticism, theory, and literature from any period of French literature. May be repeated for credit. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Literary Criticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 209": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Advanced research and study of literary genres such as poetry, drama, fiction, autobiography, or performance and of theory of these genres. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Literary Genre", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 214": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Introduction to Old French and problematics of medieval literature. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Problematics of Medieval Language and Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 215": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Examination of nature of cross-cultural, crosslinguistic, and cross-confessional exchange in medieval and early modern periods and France's role in it. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Middle Ages", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 216": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. French literature of 16th century studied within historical, intellectual, and cultural contexts. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Renaissance", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 217": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Readings in 17th-century literature studied within historical, cultural, and literary contexts. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "17th Century", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 218": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Readings in 18th-century French literature and thought: novels, satires, plays, and other key Enlightenment \"philosophies.\" Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Enlightenment", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 219": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Readings in 19th-century literature, covering development of novel, lyric poetry, and theater from Romantic period to \"fin-de-siecle.\" S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "19th Century", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 220": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours. Overview, both historical and analytical, of 20th-century French literature set in context of several key critical topics that interrogate canonical interpretation. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "20th Century", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 296": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, two hours. Advanced study of current topics in literary and cultural analysis and in critical theory. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Methods and Writing", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, five hours. Enforced requisite: course 2 with grade of C- or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 2 with grade of C- or better", 
+        "prerequisites": [], 
+        "title": "Elementary French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 4": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, four hours. Enforced requisite: course 3 with grade of C- or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of C- or better", 
+        "prerequisites": [], 
+        "title": "Intermediate French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 41": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture/screenings, five hours; discussion, one hour. Introduction to French culture and literature through study of films of cultural and literary significance. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French Cinema and Culture", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 495": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours; discussion, one hour. Designed for graduate students. Theory and practice of language teaching. S/U grading.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching French at College Level", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 5": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, four hours. Enforced requisite: course 4 with grade of C- or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 4 with grade of C- or better", 
+        "prerequisites": [], 
+        "title": "Intermediate French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, to be arranged. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Studies or Research", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, to be arranged. May be repeated for maximum of 16 units. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Second-Year Review or Ph.D", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 598": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, to be arranged. Maximum of 4 units may be applied toward M.A. degree requirements. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of M.A", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, to be arranged. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for and Preparation of Ph.D", 
+        "unit": "2 to 8", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH 6": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, four hours. Enforced requisite: course 5 with grade of C- or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 5 with grade of C- or better", 
+        "prerequisites": [], 
+        "title": "Intermediate French", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 60": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, three hours; discussion, one hour. Study of literary masterpieces produced by writers from France and Francophone world (Canada, Africa, Caribbean, etc.) from 17th to early 21st century. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "French and Francophone Novel", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 8": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, 15 hours. All-in-French intensive language program equivalent to first year of college French and designed to develop basic language skills. Additional work in language and media laboratory required. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive First-Year French", 
+        "unit": 12, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 9": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Lecture, 10 hours; media laboratory, three hours. Enforced requisite: course 3. Intensive course equivalent to first two terms of intermediate French and designed to improve proficiency in reading, writing, and speaking. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "FRNCH 3"
+            ]
+        ], 
+        "title": "Intensive Second-Year French", 
+        "unit": 8, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 98TA": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Examination of questions of race, gender, and class in western European Christianity, through visionary literature. Examination of how visions of Christ, Mary, and saints empower women, people of color, and people of low economic status from Middle Ages to present. Letter grading.", 
+        "prerequisiteDescription": "satisfaction of Entry-Level Writing requirement", 
+        "prerequisites": [], 
+        "title": "Race, Gender, and Class in Christian Visionary Tradition", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 98TB": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Development of techniques of literary and film analysis to interrogate ways in which writers and filmmakers remember violent historical events. These events include Holocaust, indentured servitude in Mauritius, and Rwandan genocide. Letter grading.", 
+        "prerequisiteDescription": "satisfaction of Entry-Level Writing requirement", 
+        "prerequisites": [], 
+        "title": "Memory, Violence, and Genocide", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "FRNCH M140": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "(Same as Gender Studies M140.) Lecture, three hours. Exploration of selected aspect of situation of women in French literature as author, character, symbol, etc. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Women's Studies in French Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "FRNCH M210": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "FRNCH", 
+        "departmentFullName": "French", 
+        "description": "(Same as Classics M218, English M215, and History M218.) Lecture, three hours; discussion, two hours. Introduction to history of Latin and vernacular manuscript book from 900 to 1500 to (1) train students to make informed judgments with regard to place and date of origin, (2) provide training in accurate reading and transcription of later medieval scripts, and (3) examine manuscript book as witness to changing society that produced it. Focus on relationship between Latin manuscripts and vernacular manuscripts with regard to their respective presentation of written texts. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Paleography of Latin and Vernacular Manuscripts, 900 to 1500", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}
