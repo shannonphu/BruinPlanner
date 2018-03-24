@@ -30,7 +30,7 @@ class MajorCarousel extends Component {
                 <Slider {...settings}>
                     {MAJORS.map((major, i) => <MajorCarouselItem key={i} major={major} />)}
                 </Slider>
-            </div >
+            </div>
         );
     }
 }
