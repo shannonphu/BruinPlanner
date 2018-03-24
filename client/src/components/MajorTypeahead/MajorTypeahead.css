@@ -1,0 +1,34 @@
+.react-autosuggest__input {
+    width: 100%;
+    padding: 10px 0;
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid #aaa;  
+}
+
+.react-autosuggest__input::placeholder {
+    color: #ddd;
+}
+
+.react-autosuggest__input:focus {
+    outline: none;
+}
+
+.icon {
+  position: absolute;
+  top: 18px;
+  font-size: 28px;
+}
+
+.typeahead-row {
+    height: 100vh;
+}
+
+.typeahead-row .question {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 32px;
+}

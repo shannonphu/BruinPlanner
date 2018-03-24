@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Nav, PlannerContainer } from '..'
+import { Nav, MajorTypeahead, PlannerContainer } from '..'
 import { Route, Switch } from 'react-router-dom';
 import { Layout } from 'antd';
 const { Content } = Layout;
@@ -7,16 +7,16 @@ const { Content } = Layout;
 class Main extends Component {
     render() {
         return (
-            <Layout>
+            <div>
                 <Nav />
 
-                <Content style={{ marginTop: 64 }}>
+                <Content style={{ paddingTop: 64 }}>
                     <Switch>
-                        <Route exact path='/' render={() => <PlannerContainer {...this.props} />} />
-                        <Route path='/test' render={() => <PlannerContainer {...this.props} />} />
+                        <Route path='/:major' render={(props) => <PlannerContainer {...this.props} {...props} />} />
+                        <Route path='/' component={MajorTypeahead} />                        
                     </Switch>
                 </Content>
-            </Layout>
+            </div>
         )
     }
 }
