@@ -19,6 +19,14 @@
     transition: border 0.3s ease;
 }
 
+.CourseTile .header {
+    margin-bottom: 5px;
+}
+
+.CourseTile .id {
+    padding: 3px 0;
+}
+
 .CourseTile .title {
     font-size: 11px;
     color: #aaa;
@@ -27,6 +35,10 @@
 .InteractiveGrid .CourseTile {
     padding: 10px 20px;
     margin: 5px 0;
+}
+
+.InteractiveGrid .CourseTile .header {
+    margin-bottom: 0;
 }
 
 .InteractiveGrid .CourseTile .title {
