@@ -1,20 +1,39 @@
-from CourseFetcher import CourseFetcher
+from HTMLFetcher import HTMLFetcher
+from DepartmentLinkScraper import DepartmentLinkScraper
 from CourseScraper import CourseScraper
 from CourseJSONWriter import CourseJSONWriter
 import argparse
 
 def main():
 	parser = argparse.ArgumentParser(description='Parse a UCLA registrar site.')
-	parser.add_argument('-u','--url', help='URL for UCLA registrar site within quotes (i.e. \'http://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?SA=COM+SCI&funsel=3\')', required=True)
+	parser.add_argument('-u','--url', help='URL for UCLA registrar site within quotes (i.e. \'http://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?SA=COM+SCI&funsel=3\')')
 	args = parser.parse_args()
 	url = args.url
+	urls = []
+	if url:
+		urls.append(url)
+	else:
+		deptLinkScraper = DepartmentLinkScraper()
+		urls = deptLinkScraper.getRegistrarLinks()
 
-	fetcher = CourseFetcher()
+	fetcher = HTMLFetcher()
 	scraper = CourseScraper()
-	html = fetcher.fetch_department_courses(url)
-	department_name, department_courses = scraper.scrape_department_courses(html)
 	writer = CourseJSONWriter()
-	writer.writeJSONToFile(department_courses, 'data/courses/' + department_name.lower().replace(' ', '_') + '.json')
+
+	for link in urls:
+		html = fetcher.get(link)
+		try:
+			department_name, department_courses = scraper.scrape_department_courses(html)
+		except:
+			print "*** Error trying to scrape " + department_name + " ***"
+			continue
+
+		try:
+			writer.writeJSONToFile(department_courses, 'data/courses/' + department_name.lower().replace(' ', '_').replace('/', '-') + '.json')
+		except:
+			print "*** Error trying to write " + department_name + " ***"
+			continue
+
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 import urllib2
 
-class CourseFetcher:
-	def fetch_department_courses(self, url):
+class HTMLFetcher:
+	def get(self, url):
 		html = urllib2.urlopen(url).read()
 		return html
 		

@@ -1,0 +1,1 @@
+from DepartmentLinkScraper import DepartmentLinkScraper
