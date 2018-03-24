@@ -1,38 +1,31 @@
 import React, { Component } from 'react';
 import Autosuggest from 'react-autosuggest';
-import './MajorTypeahead.css';
 import { Row, Col, Icon } from 'antd';
+import MAJORS from './majors';
+import './MajorTypeahead.css';
 
-const majors = [
-    {
-        name: 'Computer Science'
-    },
-    {
-        name: 'Electrical Engineering'
-    },
-    {
-        name: 'Math'
-    }
-];
+function escapeRegexCharacters(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
 
 // Teach Autosuggest how to calculate suggestions for any given input value.
-const getSuggestions = value => {
-    const inputValue = value.trim().toLowerCase();
-    const inputLength = inputValue.length;
+function getSuggestions(value) {
+    const escapedValue = escapeRegexCharacters(value.trim());
 
-    return inputLength === 0 ? [] : majors.filter(lang =>
-        lang.name.toLowerCase().slice(0, inputLength) === inputValue
-    );
-};
+    if (escapedValue === '') {
+        return [];
+    }
 
-// When suggestion is clicked, Autosuggest needs to populate the input
-// based on the clicked suggestion. Teach Autosuggest how to calculate the
-// input value for every given suggestion.
-const getSuggestionValue = suggestion => suggestion.name;
+    const regex = new RegExp('^' + escapedValue, 'i');
+
+    return MAJORS.filter(major => regex.test(major));
+}
+
+const getSuggestionValue = suggestion => suggestion;
 
 // Use your imagination to render suggestions.
 const renderSuggestion = suggestion => (
-    <div>{suggestion.name}</div>
+    <div>{suggestion}</div>
 );
 
 class MajorTypeahead extends Component {
@@ -88,9 +81,8 @@ class MajorTypeahead extends Component {
                         suggestions={suggestions}
                         onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
                         onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-                        getSuggestionValue={getSuggestionValue}
                         renderSuggestion={renderSuggestion}
-                        // renderInputComponent={renderInputComponent}
+                        getSuggestionValue={getSuggestionValue}
                         inputProps={inputProps}
                     />
                     </Col>
