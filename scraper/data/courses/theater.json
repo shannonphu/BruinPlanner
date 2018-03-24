@@ -175,7 +175,7 @@
         "description": "Seminar, four hours. Introduction to basic methods of interpretation in theater and performance throughout world. Topics illustrated by faculty members and guest speakers, visits to off-campus theaters, and reading from contemporary plays. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Approaches to Interpretation of Theater and Performance: Global Perspective (Effective Spring 2018 )", 
+        "title": "Approaches to Interpretation of Theater and Performance: Global Perspective", 
         "unit": 5, 
         "unitType": "ABSOLUTE"
     }, 
@@ -251,7 +251,7 @@
                 "THEATER 116A"
             ]
         ], 
-        "title": "Psychological Systems of Acting: Practice (Effective Spring 2018 )", 
+        "title": "Psychological Systems of Acting: Practice", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -539,7 +539,7 @@
                 "THEATER 116B"
             ]
         ], 
-        "title": "Acting III (Effective Spring 2018 )", 
+        "title": "Acting III", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -820,10 +820,10 @@
         "corequisites": [], 
         "departmentAbbreviation": "THEATER", 
         "departmentFullName": "Theater", 
-        "description": "Studio, five hours. Designed for Theater majors. Exploration of vocal styles and development of singing techniques for musical theater. Letter grading.", 
+        "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing gospel and rhythm and blues music, with solo and group improvisation as foundation. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Singing for Musical Theater II", 
+        "title": "Musical Theater Vocal Styles: Gospel", 
         "unit": 1, 
         "unitType": "ABSOLUTE"
     }, 
@@ -844,10 +844,10 @@
         "corequisites": [], 
         "departmentAbbreviation": "THEATER", 
         "departmentFullName": "Theater", 
-        "description": "Studio, five hours. Designed for Theater majors. Exploration of vocal styles and development of singing techniques for musical theater. Letter grading.", 
+        "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing legitimate/operetta music, with emphasis on vocal and body strengthening exercises and solo song coaching. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Singing for Musical Theater II", 
+        "title": "Musical Theater Vocal Styles: Legitimate/Operetta", 
         "unit": 1, 
         "unitType": "ABSOLUTE"
     }, 
@@ -856,10 +856,10 @@
         "corequisites": [], 
         "departmentAbbreviation": "THEATER", 
         "departmentFullName": "Theater", 
-        "description": "Studio, five hours. Designed for Theater majors. Exploration of vocal styles and development of singing techniques for musical theater. Letter grading.", 
+        "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing rock music, with emphasis on vocal and body strengthening exercises and solo song coaching. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Singing for Musical Theater III", 
+        "title": "Musical Theater Vocal Styles: Rock", 
         "unit": 1, 
         "unitType": "ABSOLUTE"
     }, 
@@ -2351,7 +2351,7 @@
                 "THEATER 424A"
             ]
         ], 
-        "title": "Vowels and Voice Placement (Effective Spring 2018 )", 
+        "title": "Vowels and Voice Placement", 
         "unit": 1, 
         "unitType": "ABSOLUTE"
     }, 
@@ -2367,7 +2367,7 @@
                 "THEATER 424A"
             ]
         ], 
-        "title": "Voice in Action (Effective Spring 2018 )", 
+        "title": "Voice in Action", 
         "unit": 1, 
         "unitType": "ABSOLUTE"
     }, 
@@ -2943,7 +2943,7 @@
         "description": "Lecture/studio, four hours. Introduction to costume design as tool for interpretation of one renowned artwork and as intrinsic element of art history to gain expertise in costume and pattern making, while creating half-scale costume inspired by masterwork and to gain familiarity with artist's life and social milieu. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "Advanced Historical Costume Interpretation and Construction (Effective Spring 2018 )", 
+        "title": "Advanced Historical Costume Interpretation and Construction", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -3675,7 +3675,7 @@
         "description": "Lecture, three hours; screenings, two to six hours. History of costume design within context of 20th-century fashion and film history, including evolution of role of costume designer since early days of film industry. Role of costume designer and contribution of costume design to cinematic storytelling. Concurrently scheduled with course C453E. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "History of Costume Design in Movies (Effective Spring 2018 )", 
+        "title": "History of Costume Design in Movies", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -3972,18 +3972,6 @@
         "prerequisiteDescription": "courses 14A, 14B, 14C", 
         "prerequisites": [], 
         "title": "Lighting Design Technology", 
-        "unit": 4, 
-        "unitType": "ABSOLUTE"
-    }, 
-    "THEATER C158C": {
-        "corequisiteDescription": null, 
-        "corequisites": [], 
-        "departmentAbbreviation": "THEATER", 
-        "departmentFullName": "Theater", 
-        "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Investigation of materials, systems, and techniques for realization of sound designs for theater, film, and television. Study of operation and performance of equipment for recording, mixing, and reproduction of theater sound. Concurrently scheduled with course C458C. Letter grading.", 
-        "prerequisiteDescription": "courses 14A, 14B, 14C", 
-        "prerequisites": [], 
-        "title": "Sound Design Technology", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -4415,7 +4403,7 @@
         "description": "Lecture, three hours; screenings, two to six hours. History of costume design within context of 20th-century fashion and film history, including evolution of role of costume designer since early days of film industry. Role of costume designer and contribution of costume design to cinematic storytelling. Concurrently scheduled with course C153E. Letter grading.", 
         "prerequisiteDescription": null, 
         "prerequisites": [], 
-        "title": "History of Costume Design in Movies (Effective Spring 2018 )", 
+        "title": "History of Costume Design in Movies", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 
@@ -4712,18 +4700,6 @@
         "prerequisiteDescription": "courses 14A, 14B, 14C", 
         "prerequisites": [], 
         "title": "Lighting Design Technology", 
-        "unit": 4, 
-        "unitType": "ABSOLUTE"
-    }, 
-    "THEATER C458C": {
-        "corequisiteDescription": null, 
-        "corequisites": [], 
-        "departmentAbbreviation": "THEATER", 
-        "departmentFullName": "Theater", 
-        "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Investigation of materials, systems, and techniques for realization of sound designs for theater, film, and television. Study of operation and performance of equipment for recording, mixing, and reproduction of theater sound. Concurrently scheduled with course C158C. Letter grading.", 
-        "prerequisiteDescription": "courses 14A, 14B, 14C", 
-        "prerequisites": [], 
-        "title": "Sound Design Technology", 
         "unit": 4, 
         "unitType": "ABSOLUTE"
     }, 

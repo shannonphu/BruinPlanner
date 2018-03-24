@@ -1,0 +1,1006 @@
+{
+    "PORTGSE 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours; laboratory, two hours. Taught in Portuguese. Laboratory is online. Introductory Portuguese language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 100A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Enforced requisite: course 27. Analysis of phonetic, phonemic, and morphological systems of Portuguese. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Phonology and Morphology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 100B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Enforced requisite: course 27. Review of patterns of Portuguese language. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Syntax", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 11A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours; laboratory, two hours. Taught in Portuguese. Laboratory is online. Accelerated course designed only for students with proficiency in another Romance language. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive Portuguese", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 11B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours; laboratory, two hours. Taught in Portuguese. Laboratory is online. Accelerated course designed only for students with proficiency in another Romance language. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intensive Portuguese", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 130A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Requisite: course 25 or 26 or 27. Introduction to principal themes, currents, and authors from Brazil in context of Portuguese-speaking world. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 25 or 26 or 27", 
+        "prerequisites": [], 
+        "title": "Introduction to Literature in Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 130B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Requisite: course 25 or 26 or 27. Introduction to principal themes, currents, and authors from Brazil in context of Portuguese-speaking world. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 25 or 26 or 27", 
+        "prerequisites": [], 
+        "title": "Introduction to Literature in Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 141A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Study of intertextuality and dialogism, interactions between literary and cinematic fields, question of fidelity, and equivalents between literary and cinematic expression in Portuguese-speaking world. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Literature and Film in Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 141B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Study of development, evolution, and impact of film and television in Brazil against backdrop of broader social, historical, and cultural contexts. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Film, Television, and Society in Brazil", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 141C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Overview of documentary film production in Portuguese-speaking world, with special focus on period since 1985. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Documentary Film", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 142A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Exploration of roots of contemporary Brazil through study of broad chronological periods from Portuguese colonization to present and how they shaped idea of Brazilian exceptionalism, racial mixture as source of national identity, and lusotropicalism and its influence on Brazilian historiography. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Brazil and Its Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 142B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Study of social and cultural links between Portugal and Brazil, with emphasis on issues of migration, dialogue, and contention in historical context. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Brazil and Portugal in Comparative Perspective", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 142C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Taught in English. Exploration of travel, memory, and narrative in Portuguese-speaking world. Primary and secondary texts depict issues of displacement, cultural contact, and assimilation. Overview of connections among Portuguese-speaking cultures. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Travel Narratives, Testimony, Autobiography", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 143A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Enforced requisite: course 27. Investigation of way that Brazilian maritime expansion from 15th to early 19th century was represented and interpreted in writings from across empire. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Colony, Intellectuals, and History", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 143B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Enforced requisite: course 27. Study of modern relations between Portugal and Portuguese-speaking world in literature and arts. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Transatlantic Literature in Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 143C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Requisite: course 25 or 26 or 27. Examination of concepts and practice of modernism in Portuguese-speaking world, with primary focus on 1920s. Reading and discussion, with emphasis on sociohistorical context, relations with European avant-garde, modernist poetics and polemics, and search for national identity as expressed in period's poetry and prose. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 25 or 26 or 27", 
+        "prerequisites": [], 
+        "title": "Modernism, Modernity, and Identity", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 143D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Requisite: course 25 or 26 or 27. Exploration of connections between literatures of Angola, Brazil, and Portugal against background of globalization and Internet. May be repeated for credit with topic change. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 25 or 26 or 27", 
+        "prerequisites": [], 
+        "title": "Contemporary Literature in Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 187FL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, two hours. Requisite: course 27. Students must be concurrently enrolled in affiliated main course. Additional work in Portuguese to augment work assigned in main course, including reading and writing assignments. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Special Studies: Readings in Portuguese", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 191": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, three hours. Requisite: course 25 or 26 or 27. Research seminar on selected topics in Portuguese. Reading, discussion, and development of culminating project. Consult Schedule of Classes or department counselor for topic to be offered in specific term. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 25 or 26 or 27", 
+        "prerequisites": [], 
+        "title": "Undergraduate Variable Topics Seminars: Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 197": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. Eight units of courses 197 and/or 199 may be applied toward major requirements. May be repeated for maximum of 8 units. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies in Portuguese", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 198A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Preparation: completion of minimum of six upper division major core courses with 3.7 grade-point average. Course 198A is enforced requisite to 198B. Limited to juniors/seniors. Development and completion of honors thesis under direct supervision of faculty member. May not be applied toward major requirements. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Senior Honors Research in Portuguese I", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 198B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Preparation: completion of minimum of six upper division major core courses with 3.7 grade-point average. Enforced requisite: course 198A. Limited to juniors/seniors. Development and completion of honors thesis under direct supervision of faculty member. May not be applied toward major requirements. Individual contract required. Letter grading.", 
+        "prerequisiteDescription": "course 198A", 
+        "prerequisites": [
+            [
+                "PORTGSE 198A"
+            ]
+        ], 
+        "title": "Senior Honors Research in Portuguese II", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Requisite: course 27. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper required. Eight units of courses 197 and/or 199 may be applied toward major requirements. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Directed Research in Portuguese", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours; laboratory, two hours. Taught in Portuguese. Laboratory is online. Introductory Portuguese language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Elementary Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 202": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Study of theoretical synchronic linguistics as applied to Portuguese.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Synchronic Morphology and Phonology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 204A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Course 204A is requisite to 204B. Generative approach to the Portuguese language, with some consideration of bearing of syntax, semiology, and phonology on style, metaphor, and meter.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Generative Grammar", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 204B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Requisite: course 204A. Generative approach to the Portuguese language, with some consideration of bearing of syntax, semiology, and phonology on style, metaphor, and meter.", 
+        "prerequisiteDescription": "course 204A", 
+        "prerequisites": [
+            [
+                "PORTGSE 204A"
+            ]
+        ], 
+        "title": "Generative Grammar", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 224": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of main genres of medieval Portuguese and Galician literature through representative works. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Early Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 225": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of main genres of Renaissance Portuguese literature, with particular emphasis on works of Luis de Cam\u00f5es. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Camoes and Portuguese Renaissance", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 226": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of main genres of baroque and neoclassical Portuguese literature through representative works. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Baroque and Neoclassical Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 227": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of principal features through representative works. May be repeated for credit with topic change. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "19th-Century Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 228": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of principal features through representative works. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Post-Romanticism and Naturalism in Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 229": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of representative trends and authors. May be repeated for credit with topic change. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "20th-Century Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 231": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of most important authors to 1830. May be repeated for credit with topic change. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Colonial Brazilian Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 232": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Study of representative trends and authors. May be repeated for credit with topic change. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "19th-Century Brazilian Literature and Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 233": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Study of selected works by Joaquim Maria Machado de Assis. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Machado de Assis", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 234": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of principal characteristics of Brazilian modernism through representative works. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "Brazilian Modernism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 235": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 27. Study of representative trends and authors. May be repeated for credit with topic change. S/U or letter grading.", 
+        "prerequisiteDescription": "course 27", 
+        "prerequisites": [
+            [
+                "PORTGSE 27"
+            ]
+        ], 
+        "title": "20th-Century Brazilian Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 25": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Enforced requisite: course 3 or 11B. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Advanced Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 252": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, two hours. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Early Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 253": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, two hours. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Modern Portuguese Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 254": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, two hours. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Early Brazilian Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 255": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, two hours. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Modern Brazilian Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 256A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, two hours. Study of problems in analysis and description of contemporary Portuguese language. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Portuguese Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 256B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, two hours. Study of problems in analysis and description of contemporary Portuguese language. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Portuguese Linguistics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 25A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, 20 hours. Enforced requisite: course 3 or 11B. Advanced Portuguese course with cultural activities, field trips, and luncheons. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Advanced Portuguese: Summer Course", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 26": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Requisite: course 3 or 11B. Development of speaking, reading, and writing skills. Structured in thematic units, with songs, videos, and specific vocabulary emphasizing questions of Brazilian cultural identity. Letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Language and Popular Culture", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 26A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, 20 hours. Enforced requisite: course 3 or 11B. Development of speaking, reading, and writing skills. Structured in thematic units, with songs, videos, and specific vocabulary emphasizing questions of Brazilian cultural identity. Includes cultural activities, field trips, and luncheons. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Language and Popular Culture: Summer Course", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 27": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Requisite: course 3 or 11B. Practice in writing Portuguese with appropriate vocabulary, syntactical structures, and stylistic patterns. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Advanced Composition and Style", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 27A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, 20 hours. Enforced requisite: course 3 or 11B. Practice in writing Portuguese with appropriate vocabulary, syntactical structures, and stylistic patterns. Includes cultural activities, field trips, and luncheons. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 or 11B", 
+        "prerequisites": [], 
+        "title": "Advanced Composition and Style: Summer Course", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 290": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, two hours. Designed for graduate students. Consult Schedule of Classes or department counselor for topics to be offered in a specific term. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Topics", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 3": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours; laboratory, two hours. Taught in Portuguese. Laboratory is online. Intermediate Portuguese language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Intermediate Portuguese", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 370": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, three hours. Designed for future teachers in this field. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Portuguese in Secondary School", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 40A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, three hours. Reading and discussion of selected works in translation. Papers and examinations in English. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Portuguese, Brazilian, and African Literature in Translation: Portuguese and Portuguese-African Literature", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 40B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours. Reading and discussion of selected works in translation. Papers and examinations in English. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Portuguese, Brazilian, and African Literature in Translation: Brazilian Literature", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 46": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Lecture, four hours; discussion, one hour (when scheduled). Taught in English. Topical analysis of cultural history of Brazil in context of Portuguese-speaking world, with emphasis on comparative, trans-Atlantic relations, social development, and artistic manifestations. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Brazil and Portuguese-Speaking World", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 596": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Study or research in areas or subjects not offered as regular courses. No more than 8 units may be applied toward M.A. course requirements. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Individual Study or Research", 
+        "unit": "4 or 8", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 597": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Preparation: official acceptance of candidacy by department. Individual preparation for M.A. comprehensive examination or Ph.D. qualifying examinations. May be taken only once for each degree examination and only in term that comprehensive or qualifying examinations are to be taken. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for Graduate Examinations", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 598": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Research in preparation of M.A. thesis. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for M.A", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 599": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, to be arranged. Limited to students who have passed Ph.D. qualifying examinations. Research for and preparation of Ph.D. dissertation. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research for Ph.D", 
+        "unit": "4 to 12", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 8A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "Portuguese Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 8B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3 with grade of B or better", 
+        "prerequisites": [], 
+        "title": "Portuguese Conversation", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "PORTGSE M200": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M200.) Lecture, three hours. Identification and use of research resources for graduate students.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Resources", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M201A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M201A.) Lecture, three hours. Definition, discussion, and application of main currents of contemporary literary theory and criticism. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Literary Theory and Criticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M201B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M201B.) Lecture, three hours. Definition, discussion, and application of main currents of contemporary literary theory and criticism. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Literary Theory and Criticism", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M205A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M205A.) Lecture, three hours. Intensive study of historical development of Portuguese and Spanish languages from their origin in spoken Latin.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Development of Portuguese and Spanish Languages", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M205B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M205B.) Lecture, three hours. Intensive study of historical development of Portuguese and Spanish languages from their origin in spoken Latin.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Development of Portuguese and Spanish Languages", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M249": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M249.) Lecture, three hours. Intensive study of folk literature of Spanish and Portuguese cultures as represented in (1) ballad and poetry, (2) narrative and drama, (3) speech. S/U or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Folk Literature of Spanish and Portuguese Worlds", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M251A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M251A.) Lecture, two hours. Study of problems related to historical development of Galegan-Portuguese and Old Spanish. May be repeated once with topic change and consent of appropriate guidance committee.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Galegan-Portuguese and Old Spanish", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M251B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M251B.) Lecture, two hours. Study of problems related to historical development of Galegan-Portuguese and Old Spanish. May be repeated once with topic change and consent of appropriate guidance committee.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Studies in Galegan-Portuguese and Old Spanish", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "PORTGSE M35": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "PORTGSE", 
+        "departmentFullName": "Portuguese", 
+        "description": "(Same as Spanish M35.) Lecture, three hours; discussion, one hour. Introduction to language study within context of Romance languages, focusing on Spanish and Portuguese. Nature of language: structure, diversity, evolution, social and cultural settings, literary uses. Study of language and its relation to other areas of human knowledge. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Spanish, Portuguese, and Nature of Language", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }
+}

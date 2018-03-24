@@ -1,0 +1,546 @@
+{
+    "LIFESCI 1": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; laboratory, two hours; one field trip. Introduction to principles and mechanisms of evolution by natural selection; population, behavioral, and community ecology; and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Evolution, Ecology, and Biodiversity", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 107": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Requisites: courses 7C, 23L, Chemistry 14A (or 20A), 14C (or 30A). Not open for credit to students with credit for course 4. Advanced Mendelian genetics, recombination, biochemical genetics, mutation, DNA, genetic code, gene regulation, genes in populations. Letter grading.", 
+        "prerequisiteDescription": "courses 7C, 23L, CHEM 14A (or 20A), 14C (or 30A)", 
+        "prerequisites": [], 
+        "title": "Genetics", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 110": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "(Formerly numbered 5.) Seminar, two hours. Recommended for sophomore and incoming transfer students. Designed to help life sciences students expand awareness of their interests, needs, and skills to make deliberate career choices. Introduction to many components that go into making effective career decisions to help students explore diversity of career options for life sciences majors. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Career Exploration in Life Sciences", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 130": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, one hour. Preparation: completion of three mathematics and/or science courses at level required of science majors. Observation, participation, and assisting in science classes at elementary, middle, and secondary schools. May be repeated for credit. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Science Classroom Observation and Participation", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 15": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, two hours. Introduction to important concepts and issues in the field for non-life sciences majors. Topics include chemistry of life, genetics, physiology, evolution, and ecology -- all explored in lecture and debates, with a writing component. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Life: Concepts and Issues", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 15L": {
+        "corequisiteDescription": "course 15", 
+        "corequisites": [
+            [
+                "LIFESCI 15"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Laboratory, two hours. Requisite or corequisite: course 15. Broad introduction to biology, with focus on scientific literacy and thinking. Topics include scientific thinking and decision making to interpret and analyze data, evolution and genetics, physiology (chemistry, nutrition, reproduction, endocrinology, and neurobiology), and human behavioral biology. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Life: Concepts and Issues Laboratory", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 188SA": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 188SB": {
+        "corequisiteDescription": "HNRS 101E", 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SA", 
+        "prerequisites": [
+            [
+                "LIFESCI 188SA"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 188SC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.", 
+        "prerequisiteDescription": "course 188SB", 
+        "prerequisites": [
+            [
+                "LIFESCI 188SB"
+            ]
+        ], 
+        "title": "Individual Studies for USIE Facilitators", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, one hour. Requisite: one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 40, 107, 110. Training seminar for undergraduate students who are selected for learning assistants (LAs) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.", 
+        "prerequisiteDescription": "one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 40, 107, 110", 
+        "prerequisites": [], 
+        "title": "Introduction to Collaborative Learning Theory and Practice", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, one hour; clinic, six hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors", 
+        "prerequisites": [], 
+        "title": "Methods and Application of Collaborative Learning Theory in Life Sciences", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours; clinic, nine hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors", 
+        "prerequisites": [], 
+        "title": "Methods and Application of Collaborative Learning Theory in  Life Sciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192D": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours; clinic, three hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors", 
+        "prerequisites": [], 
+        "title": "Methods and Application of Collaborative Learning Theory in  Life Sciences", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192E": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, one hour; clinic, two hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors", 
+        "prerequisites": [], 
+        "title": "Methods and Application of Collaborative Learning Theory in  Life Sciences", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 192F": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, two hours; clinic, nine hours. Requisite: one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 107, 110. Limited to sophomores/juniors/seniors. Advanced training and supervised practicum for experienced undergraduate students. Under guidance of faculty members, students refine their professional skills and take leadership roles in mentoring students. May be repeated for credit. Letter grading.", 
+        "prerequisiteDescription": "one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 107, 110", 
+        "prerequisites": [], 
+        "title": "Undergraduate Practicum in Life Sciences", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, two hours. Enforced requisite: course 3. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper/project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 3", 
+        "prerequisites": [
+            [
+                "LIFESCI 3"
+            ]
+        ], 
+        "title": "Directed Research or Senior Project in Life Sciences", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 2": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Enforced requisite: Chemistry 14A or 20A. Introduction to basic principles of cell structure, organization of cells into tissues and organs, and principles of organ systems. Letter grading.", 
+        "prerequisiteDescription": "CHEM 14A or 20A", 
+        "prerequisites": [], 
+        "title": "Cells, Tissues, and Organs", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 20": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, two hours. Preparation: three years of high school mathematics (to algebra II), some basic familiarity with computers. Introduction to variety of quantitative concepts that are relevant to biology. Designed to enhance quantitative skills that are essential for success in life sciences, chemistry, mathematics, and physics courses that make up core curriculum for life sciences majors at UCLA. Biological examples used throughout to gain appreciation of relevance of mathematics to biology. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Quantitative Concepts for Life Sciences", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 23L": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Laboratory, three hours; discussion, one hour. Requisite: course 2 or 7B. Recommended to be taken concurrently with course 3, 4, or 7C. Introductory life sciences laboratory designed for undergraduate students. Opportunity to conduct wet-laboratory cutting-edge bioinformatics laboratory experiments. Students work in groups of three conducting experiments in areas of physiology, metabolism, cell biology, molecular biology, genotyping, and bioinformatics. Letter grading.", 
+        "prerequisiteDescription": "course 2 or 7B", 
+        "prerequisites": [], 
+        "title": "Introduction to Laboratory and Scientific Methodology", 
+        "unit": 3, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 3": {
+        "corequisiteDescription": "course 23L (students must take 23L concurrently with course 3 if they do not plan to take course 4)", 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Requisites: course 2 (enforced), Chemistry 14C or 30A (may be taken concurrently). Corequisite: course 23L (students must take 23L concurrently with course 3 if they do not plan to take course 4). Introduction to basic principles of biochemistry and molecular biology. Letter grading.", 
+        "prerequisiteDescription": "course 2 (enforced), CHEM 14C or 30A (may be taken concurrently)", 
+        "prerequisites": [], 
+        "title": "Introduction to Molecular Biology", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 30A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; laboratory, one hour. Preparation: three years of high school mathematics (to algebra II), some basic familiarity with computers. Mathematical modeling as tool for understanding dynamics of biological systems. Fundamental concepts of single-variable calculus and development of single- and multi-variable differential equation models of dynamical processes in ecology, physiology, and other subjects in which quantities change with time. Use of free computer program Sage for problem solving, plotting, and dynamical simulation in laboratory. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Mathematics for Life Scientists", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 30B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; laboratory, two hours. Enforced requisite: course 30A. Introduction to concept of matrices and linear transformations to equip students with some basic tools to understand dynamics of multivariable nonlinear systems. Examples from ecological, physiological, chemical, and other systems. Letter grading.", 
+        "prerequisiteDescription": "course 30A", 
+        "prerequisites": [
+            [
+                "LIFESCI 30A"
+            ]
+        ], 
+        "title": "Mathematics for Life Scientists", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 375": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Teaching Apprentice Practicum", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "LIFESCI 3A": {
+        "corequisiteDescription": "course 3", 
+        "corequisites": [
+            [
+                "LIFESCI 3"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Laboratory, three hours; discussion, one hour. Enforced corequisite: course 3. Introductory wet-laboratory designed to prepare students for upper division laboratory courses for all life sciences departments. Use of wet-laboratory/bioinformatics methods and tools applicable in variety of biological fields, molecular biology, microbialbiology, genomic biology, bioinformatics, and psychology. Students conduct inquiry-based laboratory experiments and learn basic wet-laboratory skills to guide them to refine their skills to write their own laboratory reports and to work in groups as team. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Molecular Biology Laboratory", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 3H": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, two and one half hours; discussion, 90 minutes; movie section, two and one half hours. Enforced requisites: course 2, and Chemistry 14C or 30A. Honors course parallel to course 3, but at a more advanced level. Letter grading.", 
+        "prerequisiteDescription": "course 2, and CHEM 14C or 30A", 
+        "prerequisites": [], 
+        "title": "Introduction to Molecular Biology (Honors)", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 4": {
+        "corequisiteDescription": "course 23L", 
+        "corequisites": [
+            [
+                "LIFESCI 23L"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Enforced requisites: courses 2, 3, Chemistry 14A (or 20A), 14C (or 30A). Enforced corequisite: course 23L. Principles of Mendelian inheritance and chromosomal basis of heredity in prokaryotes and eukaryotes, recombination, biochemical genetics, mutation, DNA, genetic code, gene regulation, genes in populations. Letter grading.", 
+        "prerequisiteDescription": "courses 2, 3, CHEM 14A (or 20A), 14C (or 30A)", 
+        "prerequisites": [], 
+        "title": "Genetics", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 40": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; laboratory, two hours. Designed for life sciences students. Introduction to statistics with emphasis on computer simulation of chance probabilities as replacement for traditional formula-based approach. Simulations allow for deeper understanding of statistical concepts, and are applicable to wider class of distributions and estimators. Students learn simple programming language to carry out statistical simulations, and apply them to classic problems of elementary statistics. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Statistics for Life Sciences", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 495": {
+        "corequisiteDescription": "course 375", 
+        "corequisites": [
+            [
+                "LIFESCI 375"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, two hours. Corequisite: course 375. Designed for graduate students who are teaching assistants in Life Sciences Core Curriculum for first time and to be taken concurrently in term in which they teach. Prepares students for college-level teaching in large enrollment undergraduate courses, and provides professional development to support students pursuing diverse careers in life sciences. Study of inclusive, student-centered, and evidence-based teaching methodologies that include active learning, group work, formative assessment, backward course design, and reflective teaching practices that incorporate peer observations and constructive feedback. May not be repeated for credit. S/U grading.\n", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Preparation for College-Level Teaching in Life Sciences", 
+        "unit": 2, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 4A": {
+        "corequisiteDescription": "course 4", 
+        "corequisites": [
+            [
+                "LIFESCI 4"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, two hours. Enforced corequisite: course 4. Development of problem-solving skills and intuition in genetics in collaborative learning environment. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Collaborative Learning Workshop", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 7A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Introduction to basic principles of cell structure and cell biology, biochemistry, and molecular biology. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Cell and Molecular Biology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 7B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; laboratory, 110 minutes. Enforced requisite: course 7A. Principles of Mendelian inheritance and population genetics. Introduction to principles and mechanisms of evolution by natural selection, population, behavioral, and community ecology, and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. Letter grading.", 
+        "prerequisiteDescription": "course 7A", 
+        "prerequisites": [
+            [
+                "LIFESCI 7A"
+            ]
+        ], 
+        "title": "Genetics, Evolution, and Ecology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 7C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Lecture, three hours; discussion, 75 minutes. Enforced requisite: course 7B. Organization of cells into tissues and organs and principles of physiology of organ systems. Introduction to human genetics and genomics. Letter grading.", 
+        "prerequisiteDescription": "course 7B", 
+        "prerequisites": [
+            [
+                "LIFESCI 7B"
+            ]
+        ], 
+        "title": "Physiology and Human Biology", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 97": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, two to four hours. Current issues in research and/or development in life sciences. Consult \"Schedule of Classes\" for topics and instructors. May be repeated once for credit with consent of instructor. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Variable Topics in Life Sciences", 
+        "unit": "1 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "LIFESCI 98XA": {
+        "corequisiteDescription": "course 30A", 
+        "corequisites": [
+            [
+                "LIFESCI 30A"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours. Corequisite: course 30A. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "PEERS Collabrative Learning Workshops for Life Sciences Majors", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 98XB": {
+        "corequisiteDescription": "course 30B", 
+        "corequisites": [
+            [
+                "LIFESCI 30B"
+            ]
+        ], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Seminar, three hours. Corequisite: course 30B. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "PEERS Collabrative Learning Workshops for Life Sciences Majors", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LIFESCI 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "LIFESCI M174": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LIFESCI", 
+        "departmentFullName": "Life Sciences", 
+        "description": "(Same as Psychology M174.) Lecture, three hours. Examination of health disparities and ways in which societal responses to race and ethnicity in combination with variety of other factors create differential quality and access to healthcare resulting in poor health outcomes in racial/ethnic minorities. Basic foundation for critical thinking about assumptions that shape life sciences, medical research, clinical practice, and social and behavioral sciences as they relate to racial and ethnic minority populations and to teach students to integrate concepts of culture and health disparities into other social, biological, political, psychological, genetic, and clinical health interests. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Health Disparities", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }
+}

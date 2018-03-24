@@ -1,0 +1,662 @@
+{
+    "LBR&WS 10": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours; discussion, one hour. Assumptions about work, including why some work is favored, whether those with good jobs really are better people than those without, and how this understanding of work and value came to be common sense. Unpacking of these and other assumptions about work, value, and power, with focus on low-wage workers, their communities, and their place in contemporary society. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Labor and Workplace Studies", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 101": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours; discussion, one hour. Students gain exposure to concepts of social justice, social movements, and workers and labor issues in context of global city of Los Angeles. In-depth examination of experience of workers and role of labor movement in Los Angeles, both historically and currently. Topics include changing organization of work in U.S. and reconfiguration of employment relationships; response of labor movement, historically and in present, to managerial initiatives; way in which organized labor has handled issues of class, race, ethnicity, gender, and immigration status; and challenges facing workers in 21st century and their institutional responses in Los Angeles. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Introduction to Labor and Social Movements in Los Angeles", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 126": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours; discussion, one hour. Focus on historical and contemporary issues farm workers face in restructured economy, and class, racial, and gender dynamics that shape their work experiences and economic and political opportunities in society at large. Study also covers gender, race, and class conflicts in workplace and during collective struggles for equality in contemporary society. Topics include political and cultural legacy of farm workers' struggle in U.S. and its long-lasting impact on labor movement and immigrant workers' and social justice movements. Special focus on assessing and understanding role farm-worker-led labor and civil rights movements have had in promoting multiethnic and multiracial campaigns for workplace and economic justice from cross-border perspective. Students develop theoretical and practical understanding of farm workers' experiences across U.S.-Mexico border, and of legacy of United Farm Workers and other farm worker unions. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Farm Worker Transnational Struggle", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 140": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. Examination of working women in U.S. history from 19th-century midwives to 21st-century sex workers through film, oral history, and traditional forms of scholarship. Exploration of personal and work life of women from variety of intersectional categories including class, race, ethnicity, sexuality, and immigration status with focus on systems that have shaped workplace experiences for women over time, including gender discrimination, sexual harassment, public policy, unionization, and reproductive health. Special attention given to strategies women have utilized to shape their work experience, and to improve working conditions for themselves and their working-class sisters. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Working It: Women, Work, and Family", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 168": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. With immigration and rights of migrants at center of current political and legal debates throughout world, study offers critical introduction to inevitable evolution of law and policy resulting from--and in reaction to--movement of immigrants. Endows students with wide array of analytical tools with which to engage current political debates about immigration. Using historical and modern texts, while incorporating elements of art, popular culture, and storytelling, study encourages discussion, debate, and analysis about immigrants' role in development of rights and modern political debates about immigration. Exploration of themes of inclusion, exclusion, integration, and multiculturalism. Students describe shortcomings of status-quo policies while also imaging and prescribing arguments about where law can and should go. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Law and Politics of Immigration: Migrants and Inevitable Evolution of Collective and Individual Rights", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 174": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. Using combination of cases, statutes, news articles, films, and oral history, introduction to history of organized labor; current debates and trends; and basic structure of laws, regulations, and cases that govern organizing to improve workplace conditions. Study covers primary federal acts and court cases that govern strikes, picketing, boycotts, and union elections. Examination of challenges to organized labor from inside and outside labor movement, including right-to-work legislation; dismantling of public sector unions; and racism, sexism, and anti-immigrant sentiment in labor movement. Emphasis on case studies. Topics include new trends in labor organizing. Offers mix of guest speakers, oral history, case excerpts, scholarly articles, news articles and blogs, videos, small-group work, and community engagement. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Labor and Employment Law", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 177": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Exploration of role of spirituality and mindfulness practice in labor and immigrant rights movements. Focus on teachings of St. Francis of Assisi, Mahatma Gandhi, Martin Luther King, Thich Nhat Hanh, and other spiritual leaders. Uses specific case studies and workshop experiences. Includes videos and guest lectures by scholars and activists who integrate their spirituality into their daily work. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Spirituality, Mindfulness, Self-Care, and Social Justice", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 181": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. Introduction to basic social science research methods. Through combination of lectures, key readings, and participation in hands-on research project, students develop understanding of critical debates regarding role of research in socioeconomic context that impacts workers and their organizations and communities at large. Introduction to several research method techniques that are highly effective in producing sound and rigorous studies about and for labor movement, including important data that can be used for policy analysis and political action. Special emphasis given to understanding research that has supported different labor movements. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Los Angeles Labor and Social Science Research Principles, Methods, and Practices", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 182A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. Part I of two-part series on oral history, memory, and public engagement. Introduction to field of oral history and hands-on experience in interviewing, processing, technology, and public engagement. Readings and discussion of literature about oral history theory and methods and examination of how scholars use oral history interviews to develop historical narratives about working class communities. Students learn foundations for designing and executing oral history research projects and undertake independent fieldwork that allows them to apply methods and approaches studied in class. Emphasis on innovative uses of oral history interviews that bring narratives to wide public audience. No prior knowledge or experience with interviewing and processing required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Oral History and Collective Memory: Research Methods and Applications of 21st-Century Narratives", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 182B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours. Requisite: course 182A. Part II of two-part series. Introduction to theory, practice, and application of oral history as research methodology. Examination and development of scholarly and public uses for oral history and their application for social justice movements. Students learn application and digital humanities production methods that bring historical knowledge gathered in interview process to wide and diverse audience. P/NP or letter grading.", 
+        "prerequisiteDescription": "course 182A", 
+        "prerequisites": [
+            [
+                "LBR&WS 182A"
+            ]
+        ], 
+        "title": "Oral History and Collective Memory: Research Methods and Applications of 21st-Century Narratives", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 187": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Lecture, three hours; discussion, one hour. Program-sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Courses in Labor and Workplace Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 188": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, four hours. Program-sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Special Courses in Labor and Workplace Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 189": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Advanced Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 189HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 19": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Fiat Lux Freshman Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 191": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Research seminar on selected topics. Reading, discussion, and development of culminating project. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Seminar in Labor and Workplace Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 194A": {
+        "corequisiteDescription": "course 195A", 
+        "corequisites": [
+            [
+                "LBR&WS 195A"
+            ]
+        ], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Enforced corequisite: course 195A. Designed for undergraduate students who are part of Labor Summer Research Internship program. Discussion of qualitative applied research methods used by union researchers and scholars engaged in labor relations and workplace studies. Through combination of lectures, key readings, and active participation in hands-on research internship with local unions and organizations, development of understanding of critical debates regarding role of research and socioeconomic contexts that impact low-wage workers and their families. May be repeated for credit. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Group Seminars: Labor Summer Research Internship Program", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 194B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field of labor studies or of research of faculty members and/or students. May be repeated for credit. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Research Group Seminars: Labor and Workplace Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 195A": {
+        "corequisiteDescription": "course 194A", 
+        "corequisites": [
+            [
+                "LBR&WS 194A"
+            ]
+        ], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial, one hour; fieldwork, 15 hours. Enforced corequisite: course 194A. Limited to juniors/seniors. Internship in supervised setting in community agency, labor union, or other organization concerned with work and employment issues. Placements to be arranged by instructor. Students meet on regular basis with instructor and provide periodic written reports on their experience. May be repeated for credit. Individual contract with supervising faculty member required. Offered in summer only. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Community or Corporate Internships in Labor and Workplace Studies", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 195B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial, to be arranged; internship, up to 15 hours. Limited to juniors/seniors. Internship in supervised setting in community agency, labor union, or other organization concerned with work and employment issues. Placements to be arranged by instructor. Students meet on regular basis with instructor and provide periodic written reports on their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Community or Corporate Internships in Labor and Workplace Studies", 
+        "unit": "2 to 5", 
+        "unitType": "RANGE"
+    }, 
+    "LBR&WS 199": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Directed Research in Labor and Workplace Studies", 
+        "unit": "2 to 4", 
+        "unitType": "RANGE"
+    }, 
+    "LBR&WS 89": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Seminars", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 89HC": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Honors Contracts", 
+        "unit": 1, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS 99": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Student Research Program", 
+        "unit": "1 to 2", 
+        "unitType": "RANGE"
+    }, 
+    "LBR&WS M114C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as African American Studies M114C and Political Science M180A.) Lecture, three or four hours; discussion, one hour (when scheduled). Intensive introduction to African American political thought, with focus on major ideological trends and political philosophies as they have been applied and interpreted by African Americans. Debates and conflicts in black political thought, historical contest of African American social movements, and relationship between black political thought and major trends in Western thought. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "African American Political Thought", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M116": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Asian American Studies M116.) Lecture, three hours. Designed for juniors/seniors. Examination of several dimensions of Asian American social movements, including grassroots, mass movement character, political and social vision, and social and political relevance to current issues. How movement participants linked struggle for change with own personal transformation and growth. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Asian American Social Movements", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M117": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Communication M117.) Lecture, four hours. Art and science of negotiation in securing agreements between independent parties. Theory and practice that underlies successful negotiation. Experiential course in which students learn broad array of negotiation skills, including identifying one's own (and others') communication style, identifying and incorporating components of successful negotiation, and resolving conflict between parties. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Negotiation", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M119": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Asian American Studies M119.) Lecture, three hours. Examination of historical and contemporary labor issues in Asian and Pacific Islander American communities, with emphasis on key role that Asian and Pacific Islander American students can play in supporting labor struggles of low-income immigrants. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Asian American and Pacific Islander Labor Issues", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M121": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M121 and Urban Planning M140.) Lecture, four hours. Examination of nature and extent of urban and rural poverty confronting Latina/Latino population in U.S. Special emphasis on antipoverty policies of government and nonprofit organizations and social planning and economic development strategies. Attention also to literature on underclass. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Issues in Latina/Latino Poverty", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M122": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M122 and Urban Planning M171.) Lecture, four hours. Exploration of socioeconomic, demographic, and political forces that shape low-income communities and analyses of planning intervention strategies. Emphasis on community and economic development and environmental equity. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Planning Issues in Latina/Latino Communities", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M123": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M119.) Lecture, four hours. Analysis of historical formation and development of Chicano/Latino communities in 20th century, with focus on labor, immigration, economic structures, electoral politics, and international dimensions. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Chicano/Latino Community Formation: Critical Perspectives and Oral Histories", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M125": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M125.) Lecture, four hours. Examination of complex dynamics in relationship between Mexico and U.S., using political economy approach to study of asymmetrical integration between advanced industrial economies and developing countries. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "U.S./Mexico Relations", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M127": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M127.) Lecture, four hours. Designed for juniors/seniors. Historical and social context of farmworker organizing, including its multiracial origins and its influence on fight for equality of working women. Specific focus on organizing of United Farm Workers and Farm Laborers Organizing Committee, and their relationship to AFL-CIO, other unions, and their influence on Chicano Movement. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Farmworker Movements, Social Justice, and United Farm Workers Legacy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M128": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M128.) Lecture, four hours. Designed for juniors/seniors. Introduction to history and organization of labor movement in U.S. and North America. Discussion of race, class, and gender issues raised within movement, and various strategies for social change and economic equity pursued through organized labor and other means. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Race, Gender, and U.S", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M134SL": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M134SL and Civic Engagement M134SL.) Lecture, two hours; discussion, two hours; field placement, two hours. Survey and exploration of immigrant landscape in Los Angeles--truly global city acting in part to buffer, settle, and incorporate immigrants in daily life. Focus on civil society to explore multiple forms of interventions and impacts that take place in multiple communities across Los Angeles basin. Service learning partnerships focus on organizations addressing immigration concerns. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Engaging Immigrants and Their Families", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M136": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Education M136.) Seminar, three hours; fieldwork, five hours. Exploration of complex relationship between working-class and poor communities and inequalities in American urban schools. Drawing on multiple disciplinary frameworks that address issues of race, ethnicity, and immigration, schools viewed as sites where inequalities are produced and resisted. Review of history of exclusionary treatment and divergent conceptual frames that educational researchers have used to understand notion of inequality, access to quality public education, and how race, ethnicity, and class affect school experiences for working-class and poor communities. Look inside schools through community service learning opportunity to examine systems, structures, and everyday practices that sustain and reproduce inequality and policies that intend to remedy educational inequalities in urban schools. Opportunity to investigate issues of working-class families and inequalities as they relate to students' own communities and experiences. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Working Families and Educational Inequalities in Urban Schools", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M144": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Chicana and Chicano Studies M144 and Gender Studies M144.) Lecture, four hours. Course on women's movements and feminism in Latin America and Caribbean to examine diverse social movements and locations from which women have launched political and gender struggles. Discussion of forms of feminism and women's consciousness that have emerged out of indigenous rights movements, environmental struggles, labor movements, Christian-based communities, peasant and rural organizing, and new social movements that are concerned with race, sexuality, feminism, and human rights. Through comparative study of women's movements in diversity of political systems as well as national and transnational arenas, students gain understanding of historical contexts and political conditions that give rise to women's resistance, as well as major debates in field of study. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Women's Movement in Latin America", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M149": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Communication M149 and Gender Studies M149.) Lecture, four hours; activity, one hour. Limited to junior/senior Communication Studies and Gender Studies majors and Labor and Workplace Studies minors. Examination of manner in which media culture induces people to perceive various dominant and dominated and/or colonized groups of people. Ways in which women, gay, lesbian, bisexual, transgendered, racial, and ethnic marginalized peoples, class relations, and other subaltern or subordinated groups are presented and often misrepresented in media. Investigation and employment of practical applications of communications and feminist theories for understanding ideological nature of stereotyping and politics of representation through use of media, guest presentations, lectures, class discussions, and readings. Introduction to theory and practice of cultural studies. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Media: Gender, Race, Class, and Sexuality", 
+        "unit": 5, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M165": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as African American Studies M165 and Sociology M165.) Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Exploration of relationship between race/ethnicity, employment, and U.S. labor movement. Analysis of underlying racial divisions in workforce and how they evolved historically. Consideration of circumstances under which workers and unions have excluded people of color from jobs and unions, as well as circumstances under which workers and unions have organized people of color into unions in efforts to improve their wages and working conditions. Impact of globalization on these dynamics. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Sociology of Race and Labor", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M166A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Asian American Studies M166A and Chicana and Chicano Studies M156A.) Lecture, three hours; discussion, one hour. New immigrant rights movement, with particular attention to labor and higher education. Overview of history of immigrant rights movement and examination of development of coalition efforts between labor movement and immigrant rights movement nationally and locally. Special focus on issue of immigrant students in higher education, challenges facing undocumented immigrant students, and legislative and policy issues that have emerged. Students conduct oral histories, family histories, research on immigration and immigrant rights, write poetry and spoken word about immigrant experience, and work to collectively develop student publication on immigrant students in higher education. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Immigrant Rights, Labor, and Higher Education", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M166B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Asian American Studies M166B and Chicana and Chicano Studies M156B.) Seminar, two hours. Requisite: course M166A. Expansion of research conducted by students in course M166A involving oral histories, research on immigration/labor/higher education, and evaluation of legislation and legal issues impacting undocumented students. Letter grading.", 
+        "prerequisiteDescription": "course M166A", 
+        "prerequisites": [
+            [
+                "LBR&WS M166A"
+            ]
+        ], 
+        "title": "Research on Immigration Rights, Labor, and Higher Education", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M166C": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Asian American Studies M166C and Chicana and Chicano Studies M156C.) Seminar, three hours. Enforced requisites: courses M166A, M166B. Expansion of research conducted by students in courses M166A and M166B involving oral histories, research on immigration/labor/higher education, and evaluation of legislation and legal issues impacting undocumented students. Designed around class project, where students work on showcasing all material collected throughout year. Letter grading.", 
+        "prerequisiteDescription": "courses M166A, M166B", 
+        "prerequisites": [], 
+        "title": "Research on Immigrant Students and Higher Education", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M167": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as African American Studies M167, Asian American Studies M163, and Chicana and Chicano Studies M130.) Seminar, three hours. Development of theoretical and practical understanding of worker center movement, with focus on historical factors that have led to emergence and growth of worker centers. Role of worker centers in promoting multiethnic and multiracial campaigns for workplace and economic justice. Transnational cross-border solidarity issues and rights of undocumented workers. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Worker Center Movement: Next Wave Organizing for Justice for Immigrant Workers", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M170": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Community Health Sciences CM170.) Lecture, three hours; fieldwork, two hours. Examination of intersection between work, health, and environment, analysis of social causes of health disparities, investigation of historical trends and social movements, interpretation of current policy debates, and development of innovative interventions. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Improving Worker Health: Social Movements, Policy Debates, and Public Health", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M171": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Urban Planning CM172.) Lecture, three hours. Exploration of economic development and identification of ways that labor and labor unions directly and indirectly influence and shape economic development. Wide range of roles that labor plays, and could play, in promoting and supporting economic development for all. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Labor and Economic Development", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M172": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Communication M172.) Lecture, three hours. Focus on concept of freedom of expression in workplace and how First Amendment, case law, and federal and state statutes affect one's ability to speak at work. Conflict between discrimination law and ability to speak freely at work as well as meaning and limits of academic freedom. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Free Speech in Workplace", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M173": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as African American Studies M173 and Chicana and Chicano Studies M173.) Lecture, three hours; discussion, one hour. Overview of nonviolence and its impact on social movements both historically and in its present context in contemporary society, featuring lectures, conversations, films, readings, and guest speakers. Exploration of some historic contributions of civil rights struggles and role of nonviolent action throughout recent U.S. history. Examination of particular lessons of nonviolent movements as they impact social change organizing in Los Angeles. P/NP or letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Nonviolence and Social Movements", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M175": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Communication M165.) Lecture, four hours; discussion, one hour (when scheduled). Theory of agitation; agitation as force for change in existing institutions and policies in democratic society. Intensive study of selected agitational movements and technique and content of their communications. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Agitational Communication", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M176": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Communication M176.) Lecture, four hours. Visual communication reaches diverse audiences in communicating major social and political topics. Cartoons, posters, murals, and documentary photography have had powerful world impact. Survey of all four genres of visual communications as features of modern mass media. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Visual Communication and Social Advocacy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M180": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Urban Planning CM137.) Lecture, three hours. Introduction to regional economy, with emphasis on Los Angeles. Key economic sectors, labor market composition, and review of conflicting portrayals depicting dynamics of region. Two all-day bus tours of key economic regions and guest lectures by regional experts included. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Southern California Regional Economy", 
+        "unit": 4, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M1A": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Clusters M24A.) Lecture, three hours; discussion, two hours. Course M1A is enforced requisite to M1B, which is enforced requisite to M1CW. Limited to first-year freshmen. Exploration of ways in which work has been transformed over last century, impact of this transformation on working people, and role of labor movement as force for social justice. Letter grading.", 
+        "prerequisiteDescription": null, 
+        "prerequisites": [], 
+        "title": "Work, Labor, and Social Justice in U.S.", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M1B": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Clusters M24B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M1A. Limited to first-year freshmen. Exploration of ways in which work has been transformed over last century, impact of this transformation on working people, and role of labor movement as force for social justice. Letter grading.", 
+        "prerequisiteDescription": "course M1A", 
+        "prerequisites": [
+            [
+                "LBR&WS M1A"
+            ]
+        ], 
+        "title": "Work, Labor, and Social Justice in U.S.", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }, 
+    "LBR&WS M1CW": {
+        "corequisiteDescription": null, 
+        "corequisites": [], 
+        "departmentAbbreviation": "LBR&WS", 
+        "departmentFullName": "Labor and Workplace Studies", 
+        "description": "(Same as Clusters M24CW.) Seminar, three hours. Enforced requisite: course M1B. Limited to first-year freshmen. Topics include labor law/history, gender, race, and workplace. Satisfies Writing II requirement. Letter grading.", 
+        "prerequisiteDescription": "course M1B", 
+        "prerequisites": [
+            [
+                "LBR&WS M1B"
+            ]
+        ], 
+        "title": "Work, Labor, and Social Justice in U.S.: Special Topics", 
+        "unit": 6, 
+        "unitType": "ABSOLUTE"
+    }
+}
