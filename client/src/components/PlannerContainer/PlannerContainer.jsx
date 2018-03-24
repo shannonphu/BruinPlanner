@@ -8,7 +8,7 @@ class PlannerContainer extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            major: "computer science",
+            major: props.match.params.major,
             courses: [],
             columns: getGridColumns()
         };

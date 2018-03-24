@@ -1,0 +1,20 @@
+.LandingContainer {
+    height: 100vh;
+}
+
+.searchbox {
+    padding: 20px;
+}
+
+.icon {
+  position: absolute;
+  top: 18px;
+  font-size: 28px;
+}
+
+.question {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 32px;
+    padding: 10px;
+}
