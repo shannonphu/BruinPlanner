@@ -70,28 +70,26 @@ class MajorTypeahead extends Component {
             onChange: this.onChange
         };
 
-        return (               
+        return (
             <Row type="flex" justify="center" className="typeahead-row">
-                <Col xs={6}>
+                <Col sm={12} md={6}>
                     <p className="question">What is your major?</p>
-                    {/* <Row type="flex" justify="space-around" align="middle" className="carousel-row"> */}
-                        {/* <Col xs={24}> */}
-                        <MajorCarousel />
-                        {/* </Col> */}
-                    {/* </Row> */}
+                    <MajorCarousel />
                 </Col>
-                <Col xs={18}>
-                    <Col xs={1}><Icon type="search" className="icon" /></Col>
-                    <Col xs={23}>
-                    <Autosuggest
-                        suggestions={suggestions}
-                        onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
-                        onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-                        renderSuggestion={renderSuggestion}
-                        getSuggestionValue={getSuggestionValue}
-                        inputProps={inputProps}
-                    />
-                    </Col>
+                <Col sm={12} md={18}>
+                    <Row className="searchbox">
+                        <Col xs={3} sm={2} lg={1}><Icon type="search" className="icon" /></Col>
+                        <Col xs={21} sm={22} lg={23}>
+                            <Autosuggest
+                                suggestions={suggestions}
+                                onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+                                onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+                                renderSuggestion={renderSuggestion}
+                                getSuggestionValue={getSuggestionValue}
+                                inputProps={inputProps}
+                            />
+                        </Col>
+                    </Row>
                 </Col>
             </Row>
         );

@@ -8,13 +8,13 @@ class MajorCarousel extends Component {
     render() {
         const settings = {
             autoplay: true,
+            arrows: false,
             speed: 1000,
             autoplaySpeed: 1000,
             infinite: true,
             slidesToShow: 25,
             slidesToScroll: 1,
-            vertical: true,
-            verticalSwiping: true
+            vertical: true
         };
         return (
             <div className="MajorCarousel">

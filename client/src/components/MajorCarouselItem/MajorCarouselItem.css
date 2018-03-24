@@ -2,5 +2,5 @@
 @import "~slick-carousel/slick/slick-theme.css";
 
 .MajorCarouselItem {
-    text-align: center;
+    padding: 5px 0;
 }

@@ -2,6 +2,8 @@
 @import "~slick-carousel/slick/slick-theme.css";
 
 .MajorCarousel {
+    padding: 0 15px;
+    max-height: 75%;
     -webkit-mask-image: linear-gradient(
         to bottom,
         rgba(64, 64, 64, 0) 0%,
