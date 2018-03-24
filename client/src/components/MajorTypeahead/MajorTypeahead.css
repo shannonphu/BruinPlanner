@@ -44,24 +44,3 @@
 .react-autosuggest__suggestion--highlighted {
   background-color: #ddd;
 }
-
-.icon {
-  position: absolute;
-  top: 18px;
-  font-size: 28px;
-}
-
-.typeahead-row {
-    height: 100vh;
-}
-
-.typeahead-row .question {
-    text-align: center;
-    vertical-align: middle;
-    font-size: 32px;
-    padding: 10px;
-}
-
-.searchbox {
-    padding: 20px;
-}

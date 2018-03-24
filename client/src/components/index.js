@@ -1,6 +1,7 @@
 export { default as App } from './App';
 export { default as Nav } from './Nav/Nav';
 export { default as MajorTypeahead } from './MajorTypeahead/MajorTypeahead';
+export { default as LandingContainer } from './LandingContainer/LandingContainer';
 export { default as MajorCarousel } from './MajorCarousel/MajorCarousel';
 export { default as MajorCarouselItem } from './MajorCarouselItem/MajorCarouselItem';
 export { default as CourseRepository } from './CourseRepository/CourseRepository';

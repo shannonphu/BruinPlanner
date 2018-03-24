@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import Autosuggest from 'react-autosuggest';
-import { Row, Col, Icon } from 'antd';
-import { MajorCarousel } from '..';
 import MAJORS from './majors';
 import './MajorTypeahead.css';
 
@@ -71,27 +69,14 @@ class MajorTypeahead extends Component {
         };
 
         return (
-            <Row type="flex" justify="center" className="typeahead-row">
-                <Col sm={12} md={6}>
-                    <p className="question">What is your major?</p>
-                    <MajorCarousel />
-                </Col>
-                <Col sm={12} md={18}>
-                    <Row className="searchbox">
-                        <Col xs={3} sm={2} lg={1}><Icon type="search" className="icon" /></Col>
-                        <Col xs={21} sm={22} lg={23}>
-                            <Autosuggest
-                                suggestions={suggestions}
-                                onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
-                                onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-                                renderSuggestion={renderSuggestion}
-                                getSuggestionValue={getSuggestionValue}
-                                inputProps={inputProps}
-                            />
-                        </Col>
-                    </Row>
-                </Col>
-            </Row>
+            <Autosuggest
+                suggestions={suggestions}
+                onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+                onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+                renderSuggestion={renderSuggestion}
+                getSuggestionValue={getSuggestionValue}
+                inputProps={inputProps}
+            />
         );
     }
 }
