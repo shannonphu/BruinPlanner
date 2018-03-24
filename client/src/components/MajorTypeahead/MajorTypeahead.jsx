@@ -71,10 +71,14 @@ class MajorTypeahead extends Component {
         };
 
         return (               
-            <Row type="flex" justify="center" align="middle" className="typeahead-row">
+            <Row type="flex" justify="center" className="typeahead-row">
                 <Col xs={6}>
                     <p className="question">What is your major?</p>
-                    <MajorCarousel />
+                    {/* <Row type="flex" justify="space-around" align="middle" className="carousel-row"> */}
+                        {/* <Col xs={24}> */}
+                        <MajorCarousel />
+                        {/* </Col> */}
+                    {/* </Row> */}
                 </Col>
                 <Col xs={18}>
                     <Col xs={1}><Icon type="search" className="icon" /></Col>

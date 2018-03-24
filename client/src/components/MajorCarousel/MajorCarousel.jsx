@@ -1,16 +1,8 @@
 import React, { Component } from 'react';
 import Slider from 'react-slick';
+import { MajorCarouselItem } from '..';
 import './MajorCarousel.css';
 import MAJORS from '../MajorTypeahead/majors';
-
-class CustomSlide extends Component {
-    render() {
-        const { major, ...props } = this.props
-        return (
-            <div {...props}><h3>{major}</h3></div>
-        )
-    }
-}
 
 class MajorCarousel extends Component {
     render() {
@@ -19,7 +11,7 @@ class MajorCarousel extends Component {
             speed: 1000,
             autoplaySpeed: 1000,
             infinite: true,
-            slidesToShow: 14,
+            slidesToShow: 25,
             slidesToScroll: 1,
             vertical: true,
             verticalSwiping: true
@@ -27,7 +19,7 @@ class MajorCarousel extends Component {
         return (
             <div className="MajorCarousel">
                 <Slider {...settings}>
-                    {MAJORS.map((major, i) => <CustomSlide key={i} major={major} />)}
+                    {MAJORS.map((major, i) => <MajorCarouselItem key={i} major={major} />)}
                 </Slider>
             </div >
         );
