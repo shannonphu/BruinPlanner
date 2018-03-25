@@ -5,12 +5,10 @@ const { Header } = Layout;
 class Nav extends Component {
     render() {
         return (
-            <Header style={{ position: 'fixed', width: '100%', zIndex: 1 }}>
+            <Header style={{ position: 'fixed', width: '100%', zIndex: 1, backgroundColor: '#8EC9C2' }}>
                 <Menu
-                    theme="dark"
                     mode="horizontal"
-                    defaultSelectedKeys={['1']}
-                    style={{ lineHeight: '64px' }}
+                    style={{ lineHeight: '64px', backgroundColor: '#8EC9C2' }}
                 >
                     <Menu.Item key="1">BruinPlanner</Menu.Item>
                 </Menu>
