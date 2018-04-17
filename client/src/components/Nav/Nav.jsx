@@ -1,18 +1,15 @@
 import React, { Component } from 'react';
-import { Layout, Menu } from 'antd';
-const { Header } = Layout;
+import { Row, Col } from 'antd';
+import './Nav.css';
 
 class Nav extends Component {
     render() {
         return (
-            <Header style={{ position: 'fixed', width: '100%', zIndex: 1, backgroundColor: '#8EC9C2' }}>
-                <Menu
-                    mode="horizontal"
-                    style={{ lineHeight: '64px', backgroundColor: '#8EC9C2' }}
-                >
-                    <Menu.Item key="1">BruinPlanner</Menu.Item>
-                </Menu>
-            </Header>
+            <nav className="nav">
+                <Row>
+                    <a href="/"><Col span={3} offset={2} className="logo">BruinPlanner</Col></a>
+                </Row>
+            </nav>
         )
     }
 }

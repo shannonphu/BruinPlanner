@@ -1,0 +1,12 @@
+.nav {
+    background-color: #8EC9C2;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+.nav .logo {
+    font-size: 24px;
+    color: white;
+}
